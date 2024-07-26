@@ -1,0 +1,3192 @@
+[
+  {
+    "korean": "관리",
+    "english": "Maintenance",
+    "meta": "mgmt"
+  },
+  {
+    "korean": "운영",
+    "english": "Operation",
+    "meta": "op"
+  },
+  {
+    "korean": "실시간 조회",
+    "english": "Real-time inquiry",
+    "meta": "realTmInqry"
+  },
+  {
+    "korean": "보고서",
+    "english": "Report",
+    "meta": "rpt"
+  },
+  {
+    "korean": "결제지시보고서",
+    "english": "Settlement instruction report",
+    "meta": "sttlInstrctRpt"
+  },
+  {
+    "korean": "종료",
+    "english": "Exit",
+    "meta": "exit"
+  },
+  {
+    "korean": "통신망 및 전문번호 관리",
+    "english": "Network  msg no management",
+    "meta": "netTlgMgmt"
+  },
+  {
+    "korean": "로그 조회(CQE - KCG - KFTC)",
+    "english": "Log inquiry (CQE - KCG - KFTC)",
+    "meta": "logInqry"
+  },
+  {
+    "korean": "타행상태조회",
+    "english": "Other bank status inquiry",
+    "meta": "othrBnkStsInqry"
+  },
+  {
+    "korean": "회원정보 현황",
+    "english": "Membership status",
+    "meta": "mbrSts"
+  },
+  {
+    "korean": "실시간 회원정보 조회",
+    "english": "Real-time member info nquiry",
+    "meta": "realTmMbrInfoInqry"
+  },
+  {
+    "korean": "실시간 수취인/보증인정보 조회",
+    "english": "Real-time recipient/guarantor info inquiry",
+    "meta": "realTmRcpGuarInfoInqry"
+  },
+  {
+    "korean": "회원 거래 내역 조회",
+    "english": "Member transaction history inquiry",
+    "meta": "mbrTrHstInqry"
+  },
+  {
+    "korean": "전자어음 현황",
+    "english": "eNote status",
+    "meta": "entSts"
+  },
+  {
+    "korean": "전자어음 지급 현황",
+    "english": "Current eNote payment status",
+    "meta": "entPymntSts"
+  },
+  {
+    "korean": "전자어음 발행 수취 내역 조회",
+    "english": "eNote issue receive history inquiry",
+    "meta": "entIssuRcvHstInqry"
+  },
+  {
+    "korean": "전자어음 배서 수취 내역 조회",
+    "english": "eNote endorsement receive history inquiry",
+    "meta": "entEndrRcvHstInqry"
+  },
+  {
+    "korean": "전자어음 발행 보증 내역 조회",
+    "english": "eNote issue guarantee history inqjury",
+    "meta": "entIssuGuarHstInqry"
+  },
+  {
+    "korean": "전자어음 배서 보증 내역 조회",
+    "english": "eNote endorsement guarantee history inquiry",
+    "meta": "entEndrGuarHstInqry"
+  },
+  {
+    "korean": "전자어음 결제 지급 내역 조회",
+    "english": "eNote settlement payment history inquiry",
+    "meta": "entSttlPymntHstInqry"
+  },
+  {
+    "korean": "전자어음 수령거부 및 반환 내역 조회",
+    "english": "eNote reject/return history inquiry",
+    "meta": "entRjctRtnHstInqry"
+  },
+  {
+    "korean": "상환청구 및 부도어음 반환 내역 조회",
+    "english": "Recourse request and default return history inquiry",
+    "meta": "rcrsRqstDftlRtnHstInqry"
+  },
+  {
+    "korean": "소지인 변경 조회",
+    "english": "Recipient change inquiry",
+    "meta": "rcpntChgInqry"
+  },
+  {
+    "korean": "사고신고(파일)",
+    "english": "Accident report(file)",
+    "meta": "acdntRpt"
+  },
+  {
+    "korean": "지급제시대행요청",
+    "english": "Payment instruction request",
+    "meta": "pymntInstrctRqst"
+  },
+  {
+    "korean": "조회",
+    "english": "Inquiry",
+    "meta": "inqry"
+  },
+  {
+    "korean": "등록",
+    "english": "Registration",
+    "meta": "reg"
+  },
+  {
+    "korean": "검증",
+    "english": "Authorization",
+    "meta": "authrz"
+  },
+  {
+    "korean": "발행인별 발행정보 조회",
+    "english": "Issue inquiry per issuer",
+    "meta": "issuInqryPerIssur"
+  },
+  {
+    "korean": "발행-배서인별 발행보증내역 조회",
+    "english": "Issue guarantee inquiry per issue-endorser",
+    "meta": "issuGuarInqryPerIssurEndrsr"
+  },
+  {
+    "korean": "발행보증인별 발행보증내역 조회",
+    "english": "Issue guarantee inquiry per issue-guarantor",
+    "meta": "issuGuarInqryPerIssurGuartr"
+  },
+  {
+    "korean": "배서-배서보증인별 보증내역 조회",
+    "english": "Guarantee inquiry per endorser-endorse guarantor",
+    "meta": "guarInqryPerEndrsrGuartr"
+  },
+  {
+    "korean": "배서인별 배서내역 조회",
+    "english": "Endorsement Inquiry per endorser",
+    "meta": "endorseInqryPerEndrsr"
+  },
+  {
+    "korean": "발행인 신용조회",
+    "english": "Issuer credibility inquiry",
+    "meta": "issurCreditInqry"
+  },
+  {
+    "korean": "만기결제 전자어음 조회",
+    "english": "Matured settlement eNote inquiry",
+    "meta": "matSttlEntInq"
+  },
+  {
+    "korean": "부도 전자어음 조회",
+    "english": "Default eNote inquiry",
+    "meta": "dfltEntInqry"
+  },
+  {
+    "korean": "소지인 어음번호별 어음정보 조회",
+    "english": "eNote inquiry per recipient's eNote No",
+    "meta": "entInqryPerRecptEntNo"
+  },
+  {
+    "korean": "소지인별 어음정보 조회",
+    "english": "eNote inquiry per recipient",
+    "meta": "entInqryPerRecpt"
+  },
+  {
+    "korean": "반환관련 어음정보 조회",
+    "english": "eNote inquiry related to return",
+    "meta": "entInqryRltRtn"
+  },
+  {
+    "korean": "상환청구인별 상환청구정보 조회",
+    "english": "Recourse inquiry related to recourse claimant",
+    "meta": "rcrsInqryRltClmt"
+  },
+  {
+    "korean": "상환청구관련 어음정보 조회",
+    "english": "eNote info inquiry related to recourse",
+    "meta": "entInfoInqryRltRcrs"
+  },
+  {
+    "korean": "발행 후 분할기준 분할내역 조회",
+    "english": "Split history inquiry based on split after issue",
+    "meta": "spltHstInqryBaseSpltAftIssu"
+  },
+  {
+    "korean": "사고신고 조회",
+    "english": "Accident report inquiry",
+    "meta": "acdntRptInqry"
+  },
+  {
+    "korean": "전자어음 CQE 조회 내역",
+    "english": "eNote CQE inquiry history",
+    "meta": "entCqeInqryHst"
+  },
+  {
+    "korean": "사고신고",
+    "english": "Accident report",
+    "meta": "acdntRpt"
+  },
+  {
+    "korean": "사고신고여부",
+    "english": "Accident report (Y/N)",
+    "meta": "acdntRptYn"
+  },
+  {
+    "korean": "사고신고 조회",
+    "english": "Accident report Inquiry",
+    "meta": "acdntRptInqry"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account No",
+    "meta": "acctNo"
+  },
+  {
+    "korean": "주소",
+    "english": "Address",
+    "meta": "addr"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank",
+    "meta": "bnk"
+  },
+  {
+    "korean": "기본정보[A]",
+    "english": "Basic info [A]",
+    "meta": "basicInfoA"
+  },
+  {
+    "korean": "기본정보[B]",
+    "english": "Basic info [B]",
+    "meta": "basicInfoB"
+  },
+  {
+    "korean": "발행전후구분",
+    "english": "Before/after issue sort",
+    "meta": "bfAfIssuSort"
+  },
+  {
+    "korean": "업종코드",
+    "english": "BIZ code",
+    "meta": "bizCd"
+  },
+  {
+    "korean": "사업자(주민)번호",
+    "english": "BIZ(resident) No",
+    "meta": "bizResNo"
+  },
+  {
+    "korean": "변경사유",
+    "english": "Change reason",
+    "meta": "chgRsn"
+  },
+  {
+    "korean": "통신망",
+    "english": "Communications Network",
+    "meta": "commNet"
+  },
+  {
+    "korean": "기업규모",
+    "english": "Company size",
+    "meta": "corpSize"
+  },
+  {
+    "korean": "법인개인구분",
+    "english": "Corp/Indv Sort",
+    "meta": "corpIndvSort"
+  },
+  {
+    "korean": "법인개인구분",
+    "english": "Corp or personal Sort",
+    "meta": "corpPrsnlSort"
+  },
+  {
+    "korean": "법인명",
+    "english": "Corp name",
+    "meta": "corpNm"
+  },
+  {
+    "korean": "입금계좌번호",
+    "english": "Credit acct No",
+    "meta": "creditAcctNo"
+  },
+  {
+    "korean": "당좌계좌번호",
+    "english": "Current acct No",
+    "meta": "currAcctNo"
+  },
+  {
+    "korean": "당좌(입금)계좌번호",
+    "english": "Current(Credit)Account No",
+    "meta": "currCreditAcctNo"
+  },
+  {
+    "korean": "부도일",
+    "english": "Default date",
+    "meta": "dfltDt"
+  },
+  {
+    "korean": "부도 전자어음 조회",
+    "english": "Default eNoteInquiry",
+    "meta": "dfltEnoteInqry"
+  },
+  {
+    "korean": "피배서인(수취)정보",
+    "english": "Endorsee(Receiption) info",
+    "meta": "endrsrRcvInfo"
+  },
+  {
+    "korean": "피배서인명",
+    "english": "Endorsee name",
+    "meta": "endrsrNm"
+  },
+  {
+    "korean": "배서금액",
+    "english": "ENDT amount",
+    "meta": "endrNm"
+  },
+  {
+    "korean": "배서일",
+    "english": "ENDT date",
+    "meta": "endrDt"
+  },
+  {
+    "korean": "배서 배서번호",
+    "english": "Endorsement endorsement No",
+    "meta": "endrEndrNo"
+  },
+  {
+    "korean": "배서보증정보[B]",
+    "english": "ENDT guarantee info[B]",
+    "meta": "endrGrntInfo"
+  },
+  {
+    "korean": "배서보증",
+    "english": "Endorsement guarantee",
+    "meta": "endrGrnt"
+  },
+  {
+    "korean": "배서인별배서내역 조회",
+    "english": "Endorsement history Inquiry per Endorser",
+    "meta": "endrHstInqryPerEndrsr"
+  },
+  {
+    "korean": "배서정보",
+    "english": "ENDT info",
+    "meta": "endrInfo"
+  },
+  {
+    "korean": "배서(수취)정보",
+    "english": "ENDT(Receiption) info",
+    "meta": "endrRcvInfo"
+  },
+  {
+    "korean": "배서번호",
+    "english": "ENDT No",
+    "meta": "endrNbr"
+  },
+  {
+    "korean": "배서구분",
+    "english": "ENDT Sort",
+    "meta": "endrSort"
+  },
+  {
+    "korean": "배서 분할번호",
+    "english": "Endorsement split No",
+    "meta": "endrSpltNo"
+  },
+  {
+    "korean": "배서인명",
+    "english": "Endorser name",
+    "meta": "endrNm"
+  },
+  {
+    "korean": "배서인정보",
+    "english": "Endorser info",
+    "meta": "endrsrInfo"
+  },
+  {
+    "korean": "전자어음금액",
+    "english": "eNote amount",
+    "meta": "entAmt"
+  },
+  {
+    "korean": "전자어음 현황",
+    "english": "eNote current status",
+    "meta": "entCurrSts"
+  },
+  {
+    "korean": "어음정보",
+    "english": "eNote info",
+    "meta": "entInfo"
+  },
+  {
+    "korean": "전자어음 발행 수취 내역 조회",
+    "english": "eNote issue bene history inquiry",
+    "meta": "entIssuBeneHstInqry"
+  },
+  {
+    "korean": "전자어음발행일자",
+    "english": "eNote issue date",
+    "meta": "entIssuDt"
+  },
+  {
+    "korean": "전자어음 발행 보증 내역 조회",
+    "english": "eNote issue guarantee history inquiry",
+    "meta": "enotIssuGrntHstInqry"
+  },
+  {
+    "korean": "전자어음만기일자",
+    "english": "eNote matured date",
+    "meta": "entMatDt"
+  },
+  {
+    "korean": "전자어음번호",
+    "english": "eNote No",
+    "meta": "entNo"
+  },
+  {
+    "korean": "전자어음상태",
+    "english": "eNote status",
+    "meta": "entSts"
+  },
+  {
+    "korean": "최종거래일",
+    "english": "Final trax date",
+    "meta": "finalTrDt"
+  },
+  {
+    "korean": "배서-배서보증인별 보증내역 조회",
+    "english": "Guarantee history inquiry per endorse-endorse guarantor",
+    "meta": "grntHstInqryPerEndrGrntr"
+  },
+  {
+    "korean": "보증정보",
+    "english": "Guarantee info",
+    "meta": "grntInfo"
+  },
+  {
+    "korean": "보증번호",
+    "english": "Guarantee No",
+    "meta": "grntNbr"
+  },
+  {
+    "korean": "보증처리일자",
+    "english": "Guarantee process date",
+    "meta": "grntPrcsDt"
+  },
+  {
+    "korean": "보증처리참가구분",
+    "english": "Guarantee participate sort",
+    "meta": "grntPtcpSort"
+  },
+  {
+    "korean": "보증처리구분",
+    "english": "Guarantee Process sort",
+    "meta": "grntPrcsSort"
+  },
+  {
+    "korean": "보증처리분",
+    "english": "Guarantee process",
+    "meta": "grntPrcs"
+  },
+  {
+    "korean": "보증요청일",
+    "english": "Guarantee request date",
+    "meta": "grntRqstDt"
+  },
+  {
+    "korean": "보증상태",
+    "english": "Guarantee Status",
+    "meta": "grntSts"
+  },
+  {
+    "korean": "보증인정보",
+    "english": "Guarantor info",
+    "meta": "grntrInfo"
+  },
+  {
+    "korean": "보증인명",
+    "english": "Guarantor name",
+    "meta": "grntrNm"
+  },
+  {
+    "korean": "보증인",
+    "english": "Guarantor",
+    "meta": "grntr"
+  },
+  {
+    "korean": "보증인은행",
+    "english": "Guarantor bank",
+    "meta": "grntrBnk"
+  },
+  {
+    "korean": "호스트번호",
+    "english": "HOST No",
+    "meta": "hostNo"
+  },
+  {
+    "korean": "개인법인구분",
+    "english": "Individual Corporate sort",
+    "meta": "indiCorpSort"
+  },
+  {
+    "korean": "조회일",
+    "english": "Inquiry date",
+    "meta": "inqryDt"
+  },
+  {
+    "korean": "조회기간",
+    "english": "Inquiry period",
+    "meta": "inqryPriod"
+  },
+  {
+    "korean": "발행보증정보",
+    "english": "배서보증정보[D]",
+    "meta": "issue guarantee info"
+  },
+  {
+    "korean": "발행보증정보[A]",
+    "english": "Issue guarantee info[A]",
+    "meta": "issuGrntInfoA"
+  },
+  {
+    "korean": "발행보증정보[B]",
+    "english": "Issue guarantee info[B]",
+    "meta": "issuGrntInfoB"
+  },
+  {
+    "korean": "발행보증정보[C]",
+    "english": "Issue guarantee info[C]",
+    "meta": "issuGrntInfoC"
+  },
+  {
+    "korean": "발행보증정보[D]_만기전지급제시일자",
+    "english": "Issue guarantee info[D]_Matured Before Payment Date",
+    "meta": "issuGrntInfoD"
+  },
+  {
+    "korean": "발행보증",
+    "english": "Issue guarantee",
+    "meta": "issuGrnt"
+  },
+  {
+    "korean": "발행인별 발행정보 조회",
+    "english": "Issue info Inquiry per issuer",
+    "meta": "issuInfoInqryPerIssur"
+  },
+  {
+    "korean": "발행정보",
+    "english": "Issue info",
+    "meta": "issuInfo"
+  },
+  {
+    "korean": "발행인 신용조회",
+    "english": "Issuer credibility inquiry",
+    "meta": "issurCreInq"
+  },
+  {
+    "korean": "발행인정보",
+    "english": "Issuer info",
+    "meta": "issurInfo"
+  },
+  {
+    "korean": "발행인명",
+    "english": "Issuer name",
+    "meta": "issurNm"
+  },
+  {
+    "korean": "발행인/배서인명",
+    "english": "Issuer/endorser name",
+    "meta": "issurEndrsrNm"
+  },
+  {
+    "korean": "만기일자",
+    "english": "Matured date",
+    "meta": "matDt"
+  },
+  {
+    "korean": "만기결제 전자어음 조회",
+    "english": "Matured settlement eNote inquiry",
+    "meta": "matSttlEnoteInqry"
+  },
+  {
+    "korean": "회원정보 조회",
+    "english": "Member info inquiry",
+    "meta": "mbrInfoInqry"
+  },
+  {
+    "korean": "회원구분",
+    "english": "Member sort",
+    "meta": "mbrSort"
+  },
+  {
+    "korean": "회원거래내역 조회",
+    "english": "Member trax history inquiry",
+    "meta": "mbrTrHstInq"
+  },
+  {
+    "korean": "전문번호",
+    "english": "Message No",
+    "meta": "msgNo"
+  },
+  {
+    "korean": "전문종별",
+    "english": "Message type",
+    "meta": "msgTp"
+  },
+  {
+    "korean": "핸드폰 번호",
+    "english": "Mobile",
+    "meta": "mobile"
+  },
+  {
+    "korean": "전문구분",
+    "english": "msg sort",
+    "meta": "msgSort"
+  },
+  {
+    "korean": "성명(대표자명)",
+    "english": "Name(REP)",
+    "meta": "repNm"
+  },
+  {
+    "korean": "의무인명",
+    "english": "Name of Person W/ repayment obligations",
+    "meta": "nmPrsnRepOblg"
+  },
+  {
+    "korean": "신소지인명",
+    "english": "New recipient name",
+    "meta": "newRecptNm"
+  },
+  {
+    "korean": "배서금지배서 여부",
+    "english": "Non-endorsable ENDT(Y/N)",
+    "meta": "nonEndrEndtYn"
+  },
+  {
+    "korean": "구소지인명",
+    "english": "Old recipient name",
+    "meta": "oldOwnedNm"
+  },
+  {
+    "korean": "원배서번호",
+    "english": "Original ENDT No",
+    "meta": "orgnEndrNo"
+  },
+  {
+    "korean": "원수취인정보",
+    "english": "Original Recipient info",
+    "meta": "orgnRecptInfo"
+  },
+  {
+    "korean": "원분할번호",
+    "english": "Original split No",
+    "meta": "orgnSpltNo"
+  },
+  {
+    "korean": "타행상태조회",
+    "english": "Other bank status inquiry",
+    "meta": "othrBnkStsInq"
+  },
+  {
+    "korean": "지급은행및지점코드",
+    "english": "Payment bank/branch code",
+    "meta": "pymntBnkBrnchCd"
+  },
+  {
+    "korean": "지급은행",
+    "english": "Payment bank",
+    "meta": "pymntBnk"
+  },
+  {
+    "korean": "의무인계좌번호",
+    "english": "Person W/ repayment obligations account No",
+    "meta": "prsnRepOblgAcctNo"
+  },
+  {
+    "korean": "의무인은행",
+    "english": "Person W/ repayment obligations bank",
+    "meta": "prsnRepOblgBnk"
+  },
+  {
+    "korean": "전화번호",
+    "english": "Phone No",
+    "meta": "phoneNo"
+  },
+  {
+    "korean": "처리구분",
+    "english": "Process sort",
+    "meta": "prcsSort"
+  },
+  {
+    "korean": "지시금지여부",
+    "english": "Prohibit instruction(Y/N)",
+    "meta": "prhbtInstrYn"
+  },
+  {
+    "korean": "만기전 지급제시 일자",
+    "english": "Matured Before Payment Date",
+    "meta": "batBfPymntDt"
+  },
+  {
+    "korean": "실시간 회원정보 조회",
+    "english": "Real-time Member infoInquiry",
+    "meta": "rtMbrInfoInqry"
+  },
+  {
+    "korean": "실시간 수취인/보증인정보 조회",
+    "english": "Real-time Recipient/Guarantor info Inquiry",
+    "meta": "rtRecptGrntrInfoInqry"
+  },
+  {
+    "korean": "소지인 변경 조회",
+    "english": "Recipient change Inquiry",
+    "meta": "recptChgInqry"
+  },
+  {
+    "korean": "소지인명",
+    "english": "Recipient name",
+    "meta": "recptNm"
+  },
+  {
+    "korean": "최종소지인",
+    "english": "Final recipient",
+    "meta": "fianlRecpt"
+  },
+  {
+    "korean": "수취인",
+    "english": "Recipient",
+    "meta": "recpt"
+  },
+  {
+    "korean": "청구인계좌번호",
+    "english": "Recourse claimant account No",
+    "meta": "rcrsClmtAcctNo"
+  },
+  {
+    "korean": "청구인은행",
+    "english": "Recourse claimant bank",
+    "meta": "rcrsClmtBnk"
+  },
+  {
+    "korean": "청구인명",
+    "english": "Recourse claimant name",
+    "meta": "rcrsClmtNm"
+  },
+  {
+    "korean": "상환청구인분할번호",
+    "english": "Recourse claimantsplit No",
+    "meta": "rcrsClmtSpltNo"
+  },
+  {
+    "korean": "상환청구일",
+    "english": "Recourse date",
+    "meta": "rcrsDt"
+  },
+  {
+    "korean": "상환청구 내역 조회",
+    "english": "Recoursehistory Inquiry",
+    "meta": "rcrsHstInqry"
+  },
+  {
+    "korean": "상환청구인별 상환청구정보 조회",
+    "english": "Recourseinfo Inquiry per Recourse claimant",
+    "meta": "rcrsrInqryPerRcrsClmt"
+  },
+  {
+    "korean": "등록일",
+    "english": "Registered date",
+    "meta": "regDt"
+  },
+  {
+    "korean": "수령거부요청일",
+    "english": "Reject request date",
+    "meta": "rjctRqstDt"
+  },
+  {
+    "korean": "수령거부요청구분",
+    "english": "Reject request sort",
+    "meta": "rjctRqstSort"
+  },
+  {
+    "korean": "수령거부 구분",
+    "english": "Reject Sort",
+    "meta": "rjctSort"
+  },
+  {
+    "korean": "잔존 금액",
+    "english": "Remaining amount",
+    "meta": "rmndAmt"
+  },
+  {
+    "korean": "잔존 배서번호",
+    "english": "Remaining ENDT No",
+    "meta": "rmndEdnrNo"
+  },
+  {
+    "korean": "잔존처리구분",
+    "english": "Remaining Process sort",
+    "meta": "rmndPrcsSort"
+  },
+  {
+    "korean": "잔존 분할번호",
+    "english": "Remaining split No",
+    "meta": "rmndSpltNo"
+  },
+  {
+    "korean": "대표자명",
+    "english": "REP name",
+    "meta": "ceoNm"
+  },
+  {
+    "korean": "응답코드",
+    "english": "Response code",
+    "meta": "repsCd"
+  },
+  {
+    "korean": "검색조건구분",
+    "english": "Search conditions sort",
+    "meta": "srchCondSort"
+  },
+  {
+    "korean": "검색조건",
+    "english": "Search conditions",
+    "meta": "srchCond"
+  },
+  {
+    "korean": "검색결과",
+    "english": "Search results",
+    "meta": "srchRslt"
+  },
+  {
+    "korean": "결제일",
+    "english": "Settlement date",
+    "meta": "sttlDt"
+  },
+  {
+    "korean": "결제처리 구분",
+    "english": "Settlement process sort",
+    "meta": "sttlPrcsSort"
+  },
+  {
+    "korean": "정렬조건",
+    "english": "Sort conditions",
+    "meta": "sortCond"
+  },
+  {
+    "korean": "구분",
+    "english": "Sort",
+    "meta": "sort"
+  },
+  {
+    "korean": "발행 후 분할기준 분할내역 조회",
+    "english": "Split history Inquiry based on split after issue",
+    "meta": "issuAftSpltHstInqry"
+  },
+  {
+    "korean": "분할정보",
+    "english": "Split info",
+    "meta": "spltInfo"
+  },
+  {
+    "korean": "분할번호",
+    "english": "Split No",
+    "meta": "spltNo"
+  },
+  {
+    "korean": "상태",
+    "english": "Status",
+    "meta": "sts"
+  },
+  {
+    "korean": "거래일자",
+    "english": "Trax date",
+    "meta": "txDt"
+  },
+  {
+    "korean": "거래구분",
+    "english": "Trax sort",
+    "meta": "trSort"
+  },
+  {
+    "korean": "무담보배서 여부",
+    "english": "Unsecured ENDT(Y/N)",
+    "meta": "unsecurEndr"
+  },
+  {
+    "korean": "이용자구분",
+    "english": "User sort",
+    "meta": "usrSort"
+  },
+  {
+    "korean": "시스템장애통보",
+    "english": "System Failure Notice",
+    "meta": "sysFailNoti"
+  },
+  {
+    "korean": "시스템회복통보",
+    "english": "System Recovery Notice",
+    "meta": "sysRecovrNoti"
+  },
+  {
+    "korean": "시험연결",
+    "english": "Test Call",
+    "meta": "testCall"
+  },
+  {
+    "korean": "거래일",
+    "english": "Transaction Date",
+    "meta": "trDt"
+  },
+  {
+    "korean": "알람",
+    "english": "Timer",
+    "meta": "timer"
+  },
+  {
+    "korean": "최종타발전문번호",
+    "english": "Last Inbound Message Number",
+    "meta": "lstInbMsgNbr"
+  },
+  {
+    "korean": "최종당발전문번호",
+    "english": "Last Outbound Message Number",
+    "meta": "lstOutbMsgNbr"
+  },
+  {
+    "korean": "업무상태",
+    "english": "Business Status",
+    "meta": "bizSts"
+  },
+  {
+    "korean": "사유",
+    "english": "Reason",
+    "meta": "rsn"
+  },
+  {
+    "korean": "업무종료시각연장",
+    "english": "Businesst Ermination Time Extended",
+    "meta": "bizEndTmExtnd"
+  },
+  {
+    "korean": "연장사유",
+    "english": "Extension reason",
+    "meta": "extndRsn"
+  },
+  {
+    "korean": "KFTC전문번호",
+    "english": "KFTC Msg No",
+    "meta": "kftcTlgNo"
+  },
+  {
+    "korean": "최초수취인정보",
+    "english": "Initial recipient info",
+    "meta": "initRecptInfo"
+  },
+  {
+    "korean": "잔존 내역 정보",
+    "english": "Remaining history info",
+    "meta": "rmndHstInfo"
+  },
+  {
+    "korean": "수령 및 거부",
+    "english": "Reception and reject",
+    "meta": "recptAndRjct"
+  },
+  {
+    "korean": "배서 분할번호",
+    "english": "ENDT split No",
+    "meta": "endrSpltNbr"
+  },
+  {
+    "korean": "배서 배서번호",
+    "english": "ENDT ENDT No",
+    "meta": "endrEndrNbr"
+  },
+  {
+    "korean": "배서보증",
+    "english": "ENDT guarantee",
+    "meta": "endtGuar"
+  },
+  {
+    "korean": "지급제시번호",
+    "english": "Payment No",
+    "meta": "pymntNo"
+  },
+  {
+    "korean": "지급제시일자",
+    "english": "Payment date",
+    "meta": "pymntDt"
+  },
+  {
+    "korean": "발행일자",
+    "english": "Issue date",
+    "meta": "issuDt"
+  },
+  {
+    "korean": "금액",
+    "english": "Amount",
+    "meta": "amt"
+  },
+  {
+    "korean": "만기결제일시",
+    "english": "Matured settlement datetime",
+    "meta": "matSttlDt"
+  },
+  {
+    "korean": "부도사유",
+    "english": "Default reason",
+    "meta": "dfltRsn"
+  },
+  {
+    "korean": "사고신고서사유",
+    "english": "Accident report reason",
+    "meta": "acdntRptRsn"
+  },
+  {
+    "korean": "지급정지가처분",
+    "english": "Stop payment injunction",
+    "meta": "stopPymntInjct"
+  },
+  {
+    "korean": "별단예금입금",
+    "english": "Special deposit credit",
+    "meta": "spclDepoCredit"
+  },
+  {
+    "korean": "은행관리기업여부",
+    "english": "Company managed by bank(Y/N)",
+    "meta": "corpMgmtBnkYn"
+  },
+  {
+    "korean": "구조조정대상기업여부",
+    "english": "Restructuring target company(Y/N)",
+    "meta": "restrctTgtCorp"
+  },
+  {
+    "korean": "예금부족원인",
+    "english": "Deposit shortage reason",
+    "meta": "depoSrtRsn"
+  },
+  {
+    "korean": "거래고유번호",
+    "english": "Trax Unique No",
+    "meta": "txUniqNo"
+  },
+  {
+    "korean": "당타발구분",
+    "english": "In/Out bound sort",
+    "meta": "outinSort"
+  },
+  {
+    "korean": "전문추적번호",
+    "english": "msg tracking No",
+    "meta": "msgTrckNo"
+  },
+  {
+    "korean": "CQE 거래번호",
+    "english": "CQE trax No",
+    "meta": "cqeTrNo"
+  },
+  {
+    "korean": "당좌(입금)계좌번호",
+    "english": "Current(Credit) acct No",
+    "meta": "currCredAcctNbr"
+  },
+  {
+    "korean": "보고서명",
+    "english": "Report Name",
+    "meta": "rptNm"
+  },
+  {
+    "korean": "보고서 ID",
+    "english": "Report ID",
+    "meta": "rptId"
+  },
+  {
+    "korean": "자금결제내역",
+    "english": "Settlement Detail",
+    "meta": "sttlDtl"
+  },
+  {
+    "korean": "결제지시서",
+    "english": "Settlement Order",
+    "meta": "sttlOrder"
+  },
+  {
+    "korean": "차액결제 지시내역",
+    "english": "Net settlement payment instruction",
+    "meta": "netSttlPymntInstrct"
+  },
+  {
+    "korean": "소지인은행",
+    "english": "Recipient bank",
+    "meta": "recptBnk"
+  },
+  {
+    "korean": "배서인은행",
+    "english": "Endorser bank",
+    "meta": "endrsrBnk"
+  },
+  {
+    "korean": "피배서인은행",
+    "english": "Endorsee bank",
+    "meta": "endrseBnk"
+  },
+  {
+    "korean": "의무인은행",
+    "english": "Obligations bank",
+    "meta": "oblgBnk"
+  },
+  {
+    "korean": "청구인은행",
+    "english": "Claimant bank",
+    "meta": "clmtBnk"
+  },
+  {
+    "korean": "(배서)보증번호",
+    "english": "(ENDT)guarantee No",
+    "meta": "endrGrntNo"
+  },
+  {
+    "korean": "(발행)보증번호",
+    "english": "(Issue)guarantee No",
+    "meta": "issuGrntNo"
+  },
+  {
+    "korean": "사고신고 접수일시",
+    "english": "Accident report accept date/time",
+    "meta": "acdntRptAcptDt"
+  },
+  {
+    "korean": "사고신고 취소일시",
+    "english": "Accident report cancel date/time",
+    "meta": "acdntRptCnclDt"
+  },
+  {
+    "korean": "사고신고서 사유",
+    "english": "Accident report reason",
+    "meta": "clmRptRsn"
+  },
+  {
+    "korean": "사고신고여부",
+    "english": "Accident report(Y/N)",
+    "meta": "clmRptYn"
+  },
+  {
+    "korean": "주소",
+    "english": "Address",
+    "meta": "address"
+  },
+  {
+    "korean": "금액",
+    "english": "Amount",
+    "meta": "money"
+  },
+  {
+    "korean": "승인일시",
+    "english": "Approve datetime",
+    "meta": "aprvDt"
+  },
+  {
+    "korean": "승인자",
+    "english": "Approver",
+    "meta": "aprvr"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank",
+    "meta": "bank"
+  },
+  {
+    "korean": "은행코드",
+    "english": "Bank code",
+    "meta": "bankCd"
+  },
+  {
+    "korean": "은행명",
+    "english": "Bank name",
+    "meta": "bankNm"
+  },
+  {
+    "korean": "발행전/후구분",
+    "english": "Before/after issue sort",
+    "meta": "bfAfIssuDvsn"
+  },
+  {
+    "korean": "수취인 계좌번호",
+    "english": "Bene acct No",
+    "meta": "beneAcctNo"
+  },
+  {
+    "korean": "수취인 주소",
+    "english": "Bene address",
+    "meta": "beneAddr"
+  },
+  {
+    "korean": "수취인 은행",
+    "english": "Bene bank",
+    "meta": "beneBnk"
+  },
+  {
+    "korean": "수취인 은행코드",
+    "english": "Bene bank code",
+    "meta": "beneBnkCd"
+  },
+  {
+    "korean": "수취인 사업자(주민)번호",
+    "english": "Bene BIZ(resident)No",
+    "meta": "beneBizResNo"
+  },
+  {
+    "korean": "수취인 법인명",
+    "english": "Bene Corp name",
+    "meta": "beneCorpNm"
+  },
+  {
+    "korean": "수취인 법인개인구분",
+    "english": "Bene Corp/ Indv Sort",
+    "meta": "beneCorpIndvSort"
+  },
+  {
+    "korean": "수취인 입금계좌번호",
+    "english": "Bene credit acct No",
+    "meta": "beneCreditAcctNo"
+  },
+  {
+    "korean": "수취인 성명(대표자명)",
+    "english": "Bene name(REP)",
+    "meta": "beneNm"
+  },
+  {
+    "korean": "수취/피배서인 주소",
+    "english": "Bene/Endorsee address",
+    "meta": "beneEndrseAddr"
+  },
+  {
+    "korean": "수취/피배서인 사업자(주민)번호",
+    "english": "Bene/Endorsee BIZ(resident)No",
+    "meta": "beneEndrseBizResNo"
+  },
+  {
+    "korean": "수취/피배서인 법인명",
+    "english": "Bene/Endorsee Corp name",
+    "meta": "beneEndrseCorpNm"
+  },
+  {
+    "korean": "수취/피배서인 법인개인구분",
+    "english": "Bene/Endorsee Corp/ Indv Sort",
+    "meta": "beneEndrseCorpIndvSort"
+  },
+  {
+    "korean": "수취/피배서인 입금계좌번호",
+    "english": "Bene/Endorsee credit acct No",
+    "meta": "beneEndrseCreditAcctNo"
+  },
+  {
+    "korean": "수취/피배서인 입금은행",
+    "english": "Bene/Endorsee Credit bank",
+    "meta": "beneEndrseCreditBnk"
+  },
+  {
+    "korean": "수취/피배서인 성명(대표자명)",
+    "english": "Bene/Endorsee name(REP)",
+    "meta": "beneEndrseNm"
+  },
+  {
+    "korean": "업종코드",
+    "english": "BIZ code",
+    "meta": "bizCd"
+  },
+  {
+    "korean": "업무구분",
+    "english": "BIZ Sort",
+    "meta": "bizSort"
+  },
+  {
+    "korean": "업종",
+    "english": "BIZ type",
+    "meta": "bizTp"
+  },
+  {
+    "korean": "사업자(주민)번호",
+    "english": "BIZ(resident) No",
+    "meta": "bizResNbr"
+  },
+  {
+    "korean": "사업자(주민)등록번호",
+    "english": "BIZ(resident) registration No",
+    "meta": "bizRgstrNo"
+  },
+  {
+    "korean": "조회기간 기준 구분",
+    "english": "By inquiry period sort",
+    "meta": "inqryPriodSort"
+  },
+  {
+    "korean": "코드",
+    "english": "Code",
+    "meta": "cd"
+  },
+  {
+    "korean": "전문종별코드",
+    "english": "Code of msg Type",
+    "meta": "cdTlgTp"
+  },
+  {
+    "korean": "은행관리기업여부",
+    "english": "Company managed by bank(Y/N)",
+    "meta": "cmpnyMgmtBnkYn"
+  },
+  {
+    "korean": "기업규모",
+    "english": "Company size",
+    "meta": "cmpnySize"
+  },
+  {
+    "korean": "법인명",
+    "english": "Corp name",
+    "meta": "cmpnyNm"
+  },
+  {
+    "korean": "법인개인구분",
+    "english": "Corp/Indv sort",
+    "meta": "corpIndvDvsn"
+  },
+  {
+    "korean": "CQE 거래번호",
+    "english": "CQE trax No",
+    "meta": "cqeTxNo"
+  },
+  {
+    "korean": "입금계좌번호",
+    "english": "Credit acct No",
+    "meta": "creditAcctNbr"
+  },
+  {
+    "korean": "변경 후 입금 계좌번호",
+    "english": "Credit acct No after change",
+    "meta": "creditAcctNbrAfChg"
+  },
+  {
+    "korean": "입금(거절)일자",
+    "english": "Credit(reject)date",
+    "meta": "basTbFundAdjust"
+  },
+  {
+    "korean": "당좌계좌번호",
+    "english": "Current acct No",
+    "meta": "balSttlInfo"
+  },
+  {
+    "korean": "변경 후 당좌 계좌번호",
+    "english": "Current acct No after change",
+    "meta": "sttlOrder"
+  },
+  {
+    "korean": "현재건수",
+    "english": "Current Count",
+    "meta": "mnthStsTrSummryBnk"
+  },
+  {
+    "korean": "당좌거래 개시일",
+    "english": "Current trax start date",
+    "meta": "mnthStsRtnFund"
+  },
+  {
+    "korean": "당좌거래 개시(해지)일자",
+    "english": "Current trax start(terminate)date",
+    "meta": "mnthStsTotTr"
+  },
+  {
+    "korean": "당좌거래 정지일자",
+    "english": "Current trax stop date",
+    "meta": "respCdSts"
+  },
+  {
+    "korean": "당좌거래 정지여부",
+    "english": "Current trax stop(Y/N)",
+    "meta": "rqstrAcctNo"
+  },
+  {
+    "korean": "당좌거래 해지일자",
+    "english": "Current trax termination date",
+    "meta": "rqstrPhonNo"
+  },
+  {
+    "korean": "당좌거래 해지여부",
+    "english": "Current trax termination(Y/N)",
+    "meta": "recCnt"
+  },
+  {
+    "korean": "당좌(입금)계좌번호",
+    "english": "Current(Credit)acct No",
+    "meta": "seqNbr"
+  },
+  {
+    "korean": "전문전송일자",
+    "english": "Date msg sent",
+    "meta": "trInqry"
+  },
+  {
+    "korean": "전문전송일시",
+    "english": "Date/Time msg sent",
+    "meta": "hostNo"
+  },
+  {
+    "korean": "부도여부",
+    "english": "Default(Y/N)",
+    "meta": "sndRcvDt"
+  },
+  {
+    "korean": "부도입금 입금일시",
+    "english": "Default Credit Credit date/time",
+    "meta": "sndRcvTm"
+  },
+  {
+    "korean": "부도일자",
+    "english": "Default date",
+    "meta": "prcsSts"
+  },
+  {
+    "korean": "부도어음반환 여부(Y/N)",
+    "english": "Default eNote return(Y/N)",
+    "meta": "flow"
+  },
+  {
+    "korean": "부도어음반환지정일자",
+    "english": "Default eNote return designated date",
+    "meta": "svcTp"
+  },
+  {
+    "korean": "부도어음반환요청일자",
+    "english": "Default eNote return request date",
+    "meta": "lvbRespCd"
+  },
+  {
+    "korean": "부도사유",
+    "english": "Default reason",
+    "meta": "dftlRsn"
+  },
+  {
+    "korean": "부도사유변경 여부",
+    "english": "Default reason change(Y/N)",
+    "meta": "dfltRsnChgYn"
+  },
+  {
+    "korean": "부도사유코드",
+    "english": "Default reason code",
+    "meta": "dfltRsnCd"
+  },
+  {
+    "korean": "부도입금 입금은행",
+    "english": "DefaultCredit Credit bank",
+    "meta": "dfltCreditBnk"
+  },
+  {
+    "korean": "예금부족원인",
+    "english": "Deposit shortage reason",
+    "meta": "depstSrtRsn"
+  },
+  {
+    "korean": "청구인의 지정일자",
+    "english": "Designated date of Recourse claimant",
+    "meta": "designDtOfRcrsClmt"
+  },
+  {
+    "korean": "eMail",
+    "english": "eMail",
+    "meta": "email"
+  },
+  {
+    "korean": "피배서인 주소",
+    "english": "Endorsee address",
+    "meta": "endrAddr"
+  },
+  {
+    "korean": "피배서인 은행",
+    "english": "Endorsee bank",
+    "meta": "endrBnk"
+  },
+  {
+    "korean": "피배서인 은행코드",
+    "english": "Endorsee bank code",
+    "meta": "endrBnkCd"
+  },
+  {
+    "korean": "피배서인 사업자(주민)번호",
+    "english": "Endorsee BIZ(resident)No",
+    "meta": "endrBizResNo"
+  },
+  {
+    "korean": "피배서인 법인명",
+    "english": "Endorsee Corp name",
+    "meta": "endrCorpNm"
+  },
+  {
+    "korean": "피배서인 법인개인구분",
+    "english": "Endorsee Corp/Indv Sort",
+    "meta": "endrCorpIndvSort"
+  },
+  {
+    "korean": "피배서인 입금계좌번호",
+    "english": "Endorsee credit acct No",
+    "meta": "endrCreditAcctNo"
+  },
+  {
+    "korean": "피배서인 성명(대표자명)",
+    "english": "Endorsee name(REP)",
+    "meta": "endrNm"
+  },
+  {
+    "korean": "배서인 주소",
+    "english": "Endorser address",
+    "meta": "endrsrAddr"
+  },
+  {
+    "korean": "배서인 은행",
+    "english": "Endorser bank",
+    "meta": "endrsrBank"
+  },
+  {
+    "korean": "배서인 은행코드",
+    "english": "Endorser bank code",
+    "meta": "endrsrBankCd"
+  },
+  {
+    "korean": "배서인 사업자(주민)번호",
+    "english": "Endorser BIZ(resident)No",
+    "meta": "endrsrBizResNo"
+  },
+  {
+    "korean": "배서인 법인명",
+    "english": "Endorser Corp name",
+    "meta": "endrsrCorpNm"
+  },
+  {
+    "korean": "배서인 법인개인구분",
+    "english": "Endorser Corp/Indv Sort",
+    "meta": "endrsrCorpIndvSort"
+  },
+  {
+    "korean": "배서인 입금계좌번호",
+    "english": "Endorser credit acct No",
+    "meta": "endrsrCreditAcctNo"
+  },
+  {
+    "korean": "배서인 배서번호",
+    "english": "Endorser ENDT No",
+    "meta": "endrsrEndrNo"
+  },
+  {
+    "korean": "배서인 성명(대표자명)",
+    "english": "Endorser name(REP)",
+    "meta": "endrsrRepNm"
+  },
+  {
+    "korean": "배서인 상환청구 여부(Y/N)",
+    "english": "Endorser Recourse(Y/N)",
+    "meta": "endrsrRcrsYn"
+  },
+  {
+    "korean": "배서인 분할번호",
+    "english": "Endorser split No",
+    "meta": "endrsrSpltNo"
+  },
+  {
+    "korean": "배서 기한후배서 여부(Y/N)",
+    "english": "ENDT after due date ENDT(Y/N)",
+    "meta": "endrAfDueDtEndrYn"
+  },
+  {
+    "korean": "기한후배서여부 (Y/N)",
+    "english": "ENDT after due date(Y/N)",
+    "meta": "endrAfDueDtYn"
+  },
+  {
+    "korean": "배서금액",
+    "english": "ENDT amount",
+    "meta": "endrAmt_"
+  },
+  {
+    "korean": "배서 은행코드",
+    "english": "ENDT bank code",
+    "meta": "endrBankCd"
+  },
+  {
+    "korean": "배서 사업자(주민)번호",
+    "english": "ENDT BIZ(resident)No",
+    "meta": "endrCmpnyResNo"
+  },
+  {
+    "korean": "배서 법인명",
+    "english": "ENDT Corp name",
+    "meta": "endrCmpnyNm"
+  },
+  {
+    "korean": "배서 법인개인구분",
+    "english": "ENDT Corp/Indv Sort",
+    "meta": "endrCorpIndvDvsn"
+  },
+  {
+    "korean": "배서 입금계좌번호",
+    "english": "ENDT credit acct No",
+    "meta": "endrCreditAcctNbr"
+  },
+  {
+    "korean": "배서일자",
+    "english": "ENDT date",
+    "meta": "endrDt"
+  },
+  {
+    "korean": "배서 부도어음반환 여부(Y/N)",
+    "english": "ENDT default eNote return(Y/N)",
+    "meta": "endrDfltEntRtnYn"
+  },
+  {
+    "korean": "배서 보증 여부(Y/N)",
+    "english": "ENDT guarantee(Y/N)",
+    "meta": "endrGrntYn"
+  },
+  {
+    "korean": "배서보증인 주소",
+    "english": "ENDT guarantor address",
+    "meta": "endrGrntrAddr"
+  },
+  {
+    "korean": "배서보증인 은행코드",
+    "english": "ENDT guarantor bank code",
+    "meta": "endrGrntrBnkCd"
+  },
+  {
+    "korean": "배서보증인 사업자(주민)번호",
+    "english": "ENDT guarantor BIZ(resident)No",
+    "meta": "endrGrntrBizResNo"
+  },
+  {
+    "korean": "배서보증인 법인명",
+    "english": "ENDT guarantor Corp name",
+    "meta": "endrGrntrCorpNm"
+  },
+  {
+    "korean": "배서보증인 법인개인구분",
+    "english": "ENDT guarantor Corp/Indv Sort",
+    "meta": "endrGrntrCorpIndvSord"
+  },
+  {
+    "korean": "배서보증인 입금계좌번호",
+    "english": "ENDT guarantor credit acct No",
+    "meta": "endrGrntrCreditAcctNo"
+  },
+  {
+    "korean": "배서보증인 입금계좌번호",
+    "english": "ENDT guarantor credit AN",
+    "meta": "endrGrntrCreditAcctNbr"
+  },
+  {
+    "korean": "배서보증인 성명(대표자명)",
+    "english": "ENDT guarantor name(REP)",
+    "meta": "endrGrntrNm"
+  },
+  {
+    "korean": "배서보증인 상환청구 여부(Y/N)",
+    "english": "ENDT guarantor Recourse(Y/N)",
+    "meta": "endrGrntrRcrsYn"
+  },
+  {
+    "korean": "배서정보 주소",
+    "english": "ENDT info address",
+    "meta": "endrInfoAdd"
+  },
+  {
+    "korean": "배서정보 은행코드",
+    "english": "ENDT info bank code",
+    "meta": "endrInfoBnkCd"
+  },
+  {
+    "korean": "배서정보 사업자(주민)번호",
+    "english": "ENDT info BIZ(resident)No",
+    "meta": "endrInfoBizResNo"
+  },
+  {
+    "korean": "배서정보 법인명",
+    "english": "ENDT info Corp name",
+    "meta": "endrInfoCorpNm"
+  },
+  {
+    "korean": "배서정보 법인개인구분",
+    "english": "ENDT info Corp/Indv Sort",
+    "meta": "endrInfoCorpIndvSort"
+  },
+  {
+    "korean": "배서정보 입금계좌번호",
+    "english": "ENDT info credit acct No",
+    "meta": "endrInfoCreditAcctNo"
+  },
+  {
+    "korean": "배서정보 부도어음반환여부(Y/N)",
+    "english": "ENDT info default eNote return(Y/N)",
+    "meta": "endrInfoDfltEntRtnYn"
+  },
+  {
+    "korean": "배서정보 성명(대표자명)",
+    "english": "ENDT info name(REP)",
+    "meta": "endrInfoNm"
+  },
+  {
+    "korean": "배서정보 분할번호",
+    "english": "ENDT info split No",
+    "meta": "endrInfoSpltNo"
+  },
+  {
+    "korean": "배서 성명(대표자명)",
+    "english": "ENDT name(REP)",
+    "meta": "endrNm"
+  },
+  {
+    "korean": "배서번호",
+    "english": "ENDT No",
+    "meta": "endrNo"
+  },
+  {
+    "korean": "배서 배서금지배서 여부(Y/N)",
+    "english": "ENDT Non-endorsable ENDT(Y/N)",
+    "meta": "endrNonEndrYn"
+  },
+  {
+    "korean": "배서 상환청구 여부(Y/N)",
+    "english": "ENDT Recourse(Y/N)",
+    "meta": "endrRcrsYn"
+  },
+  {
+    "korean": "배서 상환청구일",
+    "english": "ENDT Recourse date",
+    "meta": "endrRcrsDt"
+  },
+  {
+    "korean": "배서구분",
+    "english": "ENDT Sort",
+    "meta": "endrDvsn"
+  },
+  {
+    "korean": "배서 분할번호",
+    "english": "ENDT split No",
+    "meta": "endrSpltNo"
+  },
+  {
+    "korean": "배서 무담보배서 여부(Y/N)",
+    "english": "ENDT unsecured ENDT(Y/N)",
+    "meta": "endrUnsecurEndrYn"
+  },
+  {
+    "korean": "전자어음 금액",
+    "english": "eNote amount",
+    "meta": "enoteAmt"
+  },
+  {
+    "korean": "전자어음 부도일자",
+    "english": "eNote default date",
+    "meta": "enoteDfltDt"
+  },
+  {
+    "korean": "전자어음 부도처리일자",
+    "english": "eNote default process date",
+    "meta": "enotePrcsDt"
+  },
+  {
+    "korean": "전자어음 부도사유",
+    "english": "eNote default reason",
+    "meta": "enoteDfltRsn"
+  },
+  {
+    "korean": "변경 후 전자어음 부도사유",
+    "english": "eNote default reason after change",
+    "meta": "enoteDfltRsnAfChg"
+  },
+  {
+    "korean": "변경 전 전자어음 부도사유",
+    "english": "eNote default reason before change",
+    "meta": "enoteDfltRsnBfChg"
+  },
+  {
+    "korean": "전자어음 최종결제일자",
+    "english": "eNote final settlement date",
+    "meta": "entFinalSttlDt"
+  },
+  {
+    "korean": "전자어음 최초부도처리일자",
+    "english": "eNote first default process date",
+    "meta": "entFrstDfltPrcsDt"
+  },
+  {
+    "korean": "전자어음 발행지",
+    "english": "eNote issue bank",
+    "meta": "entIssuBnk"
+  },
+  {
+    "korean": "전자어음 발행일자",
+    "english": "eNote issue date",
+    "meta": "entIssuDt"
+  },
+  {
+    "korean": "전자어음 만기일자",
+    "english": "eNote matured date",
+    "meta": "enoteMatDt"
+  },
+  {
+    "korean": "전자어음 만기 결제일시",
+    "english": "eNote matured Settlement date",
+    "meta": "enoteMatSttlDt"
+  },
+  {
+    "korean": "전자어음번호",
+    "english": "eNote No",
+    "meta": "enoteNo"
+  },
+  {
+    "korean": "전자어음 처리상태",
+    "english": "eNote process status",
+    "meta": "enotePrcSts"
+  },
+  {
+    "korean": "전자어음 종류",
+    "english": "eNote type",
+    "meta": "enoteTp"
+  },
+  {
+    "korean": "최종소지인 주소",
+    "english": "Final recipient address",
+    "meta": "finalRecptAddr"
+  },
+  {
+    "korean": "최종소지인 은행코드",
+    "english": "Final recipient bank code",
+    "meta": "finalRecptBnkCd"
+  },
+  {
+    "korean": "최종소지인 수취계좌번호",
+    "english": "Final recipient beneficiary acct No",
+    "meta": "finalRecptBeneAcctNo"
+  },
+  {
+    "korean": "최종소지인 사업자(주민)번호",
+    "english": "Final recipient BIZ(resident)No",
+    "meta": "finalRecptBizResNo"
+  },
+  {
+    "korean": "최종소지인 법인명",
+    "english": "Final recipient Corp name",
+    "meta": "finalRecptCorpNm"
+  },
+  {
+    "korean": "최종소지인 법인개인구분",
+    "english": "Final recipient Corp/Indv Sort",
+    "meta": "finalRecptCorpIndvSort"
+  },
+  {
+    "korean": "최종소지인 만기결제 금액",
+    "english": "Final recipient matured settlement amt",
+    "meta": "finalRecptMatSttlAmt"
+  },
+  {
+    "korean": "최종소지인 성명(대표자명)",
+    "english": "Final recipient name(REP)",
+    "meta": "finalRecptNm"
+  },
+  {
+    "korean": "흐름코드",
+    "english": "Flow code",
+    "meta": "flowCd"
+  },
+  {
+    "korean": "보증번호",
+    "english": "Guarantee No",
+    "meta": "grntNo"
+  },
+  {
+    "korean": "보증처리일자",
+    "english": "Guarantee process date",
+    "meta": "grntPrcsDt"
+  },
+  {
+    "korean": "보증처리참가구분",
+    "english": "Guarantee process participating sort",
+    "meta": "grntPrcsPart"
+  },
+  {
+    "korean": "보증처리구분",
+    "english": "Guarantee process sort",
+    "meta": "grntPrcsDvsn"
+  },
+  {
+    "korean": "보증요청일자",
+    "english": "Guarantee request date",
+    "meta": "grntRqstDate"
+  },
+  {
+    "korean": "보증구분",
+    "english": "Guarantee sort",
+    "meta": "grntSort"
+  },
+  {
+    "korean": "보증대상 배서번호",
+    "english": "Guarantee target ENDT No",
+    "meta": "grntTgtEndrNo"
+  },
+  {
+    "korean": "보증대상 분할번호",
+    "english": "Guarantee target split No",
+    "meta": "grntTgtSpltNo"
+  },
+  {
+    "korean": "보증인 주소",
+    "english": "Guarantor address",
+    "meta": "grntAddr"
+  },
+  {
+    "korean": "보증인 은행",
+    "english": "Guarantor bank",
+    "meta": "grntBnk"
+  },
+  {
+    "korean": "보증인 은행코드",
+    "english": "Guarantor bank code",
+    "meta": "grntBnkCd"
+  },
+  {
+    "korean": "보증인 수취은행",
+    "english": "Guarantor Beneficiary bank",
+    "meta": "grntBenefBnk"
+  },
+  {
+    "korean": "보증인 사업자(주민)번호",
+    "english": "Guarantor BIZ(resident)No",
+    "meta": "grntBizResNo"
+  },
+  {
+    "korean": "보증인 법인명",
+    "english": "Guarantor Corp name",
+    "meta": "grntCorpNm"
+  },
+  {
+    "korean": "보증인 법인개인구분",
+    "english": "Guarantor Corp/Indv Sort",
+    "meta": "grntCorpIndvDvsn"
+  },
+  {
+    "korean": "보증인 입금계좌번호",
+    "english": "Guarantor credit acct No",
+    "meta": "grntCreditAcctNo"
+  },
+  {
+    "korean": "보증인 성명(대표자명)",
+    "english": "Guarantor name(REP)",
+    "meta": "grntRepNm"
+  },
+  {
+    "korean": "HOST전문번호",
+    "english": "HOST msg No",
+    "meta": "hostTlgNo"
+  },
+  {
+    "korean": "호스트거래번호",
+    "english": "HOST trax No",
+    "meta": "hostTrNo"
+  },
+  {
+    "korean": "호스트타입",
+    "english": "HOST type",
+    "meta": "hostTp"
+  },
+  {
+    "korean": "당타발구분",
+    "english": "In/Out bound sort",
+    "meta": "inoutDvsn"
+  },
+  {
+    "korean": "조회 종료일",
+    "english": "Inquiry end date",
+    "meta": "inqryEndDt"
+  },
+  {
+    "korean": "조회 종료일(부도일)",
+    "english": "Inquiry end date(Default date)",
+    "meta": "inqryDfltEndDt"
+  },
+  {
+    "korean": "조회 종료일(배서일)",
+    "english": "Inquiry end date(ENDT date)",
+    "meta": "inqryEndtEndDt"
+  },
+  {
+    "korean": "조회 종료일(최종결제일)",
+    "english": "Inquiry end date(final Settlement date)",
+    "meta": "inqryLstSttlEndDt"
+  },
+  {
+    "korean": "조회 종료일(최종거래일)",
+    "english": "Inquiry end date(final trax date)",
+    "meta": "inqryLstTrEndDt"
+  },
+  {
+    "korean": "조회 종료일(보증요청일)",
+    "english": "Inquiry end date(guarantee request date)",
+    "meta": "inqryGrntRqstEndDt"
+  },
+  {
+    "korean": "조회 종료일(상환청구일)",
+    "english": "Inquiry end date(Recourse date)",
+    "meta": "inqryRcrsEndDt"
+  },
+  {
+    "korean": "조회 종료일(수령거부요청일",
+    "english": "상황청구일)",
+    "meta": "inquiry end date(reject request date"
+  },
+  {
+    "korean": "조회 전자어음 보증상태 구분",
+    "english": "Inquiry eNote guarantee status Sort",
+    "meta": "inqryEntGrntStsDvsn"
+  },
+  {
+    "korean": "조회 전자어음 상태 구분",
+    "english": "Inquiry eNote status Sort",
+    "meta": "inqryEntStsDvsn"
+  },
+  {
+    "korean": "조회내역 지정번호",
+    "english": "Inquiry history designation No",
+    "meta": "inqryHstDesignNo"
+  },
+  {
+    "korean": "조회 시작일",
+    "english": "Inquiry start date",
+    "meta": "inqryStaDt"
+  },
+  {
+    "korean": "조회 시작일(부도일)",
+    "english": "Inquiry start date(default date)",
+    "meta": "inqryDfltStaDt"
+  },
+  {
+    "korean": "조회 시작일(배서일)",
+    "english": "Inquiry start date(ENDT date)",
+    "meta": "inqryEndtStaDt"
+  },
+  {
+    "korean": "조회 시작일(최종거래일)",
+    "english": "Inquiry start date(final  trax date)",
+    "meta": "inqryLstTrStaDt"
+  },
+  {
+    "korean": "조회 시작일(최종결제일)",
+    "english": "Inquiry start date(final Settlement date)",
+    "meta": "inqryLstSttlStaDt"
+  },
+  {
+    "korean": "조회 시작일(보증요청일)",
+    "english": "Inquiry start date(guarantee request date)",
+    "meta": "inqryGrntRqstStaDt"
+  },
+  {
+    "korean": "조회 시작일(상환청구일)",
+    "english": "Inquiry start date(recourse date)",
+    "meta": "inqryRcrsStaDt"
+  },
+  {
+    "korean": "조회 시작일(수령거부요청일",
+    "english": "상황청구일)",
+    "meta": "inquiry start date(reject request date"
+  },
+  {
+    "korean": "발행 보증 여부(Y/N)",
+    "english": "Issue guarantee(Y/N)",
+    "meta": "issuGrntYn"
+  },
+  {
+    "korean": "발행 보증구분",
+    "english": "Issue guaranteeSort",
+    "meta": "issuGrntDvsn"
+  },
+  {
+    "korean": "발행보증인 주소",
+    "english": "Issue guarantor address",
+    "meta": "issuGrntrAddr"
+  },
+  {
+    "korean": "발행보증인 은행코드",
+    "english": "Issue guarantor bank code",
+    "meta": "issuGrntrBnkCd"
+  },
+  {
+    "korean": "발행보증인 사업자(주민)번호",
+    "english": "Issue guarantor BIZ(resident)No",
+    "meta": "issuGrntrBizResNo"
+  },
+  {
+    "korean": "발행보증인 법인명",
+    "english": "Issue guarantor Corp name",
+    "meta": "issuGrntrCorpNm"
+  },
+  {
+    "korean": "발행보증인 법인개인구분",
+    "english": "Issue guarantor Corp/Indv Sort",
+    "meta": "issuGrntrCorpIndvDvsn"
+  },
+  {
+    "korean": "발행보증인 입금계좌번호",
+    "english": "Issue guarantor credit acct No",
+    "meta": "issuGrntrCreditAcctNo"
+  },
+  {
+    "korean": "발행보증인 성명(대표자명)",
+    "english": "Issue guarantor name(REP)",
+    "meta": "issuGrntrRepNm"
+  },
+  {
+    "korean": "발행보증인 상환청구 여부(Y/N)",
+    "english": "Issue guarantor Recourse(Y/N)",
+    "meta": "issuGrntrRcrsYn"
+  },
+  {
+    "korean": "발행보증인 상환청구일",
+    "english": "Issue guarantor Recourse date",
+    "meta": "issuGrntrRcrsDt"
+  },
+  {
+    "korean": "발행보증인-법인·개인구분",
+    "english": "Issue guarantor-Corp/Indv sort",
+    "meta": "issuGrntrCorpIndvSort"
+  },
+  {
+    "korean": "발행 한도 금액",
+    "english": "Issue limit amount",
+    "meta": "issuLmtAmt"
+  },
+  {
+    "korean": "발행피보증인 사업자(주민)번호",
+    "english": "Issue Warrantee BIZ(resident)No",
+    "meta": "issuWarntBizResNo"
+  },
+  {
+    "korean": "발행피보증인 법인명",
+    "english": "Issue Warrantee Corp name",
+    "meta": "issuWarntCorpNm"
+  },
+  {
+    "korean": "발행피보증인 법인개인구분",
+    "english": "Issue Warrantee Corp/Indv Sort",
+    "meta": "issuWarntCorpIndvDvsn"
+  },
+  {
+    "korean": "발행/배서인 주소",
+    "english": "Issue/endorser address",
+    "meta": "issuEndrAddr"
+  },
+  {
+    "korean": "발행/배서인 사업자(주민)번호",
+    "english": "Issue/endorser BIZ(resident)No",
+    "meta": "issuEndrBizResNo"
+  },
+  {
+    "korean": "발행/배서인 법인명",
+    "english": "Issue/endorser Corp name",
+    "meta": "issuEndrCorpNm"
+  },
+  {
+    "korean": "발행/배서인 법인개인구분",
+    "english": "Issue/endorser Corp/Indv Sort",
+    "meta": "issuEndrCorpIndvDvsn"
+  },
+  {
+    "korean": "발행/배서인 입금계좌번호",
+    "english": "Issue/endorser credit acct No",
+    "meta": "issuEndrCreditAcctNo"
+  },
+  {
+    "korean": "발행/배서인 입금은행",
+    "english": "Issue/endorser credit bank",
+    "meta": "issuEndrCreditBnk"
+  },
+  {
+    "korean": "발행/배서인 성명(대표자명)",
+    "english": "Issue/endorser name(REP)",
+    "meta": "issuEndrRepNm"
+  },
+  {
+    "korean": "발행인 주소",
+    "english": "Issuer address",
+    "meta": "issurAddr"
+  },
+  {
+    "korean": "발행인 은행코드",
+    "english": "Issuer bank code",
+    "meta": "issurBnkCd"
+  },
+  {
+    "korean": "발행인 사업자(주민)번호",
+    "english": "Issuer BIZ(resident)No",
+    "meta": "issurBizResNo"
+  },
+  {
+    "korean": "발행인 법인명",
+    "english": "Issuer Corp name",
+    "meta": "issurCorpNm"
+  },
+  {
+    "korean": "발행인 법인개인구분",
+    "english": "Issuer Corp/Indv Sort",
+    "meta": "issurCorpIndvDvsn"
+  },
+  {
+    "korean": "발행인 당좌계좌번호",
+    "english": "Issuer Current acct No",
+    "meta": "issurCurrAcctNo"
+  },
+  {
+    "korean": "발행인 성명(대표자명)",
+    "english": "Issuer name(REP)",
+    "meta": "issurRepNm"
+  },
+  {
+    "korean": "발행인 상환청구 여부(Y/N)",
+    "english": "Issuer Recourse(Y/N)",
+    "meta": "issurRcrsYn"
+  },
+  {
+    "korean": "발행인 상환청구일",
+    "english": "Issuer Recourse date",
+    "meta": "issurRcrsDt"
+  },
+  {
+    "korean": "발행(보증)인 주소",
+    "english": "Issuer(guarantor) address",
+    "meta": "issurGrntrAddr"
+  },
+  {
+    "korean": "발행(보증)인 은행코드",
+    "english": "Issuer(guarantor) bank code",
+    "meta": "issurGrntrBnkCd"
+  },
+  {
+    "korean": "발행(보증)인 사업자(주민)번호",
+    "english": "Issuer(guarantor) BIZ(resident)No",
+    "meta": "issurGrntrBizResNo"
+  },
+  {
+    "korean": "발행(보증)인 법인명",
+    "english": "Issuer(guarantor) Corp name",
+    "meta": "issurGrntrCorpNm"
+  },
+  {
+    "korean": "발행(보증)인 법인개인구분",
+    "english": "Issuer(guarantor) Corp/Indv Sort",
+    "meta": "issurGrntrCorpIndvDvsn"
+  },
+  {
+    "korean": "발행(보증)인 당좌계좌번호",
+    "english": "Issuer(guarantor) current acct No",
+    "meta": "issurGrntrCurrAcctNo"
+  },
+  {
+    "korean": "발행(보증)인 성명(대표자명)",
+    "english": "Issuer(guarantor) name(REP)",
+    "meta": "issurGrntrRepNm"
+  },
+  {
+    "korean": "KFTC전문번호",
+    "english": "KFTC msg No",
+    "meta": "kftcMsgNo"
+  },
+  {
+    "korean": "관리기관통계코드",
+    "english": "KFTC statistics code",
+    "meta": "kftcStattcCd"
+  },
+  {
+    "korean": "관리기관통계코드명",
+    "english": "KFTC statistics code name",
+    "meta": "kftcStattcCdNm"
+  },
+  {
+    "korean": "Last Time",
+    "english": "Last time",
+    "meta": "lstTm"
+  },
+  {
+    "korean": "한도금액",
+    "english": "Limit amount",
+    "meta": "lmtAmt"
+  },
+  {
+    "korean": "회원구분",
+    "english": "Member sort",
+    "meta": "mbrDvsn"
+  },
+  {
+    "korean": "핸드폰번호",
+    "english": "Mobile",
+    "meta": "mobile"
+  },
+  {
+    "korean": "수정시각",
+    "english": "Modified time",
+    "meta": "mdfyTm"
+  },
+  {
+    "korean": "전문",
+    "english": "msg",
+    "meta": "msg"
+  },
+  {
+    "korean": "전문번호",
+    "english": "msg No",
+    "meta": "tlgNo"
+  },
+  {
+    "korean": "전문구분",
+    "english": "msg sort",
+    "meta": "tlgDvsn"
+  },
+  {
+    "korean": "전문추적번호",
+    "english": "msg tracking No",
+    "meta": "tlgTrckNo"
+  },
+  {
+    "korean": "성명(대표자명)",
+    "english": "Name(REP)",
+    "meta": "chiefNm"
+  },
+  {
+    "korean": "신소지인 주소",
+    "english": "New recipient address",
+    "meta": "newRecptAddr"
+  },
+  {
+    "korean": "신소지인 사업자(주민)번호",
+    "english": "New recipient BIZ(resident)No",
+    "meta": "newRecptBizResNo"
+  },
+  {
+    "korean": "신소지인 법인명",
+    "english": "New recipient Corp name",
+    "meta": "newRecptCorpNm"
+  },
+  {
+    "korean": "신소지인 법인개인구분",
+    "english": "New recipient Corp/Indv Sort",
+    "meta": "newRecptCorpIndvDvsn"
+  },
+  {
+    "korean": "신소지인 입금계좌번호",
+    "english": "New recipient credit acct No",
+    "meta": "newRecptCreditAcctNo"
+  },
+  {
+    "korean": "신소지인 성명(대표자명)",
+    "english": "New recipient name(REP)",
+    "meta": "newRecptRepNm"
+  },
+  {
+    "korean": "전문종별번호",
+    "english": "No of msg Type",
+    "meta": "tlgTpNo"
+  },
+  {
+    "korean": "배서금지배서 여부(Y/N)",
+    "english": "Non-endorsable ENDT(Y/N)",
+    "meta": "nonEndrYn"
+  },
+  {
+    "korean": "통지대상",
+    "english": "Notice target",
+    "meta": "notiTgt"
+  },
+  {
+    "korean": "구소지인 주소",
+    "english": "Old recipient address",
+    "meta": "oldRcpntAddr"
+  },
+  {
+    "korean": "구소지인 사업자(주민)번호",
+    "english": "Old recipient BRN",
+    "meta": "oldRcpntBizResNo"
+  },
+  {
+    "korean": "구소지인 법인명",
+    "english": "Old recipient Corp name",
+    "meta": "oldRcpntCorpNm"
+  },
+  {
+    "korean": "구소지인 법인개인구분",
+    "english": "Old recipient Corp/Indv Sort",
+    "meta": "oldRcpntCorpIndvDvsn"
+  },
+  {
+    "korean": "구소지인 입금계좌번호",
+    "english": "Old recipient credit acct No",
+    "meta": "oldRcpntCreditAcctNo"
+  },
+  {
+    "korean": "구소지인 배서번호",
+    "english": "Old recipient ENDT No",
+    "meta": "oldRcpntEndtNo"
+  },
+  {
+    "korean": "구소지인 성명(대표자명)",
+    "english": "Old recipient name(REP)",
+    "meta": "oldRcpntRepNm"
+  },
+  {
+    "korean": "구소지인 분할된 전자어음 금액",
+    "english": "Old recipient split eNote amount",
+    "meta": "oldRcpntSpltEntAmt"
+  },
+  {
+    "korean": "구소지인 분할번호",
+    "english": "Old recipient split No",
+    "meta": "oldRcpntSpltNo"
+  },
+  {
+    "korean": "원배서번호",
+    "english": "Original ENDT No",
+    "meta": "orgnEndtNo"
+  },
+  {
+    "korean": "원분할번호",
+    "english": "Original split No",
+    "meta": "orgnSpltNbr"
+  },
+  {
+    "korean": "상대방 주소",
+    "english": "Other party address",
+    "meta": "othrPartyAddr"
+  },
+  {
+    "korean": "상대은행",
+    "english": "Other party bank",
+    "meta": "othrPartyBnk"
+  },
+  {
+    "korean": "상대방 은행코드",
+    "english": "Other party bank code",
+    "meta": "othrPartyBnkCd"
+  },
+  {
+    "korean": "상대방 사업자(주민)번호",
+    "english": "Other party BIZ(resident)No",
+    "meta": "othrPartyBizResNo"
+  },
+  {
+    "korean": "상대방 법인명",
+    "english": "Other party Corp name",
+    "meta": "othrPartyCorpNm"
+  },
+  {
+    "korean": "상대방 법인개인구분",
+    "english": "Other party Corp/Indv Sort",
+    "meta": "othrPartyCorpIndvDvsn"
+  },
+  {
+    "korean": "상대방 입금계좌번호",
+    "english": "Other party credit acct No",
+    "meta": "othrPartyCreditAcctNo"
+  },
+  {
+    "korean": "상대방 성명(대표자명)",
+    "english": "Other party name(REP)",
+    "meta": "othrPartyRepNm"
+  },
+  {
+    "korean": "지급(등록의뢰)은행",
+    "english": "Payment (request for registration) bank",
+    "meta": "pymntRqstRegBnk"
+  },
+  {
+    "korean": "지급(등록의뢰)은행지점코드",
+    "english": "Payment (request for registration) bank branch code",
+    "meta": "pymntRqstRegBnkBrnchCd"
+  },
+  {
+    "korean": "지급은행",
+    "english": "Payment bank",
+    "meta": "pymntBnk"
+  },
+  {
+    "korean": "지급은행 및 지점코드",
+    "english": "Payment bank and branch code",
+    "meta": "pymntBnkAndBrnchCd"
+  },
+  {
+    "korean": "지급은행 지점코드",
+    "english": "Payment bank branch code",
+    "meta": "pymntBnkBrnchCode"
+  },
+  {
+    "korean": "지급은행 코드",
+    "english": "Payment bank code",
+    "meta": "pymntBnkCd"
+  },
+  {
+    "korean": "지급점포 교환소코드",
+    "english": "Payment clearing house code",
+    "meta": "pymntExCd"
+  },
+  {
+    "korean": "지급제시일자",
+    "english": "Payment date",
+    "meta": "pymntDt"
+  },
+  {
+    "korean": "지급제시번호",
+    "english": "Payment No",
+    "meta": "pymntNo"
+  },
+  {
+    "korean": "상환의무인 주소",
+    "english": "Person W/repayment obligations address",
+    "meta": "prsnWrpymntObligAddr"
+  },
+  {
+    "korean": "상환의무인 은행",
+    "english": "Person W/repayment obligations bank",
+    "meta": "prsnWrpymntObligBnk"
+  },
+  {
+    "korean": "상환의무인 은행코드",
+    "english": "Person W/repayment obligations bank code",
+    "meta": "prsnWrpymntObligBnkCd"
+  },
+  {
+    "korean": "상환의무인 사업자(주민)번호",
+    "english": "Person W/repayment obligations BIZ(resident)No",
+    "meta": "prsnWrpymntObligBizResNo"
+  },
+  {
+    "korean": "상환의무인 법인명",
+    "english": "Person W/repayment obligations Corp name",
+    "meta": "prsnWrpymntObligCorpNm"
+  },
+  {
+    "korean": "상환의무인 법인개인구분",
+    "english": "Person W/repayment obligations Corp/Indv sort",
+    "meta": "prsnWrpymntObligCorpIndvSort"
+  },
+  {
+    "korean": "상환의무인 입금계좌번호",
+    "english": "Person W/repayment obligations credit acct No",
+    "meta": "prsnWrpymntObligCrdtAcctNo"
+  },
+  {
+    "korean": "상환의무인 당좌(입금)계좌번호",
+    "english": "Person W/repayment obligations Current(Credit)AN",
+    "meta": "prsnWrpymntObligCurrAcctNo"
+  },
+  {
+    "korean": "상환의무인 배서번호",
+    "english": "Person W/repayment obligations ENDT No",
+    "meta": "prsnWrpymntObligEndtNo"
+  },
+  {
+    "korean": "상환의무인 성명(대표자명)",
+    "english": "Person W/repayment obligations name(REP)",
+    "meta": "prsnWrpymntObligRepNm"
+  },
+  {
+    "korean": "상환의무인 분할번호",
+    "english": "Person W/repayment obligations split No",
+    "meta": "prsnWrpymntObligSpltNo"
+  },
+  {
+    "korean": "전화번호",
+    "english": "Phone No",
+    "meta": "telNo"
+  },
+  {
+    "korean": "처리구분",
+    "english": "Process sort",
+    "meta": "prcsDvsn"
+  },
+  {
+    "korean": "지시금지 여부",
+    "english": "Prohibited instruction",
+    "meta": "prohbtInstrct"
+  },
+  {
+    "korean": "지시금지여부 (Y/N/P)",
+    "english": "Prohibited instruction(Y/N/P)",
+    "meta": "prohbtInstrctYn"
+  },
+  {
+    "korean": "소지인 주소",
+    "english": "Recipient address",
+    "meta": "rcpntAddr"
+  },
+  {
+    "korean": "소지인 은행",
+    "english": "Recipient bank",
+    "meta": "rcpntBnk"
+  },
+  {
+    "korean": "소지인 은행코드",
+    "english": "Recipient bank code",
+    "meta": "rcpntBnkCd"
+  },
+  {
+    "korean": "소지인 사업자(주민)번호",
+    "english": "Recipient BIZ (resident) No",
+    "meta": "rcpntBizResNo"
+  },
+  {
+    "korean": "소지인변경사유",
+    "english": "Recipient change reason",
+    "meta": "rcpntChgRsn"
+  },
+  {
+    "korean": "소지인변경신청은행",
+    "english": "Recipient change request bank",
+    "meta": "rcpntChgRqstBnk"
+  },
+  {
+    "korean": "소지인변경신청은행및지점코드",
+    "english": "Recipient change request bank/branch code",
+    "meta": "chgRqstDt"
+  },
+  {
+    "korean": "소지인변경요청일자",
+    "english": "Recipient change request date",
+    "meta": "rcpntRqstDt"
+  },
+  {
+    "korean": "소지인 법인명",
+    "english": "Recipient Corp name",
+    "meta": "rcpntCorpNm"
+  },
+  {
+    "korean": "소지인 법인개인구분",
+    "english": "Recipient Corp/Indv Sort",
+    "meta": "rcpntCorpIndvSord"
+  },
+  {
+    "korean": "소지인 입금계좌번호",
+    "english": "Recipient credit acct No",
+    "meta": "rcpntCrdtAcctNo"
+  },
+  {
+    "korean": "소지인 부도 금액",
+    "english": "Recipient default amount",
+    "meta": "rcpntDfltAmt"
+  },
+  {
+    "korean": "소지인 배서번호",
+    "english": "Recipient ENDT No",
+    "meta": "rcpntEndtNo"
+  },
+  {
+    "korean": "소지인 성명(대표자명)",
+    "english": "Recipient name (REP)",
+    "meta": "rcpntRepNm"
+  },
+  {
+    "korean": "소지인통지대상",
+    "english": "Recipient Notice target",
+    "meta": "rcpntNotiTgt"
+  },
+  {
+    "korean": "소지인 분할 전자어음 금액",
+    "english": "Recipient split eNote amount",
+    "meta": "rcpntSpltEntAmt"
+  },
+  {
+    "korean": "소지인 분할번호",
+    "english": "Recipient split No",
+    "meta": "rcpntSpltNo"
+  },
+  {
+    "korean": "상환청구 주소",
+    "english": "Recourse address",
+    "meta": "rcrsAddr"
+  },
+  {
+    "korean": "청구 금액",
+    "english": "Recourse amount",
+    "meta": "rcrsAmt"
+  },
+  {
+    "korean": "상환청구 은행코드",
+    "english": "Recourse bank code",
+    "meta": "rcrsBnkCd"
+  },
+  {
+    "korean": "상환청구 사업자(주민)번호",
+    "english": "Recourse BIZ(resident)No",
+    "meta": "rcrsBizResNo"
+  },
+  {
+    "korean": "상환청구인 주소",
+    "english": "Recourse claimant address",
+    "meta": "rcrsClaimAddr"
+  },
+  {
+    "korean": "상환청구인 은행",
+    "english": "Recourse claimant bank",
+    "meta": "rcrsClaimBnk"
+  },
+  {
+    "korean": "상환청구인 은행코드",
+    "english": "Recourse claimant bank code",
+    "meta": "rcrsClaimBnkCd"
+  },
+  {
+    "korean": "상환청구인 사업자(주민)번호",
+    "english": "Recourse claimant BIZ(resident)No",
+    "meta": "rcrsClaimBizResNo"
+  },
+  {
+    "korean": "상환청구인 법인명",
+    "english": "Recourse claimant Corp name",
+    "meta": "rcrsClaimCorpNm"
+  },
+  {
+    "korean": "상환청구인 법인개인구분",
+    "english": "Recourse claimant Corp/Indv Sort",
+    "meta": "rcrsClaimCorpIndvSort"
+  },
+  {
+    "korean": "상환청구인 입금계좌번호",
+    "english": "Recourse claimant credit acct No",
+    "meta": "rcrsClaimCrdtAcctNo"
+  },
+  {
+    "korean": "상환청구인 부도일자",
+    "english": "Recourse claimant default date",
+    "meta": "rcrsClaimDfltDt"
+  },
+  {
+    "korean": "상환청구인 부도사유코드",
+    "english": "Recourse claimant default reason code",
+    "meta": "rcrsClaimDfltRsnCd"
+  },
+  {
+    "korean": "상환청구인 배서번호",
+    "english": "Recourse claimant ENDT No",
+    "meta": "rcrsClaimEndtNo"
+  },
+  {
+    "korean": "상환청구인 성명(대표자명)",
+    "english": "Recourse claimant name(REP)",
+    "meta": "rcrsClaimRepNm"
+  },
+  {
+    "korean": "상환청구인 분할번호",
+    "english": "Recourse claimant split No",
+    "meta": "rcrsClaimSpltNo"
+  },
+  {
+    "korean": "상환청구 법인명",
+    "english": "Recourse Corp name",
+    "meta": "rcrsCorpNm"
+  },
+  {
+    "korean": "상환청구 법인개인구분",
+    "english": "Recourse Corp/Indv Sort",
+    "meta": "rcrsCorpIndvSort"
+  },
+  {
+    "korean": "상환청구 입금계좌번호",
+    "english": "Recourse credit acct No",
+    "meta": "rcrsCrdtAcctNo"
+  },
+  {
+    "korean": "상환청구일자",
+    "english": "Recourse date",
+    "meta": "rcrsDt"
+  },
+  {
+    "korean": "상환청구 부도일자",
+    "english": "Recourse default date",
+    "meta": "rcrsDfltDt"
+  },
+  {
+    "korean": "상환청구 부도사유코드",
+    "english": "Recourse default reason code",
+    "meta": "rcrsDfltRsnCd"
+  },
+  {
+    "korean": "상환청구 성명(대표자명)",
+    "english": "Recourse name(REP)",
+    "meta": "rcrsRepNm"
+  },
+  {
+    "korean": "등록일",
+    "english": "Registered date",
+    "meta": "regDate"
+  },
+  {
+    "korean": "등록일시",
+    "english": "Registered datetime",
+    "meta": "regDttm"
+  },
+  {
+    "korean": "등록자",
+    "english": "Registrant",
+    "meta": "registrant"
+  },
+  {
+    "korean": "등록시각",
+    "english": "Registration time",
+    "meta": "regTm"
+  },
+  {
+    "korean": "수령거부 및 반환 금액",
+    "english": "Reject and return amount",
+    "meta": "rjctRtnAmt"
+  },
+  {
+    "korean": "수령거부 요청일",
+    "english": "Reject request date",
+    "meta": "rjctRqstDt"
+  },
+  {
+    "korean": "수령거부 요청구분",
+    "english": "Reject request sort",
+    "meta": "rjctRqstDvsn"
+  },
+  {
+    "korean": "수령거부 구분",
+    "english": "Reject Sort",
+    "meta": "rjctDvsn"
+  },
+  {
+    "korean": "상환의무이행 확인일자",
+    "english": "Repayment obligations confirm date",
+    "meta": "rpymntObilgConfmDt"
+  },
+  {
+    "korean": "상환의무이행 등록일자",
+    "english": "Repayment obligations confirm registered date",
+    "meta": "rpymntObilgConfmRegDt"
+  },
+  {
+    "korean": "거래고유번호",
+    "english": "Trax Unique No",
+    "meta": "trUniqNo"
+  },
+  {
+    "korean": "요청인 주소",
+    "english": "Requestor address",
+    "meta": "rqstrAddr"
+  },
+  {
+    "korean": "요청인 은행코드",
+    "english": "Requestor bank code",
+    "meta": "rqstrBnkCd"
+  },
+  {
+    "korean": "요청인 사업자(주민)번호",
+    "english": "Requestor BIZ(resident)No",
+    "meta": "rqstrBizResNo"
+  },
+  {
+    "korean": "요청인 법인명",
+    "english": "Requestor Corp name",
+    "meta": "rqstrCorpNm"
+  },
+  {
+    "korean": "요청인 법인개인구분",
+    "english": "Requestor Corp/ Indv Sort",
+    "meta": "rqstrCorpIndvSort"
+  },
+  {
+    "korean": "요청인 입금계좌번호",
+    "english": "Requestor credit acct No",
+    "meta": "rqstrCrdtAcctNo"
+  },
+  {
+    "korean": "요청인 성명(대표자명)",
+    "english": "Requestor name(REP)",
+    "meta": "rqstrRepNm"
+  },
+  {
+    "korean": "주민/사업자번호",
+    "english": "Resident/BIZ No",
+    "meta": "rqstrBizNo"
+  },
+  {
+    "korean": "응답코드명1",
+    "english": "Response code name1",
+    "meta": "rspnsCdNm1"
+  },
+  {
+    "korean": "응답코드명2",
+    "english": "Response code name2",
+    "meta": "rspnsCdNm2"
+  },
+  {
+    "korean": "응답코드1",
+    "english": "Response code1",
+    "meta": "rspnsCd1"
+  },
+  {
+    "korean": "응답코드2",
+    "english": "Response code2",
+    "meta": "rspnsCd2"
+  },
+  {
+    "korean": "구조조정대상기업여부",
+    "english": "Restructuring target company(Y/N)",
+    "meta": "rstrctTgtCmpnyYn"
+  },
+  {
+    "korean": "반환·수령거부 요청일자",
+    "english": "Return·Reject request date",
+    "meta": "rtnRjctRqstDt"
+  },
+  {
+    "korean": "검색조건 구분",
+    "english": "Search conditions Sort",
+    "meta": "srchCondDvsn"
+  },
+  {
+    "korean": "송수신FLAG",
+    "english": "Send/Receive FLAG",
+    "meta": "sndRcvFlag"
+  },
+  {
+    "korean": "송수신구분",
+    "english": "Send/Receive sort",
+    "meta": "sndRcvSort"
+  },
+  {
+    "korean": "결제처리 구분",
+    "english": "Settlement process sort",
+    "meta": "sttlPrcsDvsn"
+  },
+  {
+    "korean": "정렬조건",
+    "english": "Sort conditions",
+    "meta": "dvsnCond"
+  },
+  {
+    "korean": "별단예금 입금",
+    "english": "Special deposit credit",
+    "meta": "spclDepoCrdt"
+  },
+  {
+    "korean": "분할정보 배서 금액(잔존 금액)",
+    "english": "Split info ENDT amt(remaining amt)",
+    "meta": "spltInfoEndtAmt"
+  },
+  {
+    "korean": "분할정보 전자어음 처리상태",
+    "english": "Split info eNote process status",
+    "meta": "spltInfoEntPrcsSts"
+  },
+  {
+    "korean": "분할정보 분할일자",
+    "english": "Split info Split date",
+    "meta": "spltInfoSpltDt"
+  },
+  {
+    "korean": "분할정보 분할번호",
+    "english": "Split info split No",
+    "meta": "spltInfoSpltNo"
+  },
+  {
+    "korean": "분할번호",
+    "english": "Split No",
+    "meta": "spltNo"
+  },
+  {
+    "korean": "상태",
+    "english": "Status",
+    "meta": "sts"
+  },
+  {
+    "korean": "지급정지 가처분",
+    "english": "Stop payment injunction",
+    "meta": "stopPymntInjct"
+  },
+  {
+    "korean": "시스템 구분",
+    "english": "System Sort",
+    "meta": "sysSort"
+  },
+  {
+    "korean": "부도회차",
+    "english": "The No of default",
+    "meta": "dfltCnt"
+  },
+  {
+    "korean": "배서 횟수",
+    "english": "The No of ENDT",
+    "meta": "endtCnt"
+  },
+  {
+    "korean": "분할 횟수",
+    "english": "The No of split",
+    "meta": "spltCnt"
+  },
+  {
+    "korean": "전문전송시각",
+    "english": "Time msg sent",
+    "meta": "sndTlgTm"
+  },
+  {
+    "korean": "조회결과 총 건수",
+    "english": "Total No of Inquiry results",
+    "meta": "inqryRsltTotCnt"
+  },
+  {
+    "korean": "총 상환청구정보 건수",
+    "english": "Total No of recourse info",
+    "meta": "rcrsInfoTotCnt"
+  },
+  {
+    "korean": "거래일",
+    "english": "Trax date",
+    "meta": "trDt"
+  },
+  {
+    "korean": "거래메모",
+    "english": "Trax memo",
+    "meta": "trMemo"
+  },
+  {
+    "korean": "거래구분",
+    "english": "Trax sort",
+    "meta": "trDvsn"
+  },
+  {
+    "korean": "거래구분코드",
+    "english": "Trax sort code",
+    "meta": "trDvsnCd"
+  },
+  {
+    "korean": "거래시각",
+    "english": "Trax time",
+    "meta": "trTm"
+  },
+  {
+    "korean": "무담보배서 여부(Y/N)",
+    "english": "Unsecured ENDT(Y/N)",
+    "meta": "unscsrEndtYn"
+  },
+  {
+    "korean": "이용자 구분",
+    "english": "User sort",
+    "meta": "userDvsn"
+  },
+  {
+    "korean": "피보증인 주소",
+    "english": "Warrantee address",
+    "meta": "warnteAddr"
+  },
+  {
+    "korean": "피보증인 은행코드",
+    "english": "Warrantee bank code",
+    "meta": "warnteBnkCd"
+  },
+  {
+    "korean": "피보증인 사업자(주민)번호",
+    "english": "Warrantee BIZ(resident)No",
+    "meta": "warnteBizResNo"
+  },
+  {
+    "korean": "피보증인 법인명",
+    "english": "Warrantee Corp name",
+    "meta": "warnteCorpNm"
+  },
+  {
+    "korean": "피보증인 법인개인구분",
+    "english": "Warrantee Corp/Indv Sort",
+    "meta": "warnteCorpIndvDvsn"
+  },
+  {
+    "korean": "피보증인 당좌(입금)계좌번호",
+    "english": "Warrantee current(credit)acct No",
+    "meta": "warnteCurrAcctNo"
+  },
+  {
+    "korean": "피보증인 성명(대표자명)",
+    "english": "Warrantee name (REP)",
+    "meta": "warnteRepNm"
+  },
+  {
+    "korean": "피보증(발행)인 주소",
+    "english": "Warrantee(issuer) address",
+    "meta": "warnteIssurAddr"
+  },
+  {
+    "korean": "피보증(발행)인 은행코드",
+    "english": "Warrantee(issuer) bank code",
+    "meta": "warnteIssurBnkCd"
+  },
+  {
+    "korean": "피보증(발행)인 사업자(주민)번호",
+    "english": "Warrantee(issuer) BIZ(resident)No",
+    "meta": "warnteIssurBizResNo"
+  },
+  {
+    "korean": "피보증(발행)인 법인명",
+    "english": "Warrantee(issuer) Corp name",
+    "meta": "warnteIssurCorpNm"
+  },
+  {
+    "korean": "피보증(발행)인 법인개인구분",
+    "english": "Warrantee(issuer) Corp/Indv Sort",
+    "meta": "warnteIssurCorpIndvDvsn"
+  },
+  {
+    "korean": "피보증(발행)인 당좌계좌번호",
+    "english": "Warrantee(issuer) current acct No",
+    "meta": "warnteIssurCurrAcctNo"
+  },
+  {
+    "korean": "피보증(발행)인 성명(대표자명)",
+    "english": "Warrantee(issuer) name(REP)",
+    "meta": "warnteIssurRepNm"
+  },
+  {
+    "korean": "연장사유",
+    "english": "Extension reason",
+    "meta": "extRsn"
+  },
+  {
+    "korean": "검색조건 사업자(주민)번호",
+    "english": "Search conditions BIZ(resident)No",
+    "meta": "srchCondBizResNo"
+  },
+  {
+    "korean": "검색조건 은행",
+    "english": "Search conditions Bank",
+    "meta": "srchCondBnk"
+  },
+  {
+    "korean": "검색조건 계좌번호",
+    "english": "Search conditions Acct No",
+    "meta": "srchCondAcctNo"
+  },
+  {
+    "korean": "지정건수",
+    "english": "Designated Count",
+    "meta": "designCnt"
+  },
+  {
+    "korean": "총건수",
+    "english": "Total Count",
+    "meta": "totCnt"
+  },
+  {
+    "korean": "만기전 지급제시 희망일자",
+    "english": "Matured Before Payment Hope Date",
+    "meta": "matuBfPymntHopeDt"
+  },
+  {
+    "korean": "만기전 지급제시 신청사유",
+    "english": "Request Reason",
+    "meta": "rqstRsn"
+  }
+]
