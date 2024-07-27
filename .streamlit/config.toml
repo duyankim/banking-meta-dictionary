@@ -1,0 +1,16 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+
+[theme]
+base="light"
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[experimental]
+showStreamlitShare = false
+showSidebarNavigation = false
