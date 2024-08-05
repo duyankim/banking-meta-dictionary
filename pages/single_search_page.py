@@ -5,7 +5,7 @@ from service.single_search import get_search_result
 
 # JSON 파일을 읽어서 파이썬 딕셔너리로 변환하는 함수
 def load_kftc_dictionary():
-    with open('./static/kftc_dictionary.json', 'r', encoding='utf-8') as file:
+    with open('./static/ent_dictionary.json', 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def single_search_page():

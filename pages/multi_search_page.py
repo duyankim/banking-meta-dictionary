@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 def load_kftc_dictionary():
-    with open('./static/kftc_dictionary.json', 'r', encoding='utf-8') as file:
+    with open('./static/ent_dictionary.json', 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def get_search_result(keywords, dictionary):
