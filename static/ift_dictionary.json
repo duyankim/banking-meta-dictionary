@@ -1,0 +1,3752 @@
+[
+  {
+    "korean": "순채무한도금액",
+    "english": "Total Limit Amount of Net Debit Caps",
+    "meta": "ndctotlmtamt"
+  },
+  {
+    "korean": "채무한도잔여금액",
+    "english": "Remained Amount of Net Debit Caps",
+    "meta": "ndcrmndlmtamt"
+  },
+  {
+    "korean": "채무한도소진율",
+    "english": "Spent Rate of Net Debit Caps",
+    "meta": "ndcspentrt"
+  },
+  {
+    "korean": "최대채무금액",
+    "english": "Peak Amount of Net Debit Caps",
+    "meta": "ndcpeakamt"
+  },
+  {
+    "korean": "최대채무소진율",
+    "english": "Peak Rate of Net Debit Caps",
+    "meta": "ndcpeakrt"
+  },
+  {
+    "korean": "최대채무발생시각",
+    "english": "Occurrence Time of Peak Amount",
+    "meta": "peakamtocurtm"
+  },
+  {
+    "korean": "순채무한도금액",
+    "english": "Total limit amount of Net Debit Caps",
+    "meta": "netdebitcaptotlmtamt"
+  },
+  {
+    "korean": "채무한도잔여금액",
+    "english": "Remained amount of Net Debit Caps",
+    "meta": "netdebitcaprmndlmtamt"
+  },
+  {
+    "korean": "채무한도소진율",
+    "english": "Spent rate of Net Debit Caps",
+    "meta": "netdebitcapspentrt"
+  },
+  {
+    "korean": "최대채무금액",
+    "english": "Peak amount of Net Debit Caps",
+    "meta": "netdebitcappeakamt"
+  },
+  {
+    "korean": "최대채무소진율",
+    "english": "Peak rate of Net Debit Caps",
+    "meta": "netdebitcappeakrt"
+  },
+  {
+    "korean": "최대채무발생시각",
+    "english": "Occurrence time of peak amount",
+    "meta": "peakamtocurtime"
+  },
+  {
+    "korean": "순이체한도금액",
+    "english": "Total Limit Amount of Net Transfer Limit",
+    "meta": "ntltotlmtamt"
+  },
+  {
+    "korean": "이체한도잔여금액",
+    "english": "Remained Amount of Net Transfer Limit",
+    "meta": "ntlrmndamt"
+  },
+  {
+    "korean": "이체한도소진율",
+    "english": "Spent Rate of Net Transfer Limit",
+    "meta": "ntlspentrt"
+  },
+  {
+    "korean": "최대미결제금액",
+    "english": "Maximum Unsettled Amount",
+    "meta": "maxunsttlamt"
+  },
+  {
+    "korean": "최대이체소진율",
+    "english": "Peak Rate of Net Transfer Limit",
+    "meta": "ntlpeakrt"
+  },
+  {
+    "korean": "최대미결제금액발생시각",
+    "english": "Occurence Time of Maximum Unsettled Amt",
+    "meta": "muaoccurtime"
+  },
+  {
+    "korean": "순이체한도금액",
+    "english": "Total Limit Amount of Net Transfer Limit",
+    "meta": "nettrtotlmtamt"
+  },
+  {
+    "korean": "이체한도잔여금액",
+    "english": "Remained Amount of Net Transfer Limit",
+    "meta": "nettrrmndlmtamt"
+  },
+  {
+    "korean": "이체한도소진율",
+    "english": "Spent Rate of Net Transfer Limit",
+    "meta": "nettrlmtspentrt"
+  },
+  {
+    "korean": "최대미결제금액",
+    "english": "Maximum Unsettled Amount",
+    "meta": "maxunsettlamt"
+  },
+  {
+    "korean": "최대이체소진율",
+    "english": "Peak Rate of Net Transfer Limit",
+    "meta": "nettrlmtpeakrt"
+  },
+  {
+    "korean": "최대미결제금액발생시각",
+    "english": "Occurence Time of Maximum Unsettled Amt",
+    "meta": "maxunsttlamtoccurtm"
+  },
+  {
+    "korean": "예금주명",
+    "english": "Account Name",
+    "meta": "acctnm"
+  },
+  {
+    "korean": "예금주명(한글)",
+    "english": "Account Name(Korean)",
+    "meta": "acctkornm"
+  },
+  {
+    "korean": "예금주명(영어)",
+    "english": "Account Name(English)",
+    "meta": "acctengnm"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account Number",
+    "meta": "acctno"
+  },
+  {
+    "korean": "입금계좌",
+    "english": "Deposit Account",
+    "meta": "depoacct"
+  },
+  {
+    "korean": "계좌번호구조",
+    "english": "Account Number Structure",
+    "meta": "acctnostrct"
+  },
+  {
+    "korean": "계좌일련번호",
+    "english": "Account Serial Number",
+    "meta": "acctserno"
+  },
+  {
+    "korean": "계좌상태",
+    "english": "Account Status",
+    "meta": "acctsts"
+  },
+  {
+    "korean": "과목코드 (송신)",
+    "english": "Account Type Code (from)",
+    "meta": "sndaccttpcd"
+  },
+  {
+    "korean": "과목코드 (전북)",
+    "english": "Account Type Code (JeonBuk)",
+    "meta": "jbaccttpcd"
+  },
+  {
+    "korean": "과목코드 (수신)",
+    "english": "Account Type Code (to)",
+    "meta": "rcvaccttpcd"
+  },
+  {
+    "korean": "과목코드",
+    "english": "Account Type Code",
+    "meta": "accttpcd"
+  },
+  {
+    "korean": "과목이름",
+    "english": "Account Type Name",
+    "meta": "accttpcdnm"
+  },
+  {
+    "korean": "전체",
+    "english": "All",
+    "meta": "all"
+  },
+  {
+    "korean": "정상금액",
+    "english": "Amount of Normal Transactions",
+    "meta": "nrmltramt"
+  },
+  {
+    "korean": "금액",
+    "english": "Amount",
+    "meta": "amt"
+  },
+  {
+    "korean": "순번",
+    "english": "Aries Number",
+    "meta": "arnumber"
+  },
+  {
+    "korean": "승인",
+    "english": "Authorize",
+    "meta": "auth"
+  },
+  {
+    "korean": "검증자",
+    "english": "Authorizer ID",
+    "meta": "aprverid"
+  },
+  {
+    "korean": "검증일",
+    "english": "Authorizer Date",
+    "meta": "aprvdt"
+  },
+  {
+    "korean": "가능과목코드",
+    "english": "Available Account Type",
+    "meta": "availaccttp"
+  },
+  {
+    "korean": "은행코드",
+    "english": "Bank Code",
+    "meta": "bnkcd"
+  },
+  {
+    "korean": "은행조회",
+    "english": "Bank Inquiry",
+    "meta": "bnkinqry"
+  },
+  {
+    "korean": "은행일련번호",
+    "english": "Bank Serial Number",
+    "meta": "bnkserno"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank",
+    "meta": "bnk"
+  },
+  {
+    "korean": "수취계좌",
+    "english": "Beneficiary Account",
+    "meta": "rcvacct"
+  },
+  {
+    "korean": "수취은행코드",
+    "english": "Beneficiary Bank Code",
+    "meta": "rcvbnkcd"
+  },
+  {
+    "korean": "수취인명",
+    "english": "Beneficiary Name",
+    "meta": "recptnm"
+  },
+  {
+    "korean": "실제수취인명",
+    "english": "Actually Beneficiary Name",
+    "meta": "realrecptnm"
+  },
+  {
+    "korean": "수취인명2",
+    "english": "Beneficiary Name2",
+    "meta": "recptnm2"
+  },
+  {
+    "korean": "JPM 오류",
+    "english": "JPM Error",
+    "meta": "jpmerr"
+  },
+  {
+    "korean": "JPM 합계",
+    "english": "JPM Total",
+    "meta": "jpmtot"
+  },
+  {
+    "korean": "지점코드",
+    "english": "Branch Code",
+    "meta": "brnchcd"
+  },
+  {
+    "korean": "지점조회",
+    "english": "Branch Inquiry",
+    "meta": "brnchinqry"
+  },
+  {
+    "korean": "업무상태",
+    "english": "Business Status",
+    "meta": "bizsts"
+  },
+  {
+    "korean": "취소",
+    "english": "Cancel",
+    "meta": "cncl"
+  },
+  {
+    "korean": "취소(B)",
+    "english": "Cancel (B)",
+    "meta": "cnclb"
+  },
+  {
+    "korean": "현금",
+    "english": "Cash",
+    "meta": "cash"
+  },
+  {
+    "korean": "수표",
+    "english": "Check",
+    "meta": "check"
+  },
+  {
+    "korean": "검증숫자",
+    "english": "Check Digit",
+    "meta": "chkcnt"
+  },
+  {
+    "korean": "확인완료",
+    "english": "Checked",
+    "meta": "chked"
+  },
+  {
+    "korean": "수표구분코드",
+    "english": "Cheque Code",
+    "meta": "chequetpcd"
+  },
+  {
+    "korean": "수표번호",
+    "english": "Cheque Number",
+    "meta": "chequeno"
+  },
+  {
+    "korean": "수표번호 (글자)",
+    "english": "Cheque Number (Letter)",
+    "meta": "letterchequeno"
+  },
+  {
+    "korean": "수표번호 (숫자)",
+    "english": "Cheque Number (Numeric)",
+    "meta": "nbrchequeno"
+  },
+  {
+    "korean": "수표번호 (일련번호)",
+    "english": "Cheque Number (Serial Number)",
+    "meta": "serchequeno"
+  },
+  {
+    "korean": "수표상태",
+    "english": "Cheque Status",
+    "meta": "chequests"
+  },
+  {
+    "korean": "수표종류",
+    "english": "Cheque Type",
+    "meta": "chequetp"
+  },
+  {
+    "korean": "수표금액",
+    "english": "Cheque Value",
+    "meta": "chequeamt"
+  },
+  {
+    "korean": "수표",
+    "english": "Cheque",
+    "meta": "cheque"
+  },
+  {
+    "korean": "종료일",
+    "english": "CLSEe Date",
+    "meta": "enddt"
+  },
+  {
+    "korean": "종료일",
+    "english": "CLSEing Date",
+    "meta": "enddate"
+  },
+  {
+    "korean": "CMF 번호 고객분류 (도이치)",
+    "english": "CMF Number Customer  Classify (Deutsche)",
+    "meta": "deutschecmfnocustcls"
+  },
+  {
+    "korean": "코드",
+    "english": "Code",
+    "meta": "cd"
+  },
+  {
+    "korean": "추심어음",
+    "english": "Collection Bill",
+    "meta": "colectbill"
+  },
+  {
+    "korean": "설명",
+    "english": "COMMENTS",
+    "meta": "cmt"
+  },
+  {
+    "korean": "통신망",
+    "english": "Communications Network",
+    "meta": "net"
+  },
+  {
+    "korean": "기업수표",
+    "english": "Corporate Cheque",
+    "meta": "corpcheque"
+  },
+  {
+    "korean": "불능건수",
+    "english": "Count of Faliures",
+    "meta": "failcnt"
+  },
+  {
+    "korean": "결번건수",
+    "english": "Count of Missing Message",
+    "meta": "msngcnt"
+  },
+  {
+    "korean": "정상건수",
+    "english": "Count of Normal Transactions",
+    "meta": "nrmlcnt"
+  },
+  {
+    "korean": "미처리타발전문",
+    "english": "Count of Pending Inbound Message",
+    "meta": "pendinbtlgcnt"
+  },
+  {
+    "korean": "미처리당발전문",
+    "english": "Count of Pending Outbound Message",
+    "meta": "pendoutbtlgcnt"
+  },
+  {
+    "korean": "거래건수",
+    "english": "Count of Transactions",
+    "meta": "trcnt"
+  },
+  {
+    "korean": "고객일련번호",
+    "english": "Customer Serial Number",
+    "meta": "custserno"
+  },
+  {
+    "korean": "날짜",
+    "english": "Date",
+    "meta": "dt"
+  },
+  {
+    "korean": "날짜조회",
+    "english": "Date/Time Inquiry",
+    "meta": "dtinqry"
+  },
+  {
+    "korean": "이유설명",
+    "english": "Detailed Reason",
+    "meta": "dtlrsn"
+  },
+  {
+    "korean": "부도",
+    "english": "Dishonored",
+    "meta": "dishono"
+  },
+  {
+    "korean": "발효일",
+    "english": "Effective Date",
+    "meta": "efctdt"
+  },
+  {
+    "korean": "입력",
+    "english": "Entry",
+    "meta": "entry"
+  },
+  {
+    "korean": "오류",
+    "english": "Error",
+    "meta": "err"
+  },
+  {
+    "korean": "불능금액",
+    "english": "Failed Amount",
+    "meta": "failamt"
+  },
+  {
+    "korean": "불능",
+    "english": "Failure",
+    "meta": "fail"
+  },
+  {
+    "korean": "불능(C)",
+    "english": "Failure (C)",
+    "meta": "failc"
+  },
+  {
+    "korean": "파일명",
+    "english": "File Name",
+    "meta": "filenm"
+  },
+  {
+    "korean": "자금반환 (BH0003)",
+    "english": "Fund Return (BH0003)",
+    "meta": "refund"
+  },
+  {
+    "korean": "자금구분",
+    "english": "Fund Type",
+    "meta": "fundtp"
+  },
+  {
+    "korean": "이체일",
+    "english": "Funds Transfer Date",
+    "meta": "fundtrdt"
+  },
+  {
+    "korean": "이체수수료",
+    "english": "Funds Transfer Fee",
+    "meta": "fundtrfee"
+  },
+  {
+    "korean": "이체",
+    "english": "Funds Transfer",
+    "meta": "fundtr"
+  },
+  {
+    "korean": "GBS 계좌번호",
+    "english": "GBS Account Number",
+    "meta": "bgsacctno"
+  },
+  {
+    "korean": "지로코드",
+    "english": "GIRO Code",
+    "meta": "girocd"
+  },
+  {
+    "korean": "타발전문",
+    "english": "Inbound Message",
+    "meta": "inbmsg"
+  },
+  {
+    "korean": "타발",
+    "english": "Inbound",
+    "meta": "inb"
+  },
+  {
+    "korean": "미완료",
+    "english": "Incomplete",
+    "meta": "incomplt"
+  },
+  {
+    "korean": "개설일",
+    "english": "Issue Date",
+    "meta": "opndt"
+  },
+  {
+    "korean": "KFTC ▶ BOA",
+    "english": "KFTC ▶ BOA",
+    "meta": "kftctoboa"
+  },
+  {
+    "korean": "LVB/CQE번호",
+    "english": "LVB/ITC(GCH) Number",
+    "meta": "lvbcqeno"
+  },
+  {
+    "korean": "결제원 전문번호",
+    "english": "KFTC Message Number",
+    "meta": "kftcmsgno"
+  },
+  {
+    "korean": "결제원 전문번호",
+    "english": "KFTC Message No",
+    "meta": "kftctlgno"
+  },
+  {
+    "korean": "KFTC 합계",
+    "english": "KFTC Total",
+    "meta": "kftctot"
+  },
+  {
+    "korean": "최종타발전문번호",
+    "english": "Last Inbound Message Number",
+    "meta": "lstinbmsgno"
+  },
+  {
+    "korean": "최종당발전문번호",
+    "english": "Last Outbound Message Number",
+    "meta": "lstoutbmsgno"
+  },
+  {
+    "korean": "반영시간",
+    "english": "Last Time",
+    "meta": "lsttm"
+  },
+  {
+    "korean": "계좌번호길이",
+    "english": "Length of Account Number",
+    "meta": "acctnolen"
+  },
+  {
+    "korean": "과목코드길이",
+    "english": "Length of Account Type Code",
+    "meta": "accttpcdlen"
+  },
+  {
+    "korean": "LVB 계좌번호",
+    "english": "LVB Account Number",
+    "meta": "lvbacctnbr"
+  },
+  {
+    "korean": "LVB 계좌번호",
+    "english": "LVB Account No",
+    "meta": "lvbacctno"
+  },
+  {
+    "korean": "가상계좌번호",
+    "english": "Virtual Account Number",
+    "meta": "vrtlacctnbr"
+  },
+  {
+    "korean": "가상계좌번호",
+    "english": "Virtual Account No",
+    "meta": "vrtlacctno"
+  },
+  {
+    "korean": "매체구분",
+    "english": "Media Type",
+    "meta": "mediatp"
+  },
+  {
+    "korean": "전문번호",
+    "english": "Message Number",
+    "meta": "msgnbr"
+  },
+  {
+    "korean": "전문번호",
+    "english": "Message No",
+    "meta": "msgno"
+  },
+  {
+    "korean": "월",
+    "english": "Month",
+    "meta": "mnth"
+  },
+  {
+    "korean": "정상",
+    "english": "Normal",
+    "meta": "nrml"
+  },
+  {
+    "korean": "발생",
+    "english": "Occured",
+    "meta": "occur"
+  },
+  {
+    "korean": "보류",
+    "english": "On Hold",
+    "meta": "hold"
+  },
+  {
+    "korean": "데이타파일열기",
+    "english": "Open Data File",
+    "meta": "opndatafile"
+  },
+  {
+    "korean": "발급일",
+    "english": "Opening Date",
+    "meta": "opndt"
+  },
+  {
+    "korean": "조회구분",
+    "english": "Inquiry Type",
+    "meta": "inqrytp"
+  },
+  {
+    "korean": "상태코드",
+    "english": "Status Code",
+    "meta": "stscd"
+  },
+  {
+    "korean": "일별",
+    "english": "Daily",
+    "meta": "daily"
+  },
+  {
+    "korean": "월별",
+    "english": "Monthly",
+    "meta": "mnthly"
+  },
+  {
+    "korean": "원거래일",
+    "english": "Original Transaction Date",
+    "meta": "orgntrdt"
+  },
+  {
+    "korean": "타행응답",
+    "english": "Other Bank's Response",
+    "meta": "othrbnkresp"
+  },
+  {
+    "korean": "당발전문",
+    "english": "Outbound Message",
+    "meta": "outbmsg"
+  },
+  {
+    "korean": "당발",
+    "english": "Outbound",
+    "meta": "outb"
+  },
+  {
+    "korean": "지불일",
+    "english": "Payment Date",
+    "meta": "pymntdt"
+  },
+  {
+    "korean": "출금계좌번호",
+    "english": "Payment Account Number",
+    "meta": "pymntacctno"
+  },
+  {
+    "korean": "과목코드",
+    "english": "Product Code",
+    "meta": "prodcd"
+  },
+  {
+    "korean": "이유",
+    "english": "Reason",
+    "meta": "rsn"
+  },
+  {
+    "korean": "등록일",
+    "english": "Register Date",
+    "meta": "regdt"
+  },
+  {
+    "korean": "등록ID",
+    "english": "Registrar ID",
+    "meta": "regid"
+  },
+  {
+    "korean": "거부",
+    "english": "Reject",
+    "meta": "rjct"
+  },
+  {
+    "korean": "거부전문",
+    "english": "Rejection Message",
+    "meta": "rjctmsg"
+  },
+  {
+    "korean": "비고",
+    "english": "Remark",
+    "meta": "remark"
+  },
+  {
+    "korean": "이체",
+    "english": "Remittance",
+    "meta": "remt"
+  },
+  {
+    "korean": "이체(A)",
+    "english": "Remittance (A)",
+    "meta": "remta"
+  },
+  {
+    "korean": "출금계좌",
+    "english": "Remitter Account",
+    "meta": "remtacct"
+  },
+  {
+    "korean": "개설은행",
+    "english": "Remitter Bank",
+    "meta": "remtbnk"
+  },
+  {
+    "korean": "발급은행코드",
+    "english": "Remitter Bank Code",
+    "meta": "remtbnkcd"
+  },
+  {
+    "korean": "출금은행수수료",
+    "english": "Remitter Bank Fee",
+    "meta": "remtbnkfee"
+  },
+  {
+    "korean": "발급지점코드",
+    "english": "Remitter Branch Code",
+    "meta": "remtbrnchcd"
+  },
+  {
+    "korean": "의뢰인명",
+    "english": "Remitter Name",
+    "meta": "remternm"
+  },
+  {
+    "korean": "출금인 전화번호",
+    "english": "Remitter's Phone Number",
+    "meta": "remterphonno"
+  },
+  {
+    "korean": "자금반환요청 (BH0001)",
+    "english": "Request for Fund Return (BH0001)",
+    "meta": "refundrqst"
+  },
+  {
+    "korean": "요청전문번호",
+    "english": "Request Message Number",
+    "meta": "rqstmsgno"
+  },
+  {
+    "korean": "요청번호",
+    "english": "Request Number",
+    "meta": "rqstno"
+  },
+  {
+    "korean": "청구",
+    "english": "Request",
+    "meta": "rqst"
+  },
+  {
+    "korean": "요청은행지점",
+    "english": "Requesting Branch",
+    "meta": "rqstbrnch"
+  },
+  {
+    "korean": "의뢰인명",
+    "english": "Requestor Name",
+    "meta": "rqstrnm"
+  },
+  {
+    "korean": "응답코드",
+    "english": "Response Code",
+    "meta": "rqstcd"
+  },
+  {
+    "korean": "응답",
+    "english": "Response",
+    "meta": "resp"
+  },
+  {
+    "korean": "재시작",
+    "english": "Restart of Day",
+    "meta": "restart"
+  },
+  {
+    "korean": "재시도",
+    "english": "Retry",
+    "meta": "retry"
+  },
+  {
+    "korean": "반환",
+    "english": "Return",
+    "meta": "rtn"
+  },
+  {
+    "korean": "반환은행",
+    "english": "Returning Bank",
+    "meta": "rtnbnk"
+  },
+  {
+    "korean": "행",
+    "english": "Rows",
+    "meta": "row"
+  },
+  {
+    "korean": "예정날짜",
+    "english": "Scheduled Date",
+    "meta": "schddt"
+  },
+  {
+    "korean": "순서번호",
+    "english": "Sequence No",
+    "meta": "seqno"
+  },
+  {
+    "korean": "순번",
+    "english": "No",
+    "meta": "no"
+  },
+  {
+    "korean": "일련번호",
+    "english": "Serial Number",
+    "meta": "sernbr"
+  },
+  {
+    "korean": "수수료",
+    "english": "Service Fee",
+    "meta": "fee"
+  },
+  {
+    "korean": "주민등록번호",
+    "english": "Social Number",
+    "meta": "idnbr"
+  },
+  {
+    "korean": "상태",
+    "english": "Status",
+    "meta": "sts"
+  },
+  {
+    "korean": "상태1",
+    "english": "Status 1",
+    "meta": "sts1"
+  },
+  {
+    "korean": "상태2",
+    "english": "Status 2",
+    "meta": "sts2"
+  },
+  {
+    "korean": "상태3",
+    "english": "Status 3",
+    "meta": "sts3"
+  },
+  {
+    "korean": "시스템장애통보",
+    "english": "System Failure Notice",
+    "meta": "sysfailnoti"
+  },
+  {
+    "korean": "시스템회복통보",
+    "english": "System Recovery Notice",
+    "meta": "sysrecovrnoti"
+  },
+  {
+    "korean": "시험연결",
+    "english": "Test Call",
+    "meta": "testcall"
+  },
+  {
+    "korean": "알람",
+    "english": "Timer",
+    "meta": "timer"
+  },
+  {
+    "korean": "자금이체총액",
+    "english": "Total Amount of Funds Transfer",
+    "meta": "fundtrtotamt"
+  },
+  {
+    "korean": "총액",
+    "english": "Total Amount",
+    "meta": "totamt"
+  },
+  {
+    "korean": "거래건수",
+    "english": "Transaction",
+    "meta": "trcnt"
+  },
+  {
+    "korean": "거래코드",
+    "english": "Transaction Code",
+    "meta": "trcd"
+  },
+  {
+    "korean": "거래일",
+    "english": "Transaction Date",
+    "meta": "trdt"
+  },
+  {
+    "korean": "거래구분",
+    "english": "Transaction Type",
+    "meta": "trtp"
+  },
+  {
+    "korean": "거래년도",
+    "english": "Transaction Year",
+    "meta": "tryr"
+  },
+  {
+    "korean": "구분",
+    "english": "Type",
+    "meta": "tp"
+  },
+  {
+    "korean": "가중치",
+    "english": "Weight",
+    "meta": "weight"
+  },
+  {
+    "korean": "가중치 (입력 1~16)",
+    "english": "Weight (1 ~16 Insert)",
+    "meta": "116weight"
+  },
+  {
+    "korean": "출금",
+    "english": "Withdrawal",
+    "meta": "whdrwl"
+  },
+  {
+    "korean": "년도",
+    "english": "Year",
+    "meta": "yr"
+  },
+  {
+    "korean": "최종조회일",
+    "english": "Last Inquiry Date",
+    "meta": "lstinqrydt"
+  },
+  {
+    "korean": "최종조회시간",
+    "english": "Last Inquiry Time",
+    "meta": "lstinqrytm"
+  },
+  {
+    "korean": "최종조회은행",
+    "english": "Last Inquiry Bank",
+    "meta": "lstinqrybnk"
+  },
+  {
+    "korean": "최종조회지점",
+    "english": "Last Inquiry Branch",
+    "meta": "lstinqrybrnch"
+  },
+  {
+    "korean": "설명",
+    "english": "Description",
+    "meta": "desc"
+  },
+  {
+    "korean": "전문종별",
+    "english": "Message Type",
+    "meta": "msgtp"
+  },
+  {
+    "korean": "전문코드",
+    "english": "Message Code",
+    "meta": "msgcd"
+  },
+  {
+    "korean": "보고서명",
+    "english": "Report Name",
+    "meta": "rptnm"
+  },
+  {
+    "korean": "거래 정상분",
+    "english": "Normal Transactions",
+    "meta": "nrmltr"
+  },
+  {
+    "korean": "개설 미완료거래통지표",
+    "english": "Incomplete Transaction Notice (Beneficiary Bank)",
+    "meta": "incomplttrnoti"
+  },
+  {
+    "korean": "거래 차감표",
+    "english": "Transaction Balance Table",
+    "meta": "trbaltlb"
+  },
+  {
+    "korean": "수수료 차감표",
+    "english": "Service Fee Balance Table",
+    "meta": "feebaltlb"
+  },
+  {
+    "korean": "자금조정 근기표",
+    "english": "Basis Table for Fund Adjustment",
+    "meta": "fundadjbasetlb"
+  },
+  {
+    "korean": "차액결제자료",
+    "english": "Balance Settlement Information",
+    "meta": "balsttlinfo"
+  },
+  {
+    "korean": "결제지시서",
+    "english": "Settlement Order",
+    "meta": "sttlorder"
+  },
+  {
+    "korean": "월간 은행별 거래집계현황",
+    "english": "Monthly Status of Transaction Summary by Bank",
+    "meta": "mnthlybnktrsumsts"
+  },
+  {
+    "korean": "월간 자금반환현황",
+    "english": "Monthly Status of Returned Funds",
+    "meta": "mnthlyrtnfundsts"
+  },
+  {
+    "korean": "월간 총거래현황",
+    "english": "Monthly Status of Total Transactions",
+    "meta": "mnthlytottrsts"
+  },
+  {
+    "korean": "개설은행 응답코드현황",
+    "english": "Response Code Status (Beneficiary Bank)",
+    "meta": "bnkrespcdsts"
+  },
+  {
+    "korean": "의뢰인 계좌번호",
+    "english": "Requestor Account Number",
+    "meta": "rqstracctno"
+  },
+  {
+    "korean": "의뢰인 전화번호",
+    "english": "Requestor's Phone Number",
+    "meta": "rqstrphonno"
+  },
+  {
+    "korean": "건수",
+    "english": "Record Count",
+    "meta": "reccnt"
+  },
+  {
+    "korean": "번호",
+    "english": "Sequence Number",
+    "meta": "seqnbr"
+  },
+  {
+    "korean": "거래내역조회(휴일)",
+    "english": "Transaction Inquiry(Holiday)",
+    "meta": "holitrinqry"
+  },
+  {
+    "korean": "호스트번호",
+    "english": "Host Number",
+    "meta": "hostno"
+  },
+  {
+    "korean": "송수신일",
+    "english": "Send/Receive Date",
+    "meta": "sndrcvdt"
+  },
+  {
+    "korean": "송수신시간",
+    "english": "Send/Receive Time",
+    "meta": "sndrcvtm"
+  },
+  {
+    "korean": "Process상태",
+    "english": "Process Status",
+    "meta": "prcssts"
+  },
+  {
+    "korean": "흐름",
+    "english": "Flow",
+    "meta": "flow"
+  },
+  {
+    "korean": "업무타입",
+    "english": "Service Type",
+    "meta": "servicetp"
+  },
+  {
+    "korean": "LVB응답코드",
+    "english": "LVB Response Code",
+    "meta": "lvbrespcd"
+  },
+  {
+    "korean": "수취은행",
+    "english": "Beneficiary Bank",
+    "meta": "benefbnk"
+  },
+  {
+    "korean": "지불은행",
+    "english": "Remitting Bank",
+    "meta": "remtbnk"
+  },
+  {
+    "korean": "거래고유번호",
+    "english": "Transaction ID Number",
+    "meta": "tridno"
+  },
+  {
+    "korean": "지불인명",
+    "english": "Payer Name",
+    "meta": "payernm"
+  },
+  {
+    "korean": "메세지 타입",
+    "english": "Message type",
+    "meta": "msgtp"
+  },
+  {
+    "korean": "등록시간",
+    "english": "Register Time",
+    "meta": "regtm"
+  },
+  {
+    "korean": "Receive",
+    "english": "Receive",
+    "meta": "rcv"
+  },
+  {
+    "korean": "Send",
+    "english": "Send",
+    "meta": "snd"
+  },
+  {
+    "korean": "거래시간",
+    "english": "Transaction Time",
+    "meta": "trtm"
+  },
+  {
+    "korean": "Host 유형",
+    "english": "Host Type",
+    "meta": "hosttp"
+  },
+  {
+    "korean": "송신",
+    "english": "Sending",
+    "meta": "snd"
+  },
+  {
+    "korean": "수신",
+    "english": "Receiving",
+    "meta": "rcv"
+  },
+  {
+    "korean": "수신일",
+    "english": "Receiving Date",
+    "meta": "rcvdt"
+  },
+  {
+    "korean": "수신시간",
+    "english": "Receiving Time",
+    "meta": "rcvtm"
+  },
+  {
+    "korean": "송신일",
+    "english": "Sending Date",
+    "meta": "snddt"
+  },
+  {
+    "korean": "채널구분",
+    "english": "Channel Type",
+    "meta": "chnltp"
+  },
+  {
+    "korean": "발급은행코드",
+    "english": "Issuing Bank Code",
+    "meta": "issubnkcd"
+  },
+  {
+    "korean": "발급지점코드",
+    "english": "Issuing Branch Code",
+    "meta": "issubrnchcd"
+  },
+  {
+    "korean": "발급일",
+    "english": "Issuing Date",
+    "meta": "issudt"
+  },
+  {
+    "korean": "주민/사업자번호",
+    "english": "Social/Business Number",
+    "meta": "ctzbizno"
+  },
+  {
+    "korean": "고객번호",
+    "english": "Customer Number",
+    "meta": "custno"
+  },
+  {
+    "korean": "등록유형",
+    "english": "Register Type",
+    "meta": "regtp"
+  },
+  {
+    "korean": "DDA코드",
+    "english": "DDA Code",
+    "meta": "ddacd"
+  },
+  {
+    "korean": "거주자여부",
+    "english": "Resident Y/N",
+    "meta": "rsdntyn"
+  },
+  {
+    "korean": "청구/반환",
+    "english": "Req/Rtn",
+    "meta": "reqrtn"
+  },
+  {
+    "korean": "전자금융서비스 가입자수",
+    "english": "EFN Subscribers",
+    "meta": "efnsubs"
+  },
+  {
+    "korean": "전자금융경로를 이용한 거래",
+    "english": "EFN Transaction",
+    "meta": "efntr"
+  },
+  {
+    "korean": "자금청구 명세표 (청구은행 -&gt; KFTC)",
+    "english": "Fund Request Detail (Requesting Bank -&gt; KFTC)",
+    "meta": "rqstbnkkftcfundrqstdtl"
+  },
+  {
+    "korean": "자금청구 명세표 (KFTC -&gt; 반환은행)",
+    "english": "Fund Request Detail (KFTC -&gt; Returning Bank)",
+    "meta": "kftcrtnbnkfundrqstdtl"
+  },
+  {
+    "korean": "자금반환 명세표 (반환은행 -&gt; KFTC)",
+    "english": "Fund Return Detail (Returning Bank -&gt; KFTC)",
+    "meta": "rtnbnkkftcfundrqstdtl"
+  },
+  {
+    "korean": "자금반환 처리결과 명세표 (청구/반환)",
+    "english": "Fund Return Detail (Request/Return)",
+    "meta": "rqstrtnfundrtndtl"
+  },
+  {
+    "korean": "은행상태",
+    "english": "Bank Status",
+    "meta": "btnsts"
+  },
+  {
+    "korean": "등록일자",
+    "english": "Registration Date",
+    "meta": "regdate"
+  },
+  {
+    "korean": "등록자ID",
+    "english": "Register ID",
+    "meta": "regid"
+  },
+  {
+    "korean": "KFTC 수신시간",
+    "english": "KFTC Received Time",
+    "meta": "kftcrcvtm"
+  },
+  {
+    "korean": "LVB 송신시간",
+    "english": "LVB Sent Time",
+    "meta": "lvbsndtm"
+  },
+  {
+    "korean": "LVB 수신시간",
+    "english": "LVB Received Time",
+    "meta": "lvbrcvtm"
+  },
+  {
+    "korean": "당발/타발",
+    "english": "Inbound/Outbound",
+    "meta": "outin"
+  },
+  {
+    "korean": "의뢰인 계좌번호",
+    "english": "Requestor Account",
+    "meta": "rcveracctno"
+  },
+  {
+    "korean": "개설은행",
+    "english": "Opening Bank",
+    "meta": "opnbnk"
+  },
+  {
+    "korean": "의뢰인 정보",
+    "english": "Requestor Infomation",
+    "meta": "rqstinfo"
+  },
+  {
+    "korean": "처리중",
+    "english": "Processing",
+    "meta": "processing"
+  },
+  {
+    "korean": "JPMC 오류",
+    "english": "JPMC Error",
+    "meta": "jpmcerr"
+  },
+  {
+    "korean": "로그시간",
+    "english": "Log Time",
+    "meta": "logtm"
+  },
+  {
+    "korean": "프로세스이름",
+    "english": "Process Name",
+    "meta": "prcsnm"
+  },
+  {
+    "korean": "타겟 프로세스",
+    "english": "Target Process",
+    "meta": "targetprcs"
+  },
+  {
+    "korean": "결과값",
+    "english": "Result Value",
+    "meta": "rsltval"
+  },
+  {
+    "korean": "로그일",
+    "english": "Log Date",
+    "meta": "logdt"
+  },
+  {
+    "korean": "출금인 정보",
+    "english": "Remitter Infomation",
+    "meta": "remtinfo"
+  },
+  {
+    "korean": "결과값",
+    "english": "Return Value",
+    "meta": "rtnval"
+  },
+  {
+    "korean": "발급일",
+    "english": "Issuance Date",
+    "meta": "issudate"
+  },
+  {
+    "korean": "발급일",
+    "english": "Issuance Date",
+    "meta": "enroldt"
+  },
+  {
+    "korean": "결과값",
+    "english": "Return Value",
+    "meta": "rtnvalue"
+  },
+  {
+    "korean": "출금인 정보",
+    "english": "Remitter Infomation",
+    "meta": "remtrinfo"
+  },
+  {
+    "korean": "로그일",
+    "english": "Log Date",
+    "meta": "logdate"
+  },
+  {
+    "korean": "결과값",
+    "english": "Result Value",
+    "meta": "rsltvalue"
+  },
+  {
+    "korean": "타겟 프로세스",
+    "english": "Target Process",
+    "meta": "tgtprcs"
+  },
+  {
+    "korean": "프로세스이름",
+    "english": "Process Name",
+    "meta": "prcsname"
+  },
+  {
+    "korean": "로그시간",
+    "english": "Log Time",
+    "meta": "logtime"
+  },
+  {
+    "korean": "JPMC 오류",
+    "english": "JPMC Error",
+    "meta": "jpmcerror"
+  },
+  {
+    "korean": "처리중",
+    "english": "Processing",
+    "meta": "processing"
+  },
+  {
+    "korean": "의뢰인 정보",
+    "english": "Requestor Infomation",
+    "meta": "rqstrinfo"
+  },
+  {
+    "korean": "개설은행",
+    "english": "Opening Bank",
+    "meta": "openbank"
+  },
+  {
+    "korean": "의뢰인 계좌번호",
+    "english": "Requestor Account",
+    "meta": "rqstacctno"
+  },
+  {
+    "korean": "당발/타발",
+    "english": "Inbound/Outbound",
+    "meta": "inout"
+  },
+  {
+    "korean": "LVB 수신시간",
+    "english": "LVB Received Time",
+    "meta": "lvbrcvtime"
+  },
+  {
+    "korean": "LVB 송신시간",
+    "english": "LVB Sent Time",
+    "meta": "lvbsndtime"
+  },
+  {
+    "korean": "KFTC 수신시간",
+    "english": "KFTC Received Time",
+    "meta": "kftcrcvtime"
+  },
+  {
+    "korean": "등록자ID",
+    "english": "Register ID",
+    "meta": "staffid"
+  },
+  {
+    "korean": "등록일자",
+    "english": "Registration Date",
+    "meta": "frstchngdt"
+  },
+  {
+    "korean": "은행상태",
+    "english": "Bank Status",
+    "meta": "bnksts"
+  },
+  {
+    "korean": "DDA코드",
+    "english": "DDA Code",
+    "meta": "ddacode"
+  },
+  {
+    "korean": "거주자여부",
+    "english": "Resident Y/N",
+    "meta": "dwelleryn"
+  },
+  {
+    "korean": "송신일",
+    "english": "Sending Date",
+    "meta": "senddate"
+  },
+  {
+    "korean": "수신일",
+    "english": "Receiving Date",
+    "meta": "rcvdate"
+  },
+  {
+    "korean": "수신시간",
+    "english": "Receiving Time",
+    "meta": "rcvtime"
+  },
+  {
+    "korean": "수신",
+    "english": "Receiving",
+    "meta": "receiving"
+  },
+  {
+    "korean": "송신",
+    "english": "Sending",
+    "meta": "sending"
+  },
+  {
+    "korean": "Host 유형",
+    "english": "Host Type",
+    "meta": "hosttyp"
+  },
+  {
+    "korean": "거래시간",
+    "english": "Transaction Time",
+    "meta": "trantm"
+  },
+  {
+    "korean": "Receive",
+    "english": "Receive",
+    "meta": "receive"
+  },
+  {
+    "korean": "Send",
+    "english": "Send",
+    "meta": "send"
+  },
+  {
+    "korean": "등록시간",
+    "english": "Register Time",
+    "meta": "addtm"
+  },
+  {
+    "korean": "메세지 타입",
+    "english": "Message type",
+    "meta": "tlgtp"
+  },
+  {
+    "korean": "지불인명",
+    "english": "Payer Name",
+    "meta": "pymntnm"
+  },
+  {
+    "korean": "수취계좌",
+    "english": "Beneficiary Account",
+    "meta": "benefacct"
+  },
+  {
+    "korean": "거래고유번호",
+    "english": "Transaction ID Number",
+    "meta": "tridnbr"
+  },
+  {
+    "korean": "지불은행",
+    "english": "Remitting Bank",
+    "meta": "paybnk"
+  },
+  {
+    "korean": "수취은행",
+    "english": "Beneficiary Bank",
+    "meta": "receiptbnk"
+  },
+  {
+    "korean": "LVB응답코드",
+    "english": "LVB Response Code",
+    "meta": "lvbrespcode"
+  },
+  {
+    "korean": "업무타입",
+    "english": "Service Type",
+    "meta": "biztp"
+  },
+  {
+    "korean": "흐름",
+    "english": "Flow",
+    "meta": "run"
+  },
+  {
+    "korean": "Process상태",
+    "english": "Process Status",
+    "meta": "prcsstat"
+  },
+  {
+    "korean": "송수신시간",
+    "english": "Send/Receive Time",
+    "meta": "sndrcvtime"
+  },
+  {
+    "korean": "송수신일",
+    "english": "Send/Receive Date",
+    "meta": "sndrcvdate"
+  },
+  {
+    "korean": "호스트번호",
+    "english": "Host Number",
+    "meta": "hostnbr"
+  },
+  {
+    "korean": "거래내역조회(휴일)",
+    "english": "Transaction Inquiry(Holiday)",
+    "meta": "holitraninqry"
+  },
+  {
+    "korean": "번호",
+    "english": "Sequence Number",
+    "meta": "seqnum"
+  },
+  {
+    "korean": "건수",
+    "english": "Record Count",
+    "meta": "reccount"
+  },
+  {
+    "korean": "의뢰인 전화번호",
+    "english": "Requestor's Phone Number",
+    "meta": "rqstrtelno"
+  },
+  {
+    "korean": "의뢰인 계좌번호",
+    "english": "Requestor Account Number",
+    "meta": "rqstracctnbr"
+  },
+  {
+    "korean": "의뢰자명",
+    "english": "Requestor Name",
+    "meta": "rqstrname"
+  },
+  {
+    "korean": "보고서명",
+    "english": "Report Name",
+    "meta": "reportnm"
+  },
+  {
+    "korean": "거래 정상분",
+    "english": "Normal Transactions",
+    "meta": "nrmltran"
+  },
+  {
+    "korean": "개설 미완료거래통지표",
+    "english": "Incomplete Transaction Notice (Beneficiary Bank)",
+    "meta": "benefbnkincomplttrnoti"
+  },
+  {
+    "korean": "거래 차감표",
+    "english": "Transaction Balance Table",
+    "meta": "txbaltlb"
+  },
+  {
+    "korean": "수수료 차감표",
+    "english": "Service Fee Balance Table",
+    "meta": "svcfeebaltlb"
+  },
+  {
+    "korean": "자금조정 근기표",
+    "english": "Basis Table for Fund Adjustment",
+    "meta": "fundadjmntbasetlb"
+  },
+  {
+    "korean": "차액결제자료",
+    "english": "Balance Settlement Information",
+    "meta": "cfdinfo"
+  },
+  {
+    "korean": "결제지시서",
+    "english": "Settlement Order",
+    "meta": "comprord"
+  },
+  {
+    "korean": "월간 은행별 거래집계현황",
+    "english": "Monthly Status of Transaction Summary by Bank",
+    "meta": "mnthlytraggrstsbybnk"
+  },
+  {
+    "korean": "월간 자금반환현황",
+    "english": "Monthly Status of Returned Funds",
+    "meta": "mnthlyfndrtnsts"
+  },
+  {
+    "korean": "월간 총거래현황",
+    "english": "Monthly Status of Total Transactions",
+    "meta": "totmnthlytrsts"
+  },
+  {
+    "korean": "개설은행 응답코드현황",
+    "english": "Response Code Status (Beneficiary Bank)",
+    "meta": "respcdstsbybnk"
+  },
+  {
+    "korean": "전문종별",
+    "english": "Message Type",
+    "meta": "txttp"
+  },
+  {
+    "korean": "전문코드",
+    "english": "Message Code",
+    "meta": "txtcd"
+  },
+  {
+    "korean": "설명",
+    "english": "Description",
+    "meta": "cont"
+  },
+  {
+    "korean": "최종조회지점",
+    "english": "Last Inquiry Branch",
+    "meta": "lstinqrybrnch"
+  },
+  {
+    "korean": "최종조회은행",
+    "english": "Last Inquiry Bank",
+    "meta": "lstinqrybnk"
+  },
+  {
+    "korean": "최종조회시간",
+    "english": "Last Inquiry Time",
+    "meta": "lstinqrytm"
+  },
+  {
+    "korean": "최종조회일",
+    "english": "Last Inquiry Date",
+    "meta": "lstinqrydt"
+  },
+  {
+    "korean": "예금주명",
+    "english": "Account Name",
+    "meta": "acctdepornm"
+  },
+  {
+    "korean": "예금주명(한글)",
+    "english": "Account Name(Korean)",
+    "meta": "acctdeporkrnm"
+  },
+  {
+    "korean": "예금주명(영어)",
+    "english": "Account Name(English)",
+    "meta": "acctdeporengnm"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account Number",
+    "meta": "acctnbr"
+  },
+  {
+    "korean": "계좌번호구조",
+    "english": "Account Number Structure",
+    "meta": "acctnbrstr"
+  },
+  {
+    "korean": "계좌일련번호",
+    "english": "Account Serial Number",
+    "meta": "acctnbrserno"
+  },
+  {
+    "korean": "계좌상태",
+    "english": "Account Status",
+    "meta": "acctstat"
+  },
+  {
+    "korean": "과목코드 (송신)",
+    "english": "Account Type Code (from)",
+    "meta": "fromaccttpcd"
+  },
+  {
+    "korean": "과목코드 (전북)",
+    "english": "Account Type Code (JeonBuk)",
+    "meta": "jeonbukaccttpcd"
+  },
+  {
+    "korean": "과목코드 (수신)",
+    "english": "Account Type Code (to)",
+    "meta": "toaccttpcd"
+  },
+  {
+    "korean": "과목코드",
+    "english": "Account Type Code",
+    "meta": "accttpcode"
+  },
+  {
+    "korean": "과목이름",
+    "english": "Account Type Name",
+    "meta": "accttpname"
+  },
+  {
+    "korean": "계좌",
+    "english": "Account",
+    "meta": "account"
+  },
+  {
+    "korean": "전체",
+    "english": "All",
+    "meta": "all"
+  },
+  {
+    "korean": "정상금액",
+    "english": "Amount of Normal Transactions",
+    "meta": "normtranamt"
+  },
+  {
+    "korean": "금액",
+    "english": "Amount",
+    "meta": "amount"
+  },
+  {
+    "korean": "순번",
+    "english": "Aries Number",
+    "meta": "ariesnum"
+  },
+  {
+    "korean": "승인",
+    "english": "Authorize",
+    "meta": "authrz"
+  },
+  {
+    "korean": "검증자",
+    "english": "Authorizer ID",
+    "meta": "authrzid"
+  },
+  {
+    "korean": "검증일",
+    "english": "Authorizer Date",
+    "meta": "authrzdt"
+  },
+  {
+    "korean": "가능과목코드",
+    "english": "Available Account Type",
+    "meta": "availaccttyp"
+  },
+  {
+    "korean": "은행코드",
+    "english": "Bank Code",
+    "meta": "bankcd"
+  },
+  {
+    "korean": "은행조회",
+    "english": "Bank Inquiry",
+    "meta": "bankinqry"
+  },
+  {
+    "korean": "은행일련번호",
+    "english": "Bank Serial Number",
+    "meta": "banksernbr"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank",
+    "meta": "bank"
+  },
+  {
+    "korean": "출금은행",
+    "english": "Payer Bank",
+    "meta": "whdrwlbnk"
+  },
+  {
+    "korean": "수취은행코드",
+    "english": "Beneficiary Bank Code",
+    "meta": "rcvbnk"
+  },
+  {
+    "korean": "수취인명",
+    "english": "Beneficiary Name",
+    "meta": "benefnm"
+  },
+  {
+    "korean": "실제수취인명",
+    "english": "Actually Beneficiary Name",
+    "meta": "realbenefnm"
+  },
+  {
+    "korean": "수취인명2",
+    "english": "Beneficiary Name2",
+    "meta": "benefnm2"
+  },
+  {
+    "korean": "JPM 오류",
+    "english": "JPM Error",
+    "meta": "jpmerror"
+  },
+  {
+    "korean": "JPM 합계",
+    "english": "JPM Total",
+    "meta": "jpmsum"
+  },
+  {
+    "korean": "지점코드",
+    "english": "Branch Code",
+    "meta": "branchcode"
+  },
+  {
+    "korean": "지점조회",
+    "english": "Branch Inquiry",
+    "meta": "branchinqry"
+  },
+  {
+    "korean": "업무상태",
+    "english": "Business Status",
+    "meta": "businssts"
+  },
+  {
+    "korean": "취소",
+    "english": "Cancel",
+    "meta": "canc"
+  },
+  {
+    "korean": "취소(B)",
+    "english": "Cancel (B)",
+    "meta": "cancb"
+  },
+  {
+    "korean": "현금",
+    "english": "Cash",
+    "meta": "money"
+  },
+  {
+    "korean": "종료일",
+    "english": "CLSEe Date",
+    "meta": "clsedt"
+  },
+  {
+    "korean": "종료일",
+    "english": "CLSEing Date",
+    "meta": "clsedate"
+  },
+  {
+    "korean": "추심어음",
+    "english": "Collection Bill",
+    "meta": "colectnote"
+  },
+  {
+    "korean": "설명",
+    "english": "COMMENTS",
+    "meta": "comments"
+  },
+  {
+    "korean": "통신망",
+    "english": "Communications Network",
+    "meta": "commnet"
+  },
+  {
+    "korean": "기업수표",
+    "english": "Corporate Cheque",
+    "meta": "corpcheck"
+  },
+  {
+    "korean": "불능건수",
+    "english": "Count of Faliures",
+    "meta": "unablecnt"
+  },
+  {
+    "korean": "결번건수",
+    "english": "Count of Missing Message",
+    "meta": "retirecnt"
+  },
+  {
+    "korean": "정상건수",
+    "english": "Count of Normal Transactions",
+    "meta": "compltcnt"
+  },
+  {
+    "korean": "미처리타발전문",
+    "english": "Count of Pending Inbound Message",
+    "meta": "pendinbmsgcnt"
+  },
+  {
+    "korean": "미처리당발전문",
+    "english": "Count of Pending Outbound Message",
+    "meta": "pendoutbmsgcnt"
+  },
+  {
+    "korean": "거래건수",
+    "english": "Count of Transactions",
+    "meta": "trancnt"
+  },
+  {
+    "korean": "고객일련번호",
+    "english": "Customer Serial Number",
+    "meta": "custsernbr"
+  },
+  {
+    "korean": "날짜",
+    "english": "Date",
+    "meta": "date"
+  },
+  {
+    "korean": "날짜조회",
+    "english": "Date/Time Inquiry",
+    "meta": "dateinqry"
+  },
+  {
+    "korean": "이유설명",
+    "english": "Detailed Reason",
+    "meta": "rsndesc"
+  },
+  {
+    "korean": "부도",
+    "english": "Dishonored",
+    "meta": "dishnr"
+  },
+  {
+    "korean": "발효일",
+    "english": "Effective Date",
+    "meta": "stadt"
+  },
+  {
+    "korean": "입력",
+    "english": "Entry",
+    "meta": "input"
+  },
+  {
+    "korean": "오류",
+    "english": "Error",
+    "meta": "error"
+  },
+  {
+    "korean": "불능금액",
+    "english": "Failed Amount",
+    "meta": "unableamt"
+  },
+  {
+    "korean": "불능",
+    "english": "Failure",
+    "meta": "unable"
+  },
+  {
+    "korean": "불능(C)",
+    "english": "Failure (C)",
+    "meta": "unablec"
+  },
+  {
+    "korean": "파일명",
+    "english": "File Name",
+    "meta": "filename"
+  },
+  {
+    "korean": "자금반환 (BH0003)",
+    "english": "Fund Return (BH0003)",
+    "meta": "fundrtn"
+  },
+  {
+    "korean": "자금구분",
+    "english": "Fund Type",
+    "meta": "fundtyp"
+  },
+  {
+    "korean": "이체일",
+    "english": "Funds Transfer Date",
+    "meta": "fundtrandt"
+  },
+  {
+    "korean": "이체수수료",
+    "english": "Funds Transfer Fee",
+    "meta": "fundtranfee"
+  },
+  {
+    "korean": "이체",
+    "english": "Funds Transfer",
+    "meta": "fundtran"
+  },
+  {
+    "korean": "GBS 계좌번호",
+    "english": "GBS Account Number",
+    "meta": "gbsacctno"
+  },
+  {
+    "korean": "지로코드",
+    "english": "GIRO Code",
+    "meta": "grcd"
+  },
+  {
+    "korean": "타발전문",
+    "english": "Inbound Message",
+    "meta": "inbtlg"
+  },
+  {
+    "korean": "타발",
+    "english": "Inbound",
+    "meta": "inbound"
+  },
+  {
+    "korean": "미완료",
+    "english": "Incomplete",
+    "meta": "incomplete"
+  },
+  {
+    "korean": "최종타발전문번호",
+    "english": "Last Inbound Message Number",
+    "meta": "lstinbtlgno"
+  },
+  {
+    "korean": "최종당발전문번호",
+    "english": "Last Outbound Message Number",
+    "meta": "lstoutbtlgno"
+  },
+  {
+    "korean": "반영시간",
+    "english": "Last Time",
+    "meta": "upttm"
+  },
+  {
+    "korean": "계좌번호길이",
+    "english": "Length of Account Number",
+    "meta": "acctnbrlen"
+  },
+  {
+    "korean": "과목코드길이",
+    "english": "Length of Account Type Code",
+    "meta": "accttypcdlen"
+  },
+  {
+    "korean": "LVB 계좌번호",
+    "english": "LVB Account Number",
+    "meta": "lvbacctnum"
+  },
+  {
+    "korean": "가상계좌번호",
+    "english": "Virtual Account Number",
+    "meta": "vrtlacctnum"
+  },
+  {
+    "korean": "매체구분",
+    "english": "Media Type",
+    "meta": "mediadvsn"
+  },
+  {
+    "korean": "전문번호",
+    "english": "Message Number",
+    "meta": "tlgnbr"
+  },
+  {
+    "korean": "전문번호",
+    "english": "Message No",
+    "meta": "tlgno"
+  },
+  {
+    "korean": "월",
+    "english": "Month",
+    "meta": "month"
+  },
+  {
+    "korean": "정상",
+    "english": "Normal",
+    "meta": "normal"
+  },
+  {
+    "korean": "발생",
+    "english": "Occured",
+    "meta": "occ"
+  },
+  {
+    "korean": "보류",
+    "english": "On Hold",
+    "meta": "onhold"
+  },
+  {
+    "korean": "데이타파일열기",
+    "english": "Open Data File",
+    "meta": "opndatafile"
+  },
+  {
+    "korean": "발급일",
+    "english": "Opening Date",
+    "meta": "stadt"
+  },
+  {
+    "korean": "원거래일",
+    "english": "Original Transaction Date",
+    "meta": "orgntrandate"
+  },
+  {
+    "korean": "타행응답",
+    "english": "Other Bank's Response",
+    "meta": "othrbankresp"
+  },
+  {
+    "korean": "당발전문",
+    "english": "Outbound Message",
+    "meta": "outbtlg"
+  },
+  {
+    "korean": "당발",
+    "english": "Outbound",
+    "meta": "outbound"
+  },
+  {
+    "korean": "지불일",
+    "english": "Payment Date",
+    "meta": "paydt"
+  },
+  {
+    "korean": "출금계좌번호",
+    "english": "Payment Account Number",
+    "meta": "whdrwlacctno"
+  },
+  {
+    "korean": "과목코드",
+    "english": "Product Code",
+    "meta": "productcd"
+  },
+  {
+    "korean": "이유",
+    "english": "Reason",
+    "meta": "reason"
+  },
+  {
+    "korean": "등록일",
+    "english": "Register Date",
+    "meta": "enrolldt"
+  },
+  {
+    "korean": "등록ID",
+    "english": "Registrar ID",
+    "meta": "enrollid"
+  },
+  {
+    "korean": "거부",
+    "english": "Reject",
+    "meta": "reject"
+  },
+  {
+    "korean": "거부전문",
+    "english": "Rejection Message",
+    "meta": "rjcttlg"
+  },
+  {
+    "korean": "재시도",
+    "english": "Retry",
+    "meta": "rtry"
+  },
+  {
+    "korean": "비고",
+    "english": "Remark",
+    "meta": "rmk"
+  },
+  {
+    "korean": "이체",
+    "english": "Remittance",
+    "meta": "pymnt"
+  },
+  {
+    "korean": "이체(A)",
+    "english": "Remittance (A)",
+    "meta": "pymnta"
+  },
+  {
+    "korean": "출금계좌",
+    "english": "Remitter Account",
+    "meta": "whdrwlacct"
+  },
+  {
+    "korean": "개설은행",
+    "english": "Remitter Bank",
+    "meta": "initbnk"
+  },
+  {
+    "korean": "발급은행코드",
+    "english": "Remitter Bank Code",
+    "meta": "relesbnkcd"
+  },
+  {
+    "korean": "출금은행수수료",
+    "english": "Remitter Bank Fee",
+    "meta": "debitbnkfee"
+  },
+  {
+    "korean": "발급지점코드",
+    "english": "Remitter Branch Code",
+    "meta": "relesbrnchcd"
+  },
+  {
+    "korean": "출금인명",
+    "english": "Remitter Name",
+    "meta": "aprvbnkcd"
+  },
+  {
+    "korean": "출금인 전화번호",
+    "english": "Remitter's Phone Number",
+    "meta": "remtrtelno"
+  },
+  {
+    "korean": "자금반환요청 (BH0001)",
+    "english": "Request for Fund Return (BH0001)",
+    "meta": "fundrtnrqst"
+  },
+  {
+    "korean": "요청전문번호",
+    "english": "Request Message Number",
+    "meta": "rqsttlgno"
+  },
+  {
+    "korean": "요청번호",
+    "english": "Request Number",
+    "meta": "rqstnbr"
+  },
+  {
+    "korean": "요청",
+    "english": "Request",
+    "meta": "req"
+  },
+  {
+    "korean": "요청은행지점",
+    "english": "Requesting Branch",
+    "meta": "reqbrnch"
+  },
+  {
+    "korean": "응답코드",
+    "english": "Response Code",
+    "meta": "respcd"
+  },
+  {
+    "korean": "응답",
+    "english": "Response",
+    "meta": "respon"
+  },
+  {
+    "korean": "재시작",
+    "english": "Restart of Day",
+    "meta": "dayrestart"
+  },
+  {
+    "korean": "반환",
+    "english": "Return",
+    "meta": "retn"
+  },
+  {
+    "korean": "반환은행",
+    "english": "Returning Bank",
+    "meta": "reimbbnk"
+  },
+  {
+    "korean": "행",
+    "english": "Rows",
+    "meta": "rec"
+  },
+  {
+    "korean": "예정날짜",
+    "english": "Scheduled Date",
+    "meta": "duedt"
+  },
+  {
+    "korean": "순서번호",
+    "english": "Sequence No",
+    "meta": "seqnum"
+  },
+  {
+    "korean": "순번",
+    "english": "No",
+    "meta": "nbr"
+  },
+  {
+    "korean": "일련번호",
+    "english": "Serial Number",
+    "meta": "serno"
+  },
+  {
+    "korean": "수수료",
+    "english": "Service Fee",
+    "meta": "scvfee"
+  },
+  {
+    "korean": "주민등록번호",
+    "english": "Social Number",
+    "meta": "socialno"
+  },
+  {
+    "korean": "상태",
+    "english": "Status",
+    "meta": "stat"
+  },
+  {
+    "korean": "상태1",
+    "english": "Status 1",
+    "meta": "stat1"
+  },
+  {
+    "korean": "상태2",
+    "english": "Status 2",
+    "meta": "stat2"
+  },
+  {
+    "korean": "상태3",
+    "english": "Status 3",
+    "meta": "stat3"
+  },
+  {
+    "korean": "시스템장애통보",
+    "english": "System Failure Notice",
+    "meta": "syserrnoti"
+  },
+  {
+    "korean": "시스템회복통보",
+    "english": "System Recovery Notice",
+    "meta": "sysnrmlnoti"
+  },
+  {
+    "korean": "시험연결",
+    "english": "Test Call",
+    "meta": "tempcall"
+  },
+  {
+    "korean": "알람",
+    "english": "Timer",
+    "meta": "alert"
+  },
+  {
+    "korean": "자금이체총액",
+    "english": "Total Amount of Funds Transfer",
+    "meta": "moneytrtotamt"
+  },
+  {
+    "korean": "총액",
+    "english": "Total Amount",
+    "meta": "totalamt"
+  },
+  {
+    "korean": "거래건수",
+    "english": "Transaction",
+    "meta": "dealcnt"
+  },
+  {
+    "korean": "거래코드",
+    "english": "Transaction Code",
+    "meta": "dealcd"
+  },
+  {
+    "korean": "거래일",
+    "english": "Transaction Date",
+    "meta": "dealdt"
+  },
+  {
+    "korean": "결제원 거래일",
+    "english": "KFTC Transaction Date",
+    "meta": "kftcdealdt"
+  },
+  {
+    "korean": "결제원 거래시간",
+    "english": "KFTC Transaction Time",
+    "meta": "kftcdealtm"
+  },
+  {
+    "korean": "거래구분",
+    "english": "Transaction Type",
+    "meta": "dealtp"
+  },
+  {
+    "korean": "거래년도",
+    "english": "Transaction Year",
+    "meta": "dealyr"
+  },
+  {
+    "korean": "구분",
+    "english": "Type",
+    "meta": "dvsn"
+  },
+  {
+    "korean": "가중치",
+    "english": "Weight",
+    "meta": "wght"
+  },
+  {
+    "korean": "가중치 (입력 1~16)",
+    "english": "Weight (1 ~16 Insert)",
+    "meta": "116wght"
+  },
+  {
+    "korean": "출금",
+    "english": "Withdrawal",
+    "meta": "pymnt"
+  },
+  {
+    "korean": "년도",
+    "english": "Year",
+    "meta": "year"
+  },
+  {
+    "korean": "채널구분",
+    "english": "Channel Type",
+    "meta": "wiretp"
+  },
+  {
+    "korean": "발급일",
+    "english": "Issuing Date",
+    "meta": "aprvdt"
+  },
+  {
+    "korean": "발급지점코드",
+    "english": "Issuing Branch Code",
+    "meta": "aprvbrnchcd"
+  },
+  {
+    "korean": "발급은행코드",
+    "english": "Issuing Bank Code",
+    "meta": "aprvbnkcd"
+  },
+  {
+    "korean": "주민/사업자번호",
+    "english": "Social/Business Number",
+    "meta": "idbiznum"
+  },
+  {
+    "korean": "고객번호",
+    "english": "Customer Number",
+    "meta": "custnbr"
+  },
+  {
+    "korean": "등록유형",
+    "english": "Register Type",
+    "meta": "addtp"
+  },
+  {
+    "korean": "최종변경일",
+    "english": "Last Update",
+    "meta": "lstupdtdt"
+  },
+  {
+    "korean": "LVB/CQE 번호",
+    "english": "Host No",
+    "meta": "lvbcqenbr"
+  },
+  {
+    "korean": "전문번호",
+    "english": "Msg No",
+    "meta": "txtno"
+  },
+  {
+    "korean": "전송HOST구분",
+    "english": "Msg Type",
+    "meta": "trhostdvsn"
+  },
+  {
+    "korean": "거래순번",
+    "english": "Transaction Seq",
+    "meta": "trseq"
+  },
+  {
+    "korean": "결제원전문번호",
+    "english": "KFTC Msg No",
+    "meta": "kftctxtno"
+  },
+  {
+    "korean": "타은행전문번호",
+    "english": "Other Bank's Msg No",
+    "meta": "othrbnkmsgno"
+  },
+  {
+    "korean": "전문코드",
+    "english": "Msg Code",
+    "meta": "tlgcd"
+  },
+  {
+    "korean": "지점코드",
+    "english": "Branch",
+    "meta": "brnch"
+  },
+  {
+    "korean": "결제원지점코드1",
+    "english": "KFTC Branch1",
+    "meta": "kftcbrnch1"
+  },
+  {
+    "korean": "결제원지점코드2",
+    "english": "KFTC Branch2",
+    "meta": "kftcbrnch2"
+  },
+  {
+    "korean": "타행코드",
+    "english": "Other Bank Code",
+    "meta": "othrbnkcd"
+  },
+  {
+    "korean": "타행지점코드",
+    "english": "Other Bank Branch",
+    "meta": "othrbrnchcd"
+  },
+  {
+    "korean": "취급은행전문전송시간",
+    "english": "Request S/R Time",
+    "meta": "hndlbnksndtm"
+  },
+  {
+    "korean": "결제원전문전송시간",
+    "english": "KFTC S/R Time",
+    "meta": "kftcsndtm"
+  },
+  {
+    "korean": "개설은행전문전송시간",
+    "english": "Response S/R Time",
+    "meta": "opnbnktlgtrtm"
+  },
+  {
+    "korean": "요구전문송신상태",
+    "english": "Request S/R Status",
+    "meta": "rqsttlgsndsts"
+  },
+  {
+    "korean": "응답전문송신상태",
+    "english": "Response S/R Status",
+    "meta": "resptlgrcvsts"
+  },
+  {
+    "korean": "불능응답수신상태",
+    "english": "Failed S/R Status",
+    "meta": "fialresprcvsts"
+  },
+  {
+    "korean": "단말구분",
+    "english": "Entry Type",
+    "meta": "entrytp"
+  },
+  {
+    "korean": "출금인실명",
+    "english": "Remitter Real Name",
+    "meta": "remterrealnm"
+  },
+  {
+    "korean": "상태코드",
+    "english": "Status Code",
+    "meta": "statcd"
+  },
+  {
+    "korean": "전문전송일시",
+    "english": "Message send time",
+    "meta": "msgsndtm"
+  },
+  {
+    "korean": "조회구분",
+    "english": "Inquiry Type",
+    "meta": "seachtp"
+  },
+  {
+    "korean": "의심계좌거래",
+    "english": "Suspicious Transaction",
+    "meta": "susptcsaccttr"
+  },
+  {
+    "korean": "원거래번호",
+    "english": "Orginal KFTC Msg No",
+    "meta": "orgntrno"
+  },
+  {
+    "korean": "의심계좌거래",
+    "english": "Suspicious Transaction",
+    "meta": "susptcstr"
+  },
+  {
+    "korean": "BOK 운영시간",
+    "english": "Normal BOK Hour :",
+    "meta": "bokwrktm"
+  },
+  {
+    "korean": "반대거래(B)",
+    "english": "Reversal Remittance (B)",
+    "meta": "revstrb"
+  },
+  {
+    "korean": "스케줄일자",
+    "english": "Schedule Date",
+    "meta": "plandt"
+  },
+  {
+    "korean": "스케줄일자",
+    "english": "Schedule Date",
+    "meta": "targetdt"
+  },
+  {
+    "korean": "시작시간",
+    "english": "Start Time",
+    "meta": "statm"
+  },
+  {
+    "korean": "시작시간",
+    "english": "Start Time",
+    "meta": "begintm"
+  },
+  {
+    "korean": "종료시간",
+    "english": "End Time",
+    "meta": "endtm"
+  },
+  {
+    "korean": "종료시간",
+    "english": "End Time",
+    "meta": "finitm"
+  },
+  {
+    "korean": "등록자",
+    "english": "Maker",
+    "meta": "maker"
+  },
+  {
+    "korean": "등록자",
+    "english": "Maker",
+    "meta": "recoder"
+  },
+  {
+    "korean": "의심계좌번호",
+    "english": "Suspicious Account No",
+    "meta": "susptacctno"
+  },
+  {
+    "korean": "의심계좌번호",
+    "english": "Suspicious Account No",
+    "meta": "qeustnacctno"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank Name",
+    "meta": "bnknm"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank Name",
+    "meta": "banknm"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account No",
+    "meta": "acctid"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account No",
+    "meta": "fundacct"
+  },
+  {
+    "korean": "계좌상태",
+    "english": "Account State",
+    "meta": "acctconditon"
+  },
+  {
+    "korean": "계좌상태",
+    "english": "Account State",
+    "meta": "acctposition"
+  },
+  {
+    "korean": "스위치타입",
+    "english": "Switch Type",
+    "meta": "swctp"
+  },
+  {
+    "korean": "스위치타입",
+    "english": "Switch Type",
+    "meta": "switchtp"
+  },
+  {
+    "korean": "KFTC응답",
+    "english": "KFTC Response",
+    "meta": "kftcresp"
+  },
+  {
+    "korean": "KFTC응답",
+    "english": "KFTC Response",
+    "meta": "kftcrply"
+  },
+  {
+    "korean": "BOK응답",
+    "english": "BOK Response",
+    "meta": "bokresp"
+  },
+  {
+    "korean": "BOK응답",
+    "english": "BOK Response",
+    "meta": "bokrply"
+  },
+  {
+    "korean": "타은행응답",
+    "english": "Other Bank Response",
+    "meta": "othrbnkrply"
+  },
+  {
+    "korean": "타은행응답",
+    "english": "Other Bank Response",
+    "meta": "othrbnkanswer"
+  },
+  {
+    "korean": "결제원전문번호",
+    "english": "KFTC Msg No",
+    "meta": "kftctlgnbr"
+  },
+  {
+    "korean": "결제원전문번호",
+    "english": "KFTC Msg No",
+    "meta": "kftcmsgnbr"
+  },
+  {
+    "korean": "타행이체",
+    "english": "Normal Payment",
+    "meta": "nrmlpymnt"
+  },
+  {
+    "korean": "타행이체",
+    "english": "Normal Payment",
+    "meta": "othrbnktr"
+  },
+  {
+    "korean": "반대거래",
+    "english": "Reversal Payment",
+    "meta": "revspymnt"
+  },
+  {
+    "korean": "반대거래",
+    "english": "Reversal Payment",
+    "meta": "revstr"
+  },
+  {
+    "korean": "의심거래 (Y/N)",
+    "english": "Suspicious Transaction (Y/N)",
+    "meta": "susptcsaccttryn"
+  },
+  {
+    "korean": "의심거래 (Y/N)",
+    "english": "Suspicious Transaction (Y/N)",
+    "meta": "susptcstryn"
+  },
+  {
+    "korean": "의뢰인실명",
+    "english": "Remitter Real Name",
+    "meta": "payerrealnm"
+  },
+  {
+    "korean": "최종 전문 번호",
+    "english": "Last Message Number",
+    "meta": "lsttlgno"
+  },
+  {
+    "korean": "로그조회(KCG - KFTC)",
+    "english": "Log Inquiry(KCG - KFTC)",
+    "meta": "loginqry"
+  },
+  {
+    "korean": "LVB/CQE번호",
+    "english": "LVB/ITC(GCH) no",
+    "meta": "lvbcqenbr"
+  },
+  {
+    "korean": "전문구분",
+    "english": "Msg Type",
+    "meta": "txtp"
+  },
+  {
+    "korean": "원거래내역",
+    "english": "Original Transaction History",
+    "meta": "orgntrhst"
+  },
+  {
+    "korean": "수취계좌번호",
+    "english": "Bene Account No",
+    "meta": "rcvacctno"
+  },
+  {
+    "korean": "Report",
+    "english": "Report",
+    "meta": "rpt"
+  },
+  {
+    "korean": "Report ID",
+    "english": "Report ID",
+    "meta": "rptid"
+  },
+  {
+    "korean": "청구내역",
+    "english": "Request History",
+    "meta": "rqstlst"
+  },
+  {
+    "korean": "반환내역",
+    "english": "Return History",
+    "meta": "rtnlst"
+  },
+  {
+    "korean": "개설기관(반환)",
+    "english": "Bene bank (return)",
+    "meta": "rtnopnbnk"
+  },
+  {
+    "korean": "개설기관대표코드",
+    "english": "Bene bank Code",
+    "meta": "opnbnkcd"
+  },
+  {
+    "korean": "거래고유번호",
+    "english": "Request msg no",
+    "meta": "rqstid"
+  },
+  {
+    "korean": "거래내역조회",
+    "english": "Trax history inquiry",
+    "meta": "trhstinqry"
+  },
+  {
+    "korean": "거래발생일",
+    "english": "Trax occurred date",
+    "meta": "troccurdt"
+  },
+  {
+    "korean": "거래일",
+    "english": "Trax date",
+    "meta": "dealday"
+  },
+  {
+    "korean": "결번건수",
+    "english": "missing number",
+    "meta": "unfildtrcnt"
+  },
+  {
+    "korean": "계좌",
+    "english": "account",
+    "meta": "acct"
+  },
+  {
+    "korean": "구분",
+    "english": "sort",
+    "meta": "order"
+  },
+  {
+    "korean": "미처리 반환 전문 내역",
+    "english": "Unprocessed return msg history",
+    "meta": "unprcsrtnmsghst"
+  },
+  {
+    "korean": "미처리 자금반환 거래건수",
+    "english": "Unprocessed return trax number",
+    "meta": "unprcsrtntrcnt"
+  },
+  {
+    "korean": "미처리 자금청구 거래건수",
+    "english": "Unprocessed request trax number",
+    "meta": "unprcsrqsttrcnt"
+  },
+  {
+    "korean": "미처리 청구 전문 내역",
+    "english": "Unprocessed request msg history",
+    "meta": "unprcsrqsttrhst"
+  },
+  {
+    "korean": "반환거부사유코드",
+    "english": "Return reject reason code",
+    "meta": "rtnrjctrsncd"
+  },
+  {
+    "korean": "반환거부사유",
+    "english": "Return reject reason",
+    "meta": "rtnrjctrsn"
+  },
+  {
+    "korean": "반환금액",
+    "english": "Return amount",
+    "meta": "rtnamt"
+  },
+  {
+    "korean": "반환사유",
+    "english": "Return reason",
+    "meta": "rtnrsn"
+  },
+  {
+    "korean": "반환여부",
+    "english": "Return (Y/N)",
+    "meta": "rntyn"
+  },
+  {
+    "korean": "반환은행",
+    "english": "Return bank",
+    "meta": "refundbnk"
+  },
+  {
+    "korean": "수취계좌",
+    "english": "Bene acct no",
+    "meta": "creditacctno"
+  },
+  {
+    "korean": "수취인명",
+    "english": "Bene name",
+    "meta": "benenm"
+  },
+  {
+    "korean": "시험연결",
+    "english": "Test connections",
+    "meta": "testconct"
+  },
+  {
+    "korean": "실제수취인명",
+    "english": "Actual beneficiary name",
+    "meta": "actbenefnm"
+  },
+  {
+    "korean": "알람",
+    "english": "alarm",
+    "meta": "alarm"
+  },
+  {
+    "korean": "원거래고유번호",
+    "english": "Original KFTC Msg No",
+    "meta": "orgnkftcmsgno"
+  },
+  {
+    "korean": "원거래금액",
+    "english": "Original Trax amount",
+    "meta": "orgntxamt"
+  },
+  {
+    "korean": "원거래수취계좌번호",
+    "english": "Ori Trax bene acc no",
+    "meta": "orgnrcvacctno"
+  },
+  {
+    "korean": "원거래일자",
+    "english": "Original Trax date",
+    "meta": "orgntxdt"
+  },
+  {
+    "korean": "원거래정보",
+    "english": "Original Trax info",
+    "meta": "orgntrinfo"
+  },
+  {
+    "korean": "의심계좌거래",
+    "english": "suspicious account Trax",
+    "meta": "susptcsaccttx"
+  },
+  {
+    "korean": "자금반환",
+    "english": "Payment Return",
+    "meta": "pymntrtn"
+  },
+  {
+    "korean": "자금반환 정상 내역",
+    "english": "Payment return norma history",
+    "meta": "pymntrtnnrmlhst"
+  },
+  {
+    "korean": "자금반환등록일",
+    "english": "Payment return registration date",
+    "meta": "pymntrtnregdt"
+  },
+  {
+    "korean": "자금청구",
+    "english": "Payment request",
+    "meta": "pymntrqst"
+  },
+  {
+    "korean": "자금청구 접수 정상 내역",
+    "english": "Request accept normal history",
+    "meta": "pymntrqstnrmlhst"
+  },
+  {
+    "korean": "자금청구접수등록일",
+    "english": "Receipt date of request",
+    "meta": "pymntrqstregdt"
+  },
+  {
+    "korean": "전문번호",
+    "english": "msg No",
+    "meta": "txtnbr"
+  },
+  {
+    "korean": "전체",
+    "english": "Total",
+    "meta": "tot"
+  },
+  {
+    "korean": "처리중",
+    "english": "In progress",
+    "meta": "ing"
+  },
+  {
+    "korean": "청구거래고유번호",
+    "english": "Request KFTC Msg No",
+    "meta": "rqstkftctlgno"
+  },
+  {
+    "korean": "청구거래정보",
+    "english": "Request Trax info",
+    "meta": "rqsttrinfo"
+  },
+  {
+    "korean": "청구금액",
+    "english": "Request amount",
+    "meta": "rqstamt"
+  },
+  {
+    "korean": "청구사유",
+    "english": "Request reason",
+    "meta": "rqstrsn"
+  },
+  {
+    "korean": "청구사유코드",
+    "english": "Reqeust reason code",
+    "meta": "rqstrsncd"
+  },
+  {
+    "korean": "청구일자",
+    "english": "Request date",
+    "meta": "rqstdt"
+  },
+  {
+    "korean": "청구처리단계",
+    "english": "Reqeust process phrase",
+    "meta": "rqstprcsphras"
+  },
+  {
+    "korean": "최종당발전문번호",
+    "english": "final inbound msg no",
+    "meta": "finlinbmsgno"
+  },
+  {
+    "korean": "출금계좌",
+    "english": "Debit account no",
+    "meta": "debitacctno"
+  },
+  {
+    "korean": "출금인명",
+    "english": "Debit name",
+    "meta": "debitnm"
+  },
+  {
+    "korean": "출금인실명",
+    "english": "Debit real name",
+    "meta": "debitrealnm"
+  },
+  {
+    "korean": "청구은행",
+    "english": "Request bank",
+    "meta": "rqstbnk"
+  },
+  {
+    "korean": "청구은행코드",
+    "english": "Request bank Code",
+    "meta": "rqstbnkcd"
+  },
+  {
+    "korean": "타행상태조회",
+    "english": "Other bank status inquiry",
+    "meta": "othrbnkstsinqry"
+  },
+  {
+    "korean": "통신망",
+    "english": "Network",
+    "meta": "netofcomm"
+  },
+  {
+    "korean": "통신망 및 전문번호 관리",
+    "english": "Network &amp; msg no management",
+    "meta": "nettlgnomgmt"
+  },
+  {
+    "korean": "자금청구 접수 정상 내역",
+    "english": "Normal history of payment recall request acceptance",
+    "meta": "pymntrecalrqstaccepnrmlhst"
+  },
+  {
+    "korean": "자금반환 정상 내역",
+    "english": "Normal history of payment reall",
+    "meta": "pymntrecalnrmlhst"
+  },
+  {
+    "korean": "전액반환여부",
+    "english": "Return in full(Y/N)",
+    "meta": "fullrtnyn"
+  },
+  {
+    "korean": "담당자연락처",
+    "english": "Employee contact",
+    "meta": "emplycontt"
+  },
+  {
+    "korean": "세부사항",
+    "english": "Details",
+    "meta": "dtl"
+  },
+  {
+    "korean": "총반환금액",
+    "english": "Total Return Amount",
+    "meta": "totrtnamt"
+  },
+  {
+    "korean": "온라인청구여부",
+    "english": "Online request (Y/N)",
+    "meta": "onlinerqstyn"
+  },
+  {
+    "korean": "미완료여부",
+    "english": "Incomplete (Y/N)",
+    "meta": "incmpltyn"
+  },
+  {
+    "korean": "기 반환 건",
+    "english": "already returned",
+    "meta": "alreadyrtn"
+  },
+  {
+    "korean": "원거래고유번호",
+    "english": "Original KFTC Msg No",
+    "meta": "orgnkftcid"
+  },
+  {
+    "korean": "반환은행",
+    "english": "Return bank",
+    "meta": "repymntbnk"
+  },
+  {
+    "korean": "거래고유번호",
+    "english": "Request msg no",
+    "meta": "rqstid"
+  },
+  {
+    "korean": "거래시간",
+    "english": "Trax time",
+    "meta": "txtm"
+  },
+  {
+    "korean": "거래일",
+    "english": "Trax date",
+    "meta": "txdt"
+  },
+  {
+    "korean": "공동망종류",
+    "english": "Wire type",
+    "meta": "wiredvsn"
+  },
+  {
+    "korean": "구분",
+    "english": "Inbound/ outbound",
+    "meta": "outindvsn"
+  },
+  {
+    "korean": "등록자명",
+    "english": "Register name",
+    "meta": "regnm"
+  },
+  {
+    "korean": "반영시간",
+    "english": "Reflecting time",
+    "meta": "reflecttm"
+  },
+  {
+    "korean": "반환거부사유",
+    "english": "Return reject reason",
+    "meta": "refunddeclincause"
+  },
+  {
+    "korean": "반환거부사유코드",
+    "english": "Return reject reason code",
+    "meta": "refunddeclincausecd"
+  },
+  {
+    "korean": "반환금액",
+    "english": "Return amount",
+    "meta": "refundamt"
+  },
+  {
+    "korean": "반환사유",
+    "english": "Return reason",
+    "meta": "refundrsn"
+  },
+  {
+    "korean": "반환사유코드",
+    "english": "Return reason code",
+    "meta": "refundrsn"
+  },
+  {
+    "korean": "반환여부",
+    "english": "Return (Y/N)",
+    "meta": "refundyn"
+  },
+  {
+    "korean": "송금인실명",
+    "english": "Sender real name",
+    "meta": "sndrrealnm"
+  },
+  {
+    "korean": "송신",
+    "english": "Sending/ Receive",
+    "meta": "sndrcv"
+  },
+  {
+    "korean": "수취인실명",
+    "english": "Beneficiary real name",
+    "meta": "rcvrealnm"
+  },
+  {
+    "korean": "승인일자",
+    "english": "APPRVoval date",
+    "meta": "apprvdt"
+  },
+  {
+    "korean": "승인자ID",
+    "english": "APPRVover",
+    "meta": "apprver"
+  },
+  {
+    "korean": "승인자명",
+    "english": "APPRVover name",
+    "meta": "apprvernm"
+  },
+  {
+    "korean": "실제수취인명",
+    "english": "Real beneficiary name",
+    "meta": "realpayeenm"
+  },
+  {
+    "korean": "온라인청구여부",
+    "english": "Online request (Y/N)",
+    "meta": "onlineclaimyn"
+  },
+  {
+    "korean": "원거래KFTC전문번호",
+    "english": "Original KFTC Msg No",
+    "meta": "orgnkftctlgno"
+  },
+  {
+    "korean": "원거래금액",
+    "english": "Original transaction amount",
+    "meta": "orgntramt"
+  },
+  {
+    "korean": "원거래수취계좌번호",
+    "english": "Original transaction beneficiary account number",
+    "meta": "orgnbenefacctno"
+  },
+  {
+    "korean": "자금반환등록일",
+    "english": "Payment return registration date",
+    "meta": "refundregdt"
+  },
+  {
+    "korean": "자금반환일",
+    "english": "Payment return date",
+    "meta": "refunddt"
+  },
+  {
+    "korean": "자금청구접수등록일",
+    "english": "Receipt registration date of payment request",
+    "meta": "pymntrqstreceptregdt"
+  },
+  {
+    "korean": "자금청구접수일",
+    "english": "Payment request receipt date",
+    "meta": "pymntrqstreceptdt"
+  },
+  {
+    "korean": "청구/반환거래금액",
+    "english": "Request/ return trax amount",
+    "meta": "rqstrtntramt"
+  },
+  {
+    "korean": "청구/반환사유코드",
+    "english": "Request/ return reason code",
+    "meta": "rqstrtnrsncd"
+  },
+  {
+    "korean": "청구/반환사유",
+    "english": "Request/ return reason",
+    "meta": "rqstrtnrsn"
+  },
+  {
+    "korean": "청구거래고유번호",
+    "english": "Request KFTC Msg No",
+    "meta": "rqstkftcmsgno"
+  },
+  {
+    "korean": "청구금액",
+    "english": "Request amount",
+    "meta": "billamt"
+  },
+  {
+    "korean": "청구사유",
+    "english": "Request reason",
+    "meta": "billrsn"
+  },
+  {
+    "korean": "청구사유코드",
+    "english": "Request reason code",
+    "meta": "billrsncd"
+  },
+  {
+    "korean": "청구일자",
+    "english": "Request date",
+    "meta": "billdt"
+  },
+  {
+    "korean": "출금계좌",
+    "english": "Debit account",
+    "meta": "debitacct"
+  },
+  {
+    "korean": "출금인명",
+    "english": "Debit name",
+    "meta": "whdrwlnm"
+  },
+  {
+    "korean": "출금인실명",
+    "english": "Debit real name",
+    "meta": "whdrwlrealnm"
+  },
+  {
+    "korean": "청구은행",
+    "english": "Request bank",
+    "meta": "billbnk"
+  },
+  {
+    "korean": "취급기관",
+    "english": "Handling Institution",
+    "meta": "hndlinst"
+  },
+  {
+    "korean": "개설기관",
+    "english": "Initiating Institution",
+    "meta": "initinst"
+  },
+  {
+    "korean": "전액반환여부",
+    "english": "Return in full(Y/N)",
+    "meta": "totrefundyn"
+  },
+  {
+    "korean": "담당자연락처",
+    "english": "Employee contact",
+    "meta": "emplyphonno"
+  },
+  {
+    "korean": "미완료여부",
+    "english": "Incomplete (Y/N)",
+    "meta": "noncmpltyn"
+  },
+  {
+    "korean": "계좌고객번호 정보",
+    "english": "Account customer Number Information",
+    "meta": "acctcustnoinfo"
+  },
+  {
+    "korean": "계좌번호 사용내역조회",
+    "english": "Account Message Flow",
+    "meta": "acctmsgflow"
+  },
+  {
+    "korean": "승인",
+    "english": "Authorization",
+    "meta": "accep"
+  },
+  {
+    "korean": "수취계좌조회",
+    "english": "Beneficiary Account Inquiry",
+    "meta": "benefacctinqry"
+  },
+  {
+    "korean": "수취계좌조회(대량)",
+    "english": "Beneficiary Account Inquiry (Bundle File)",
+    "meta": "bundlbenefacctinqry"
+  },
+  {
+    "korean": "비정상거래조회",
+    "english": "Error Transaction Inquiry",
+    "meta": "errtrinqry"
+  },
+  {
+    "korean": "이체취소(현금)",
+    "english": "Funds Transfer Cancellation (Cash)",
+    "meta": "fundtrcncl"
+  },
+  {
+    "korean": "이체취소승인",
+    "english": "Funds Transfer Cancellation Authorization",
+    "meta": "fundtrcnclapprv"
+  },
+  {
+    "korean": "이체결과조회",
+    "english": "Funds Transfer Result Inquiry",
+    "meta": "fundtrrsltinqry"
+  },
+  {
+    "korean": "로그조회(LVB/CQE - KCG - KFTC)",
+    "english": "Log Inquiry(LVB(KIB) - KCG - KFTC)",
+    "meta": "bizloginqry"
+  },
+  {
+    "korean": "LVB 계좌정보  조회",
+    "english": "LVB Account Information Inquiry",
+    "meta": "lvbacctinfoinqry"
+  },
+  {
+    "korean": "LVB 계좌정보",
+    "english": "LVB Account Information",
+    "meta": "lvbacctinfo"
+  },
+  {
+    "korean": "관리",
+    "english": "Maintenance",
+    "meta": "mgmt"
+  },
+  {
+    "korean": "순이체한도조회",
+    "english": "Net Debit Cap Inquiry",
+    "meta": "netdebitcapinqry"
+  },
+  {
+    "korean": "순이체 한도조회(차트)",
+    "english": "Net Debit Cap Inquiry(Chart)",
+    "meta": "chartnetdebitcapinqry"
+  },
+  {
+    "korean": "순이체한도조회요청",
+    "english": "Net Debit Cap Request",
+    "meta": "netdebitcaprqst"
+  },
+  {
+    "korean": "통신망 및 전문번호 관리",
+    "english": "Network andand Service Status Management",
+    "meta": "netmsgnomgmt"
+  },
+  {
+    "korean": "타은행수표조회",
+    "english": "Other Banks Cheque Status Inquiry",
+    "meta": "othrbnkchequeinqry"
+  },
+  {
+    "korean": "타행상태 및 자금화 연장 조회",
+    "english": "Other Banks Status and Capitalization Extension Inquiry",
+    "meta": "othrbnkstscapitextninqry"
+  },
+  {
+    "korean": "자금청구 조회",
+    "english": "Payment Request Inquiry",
+    "meta": "pymntrqstinqry"
+  },
+  {
+    "korean": "자금반환 - 검증",
+    "english": "Payment Return - Authorization",
+    "meta": "pymntrtnapprv"
+  },
+  {
+    "korean": "자금반환 - FAX청구접수 반환 등록",
+    "english": "Payment Return - FAX request acceptance return registration",
+    "meta": "pymntrtnfax"
+  },
+  {
+    "korean": "자금반환 조회",
+    "english": "Payment Return Inquiry",
+    "meta": "pymntrtninqry"
+  },
+  {
+    "korean": "자금반환 - 등록",
+    "english": "Payment Return - Registration",
+    "meta": "pymntrtnreg"
+  },
+  {
+    "korean": "수신/송신 데이타 조회",
+    "english": "Receiving andand Sending Data Inquiry",
+    "meta": "rcvsnddateinqry"
+  },
+  {
+    "korean": "자금조정(KCG-KFTC)",
+    "english": "Reconciliation (KCG - KFTC)",
+    "meta": "recon"
+  },
+  {
+    "korean": "등록",
+    "english": "Registration",
+    "meta": "add"
+  },
+  {
+    "korean": "계좌고객번호 정보 - 등록",
+    "english": "Registration1",
+    "meta": "acctcustnoinforeg"
+  },
+  {
+    "korean": "RPR-로그조회(KCG-KFTC)",
+    "english": "RPR - Log Inquiry(KCG-KFTC)",
+    "meta": "rprloginqry"
+  },
+  {
+    "korean": "RPR-통신망 및 전문번호 관리",
+    "english": "RPR - Network  Service Status Management",
+    "meta": "rprnettlgmgmt"
+  },
+  {
+    "korean": "RPR-타행상태조회",
+    "english": "RPR - Other Banks Status Inquiry",
+    "meta": "rprothrbnkstsinqry"
+  },
+  {
+    "korean": "거래내역조회",
+    "english": "Transaction Inquiry",
+    "meta": "trinqry"
+  },
+  {
+    "korean": "거래집계조회",
+    "english": "Transaction Summary Inquiry",
+    "meta": "trsuminqry"
+  },
+  {
+    "korean": "부도출금내역조회",
+    "english": "Default Payment Inquiry",
+    "meta": "dfltpymntinqry"
+  },
+  {
+    "korean": "자금반환내역 (BH0001",
+    "english": "BH0003)",
+    "meta": "fundreturndetail(bh0001bh0003)fundrtndtl"
+  },
+  {
+    "korean": "운영",
+    "english": "Operation",
+    "meta": "op"
+  },
+  {
+    "korean": "자금반환",
+    "english": "Payment Return",
+    "meta": "repymnt"
+  },
+  {
+    "korean": "보고서",
+    "english": "Report",
+    "meta": "summary"
+  },
+  {
+    "korean": "종료",
+    "english": "Exit",
+    "meta": "exit"
+  },
+  {
+    "korean": "일괄등록",
+    "english": "Batch Registration",
+    "meta": "batreg"
+  },
+  {
+    "korean": "FAX 청구접수 반환 등록",
+    "english": "FAX request acceptance return registration",
+    "meta": "faxrqstaccptrtnreg"
+  },
+  {
+    "korean": "조회",
+    "english": "Inquiry",
+    "meta": "search"
+  },
+  {
+    "korean": "부도(D)",
+    "english": "Default (D)",
+    "meta": "dflt"
+  },
+  {
+    "korean": "수표금액",
+    "english": "Check Amount",
+    "meta": "checkamt"
+  },
+  {
+    "korean": "입금계좌",
+    "english": "Credit Account",
+    "meta": "creditacct"
+  },
+  {
+    "korean": "입금계좌",
+    "english": "Deposit Account",
+    "meta": "depositacct"
+  },
+  {
+    "korean": "부도",
+    "english": "Dishonored (E)",
+    "meta": "failpay"
+  },
+  {
+    "korean": "KFTC 수신 시간",
+    "english": "KFTC Recv Time",
+    "meta": "kftcrecepttm"
+  },
+  {
+    "korean": "KFTC 전송 시간",
+    "english": "KFTC Send Time",
+    "meta": "kftctrtm"
+  },
+  {
+    "korean": "타행명",
+    "english": "Other Bank Name",
+    "meta": "othrbnknm"
+  },
+  {
+    "korean": "부도 사유",
+    "english": "Reason for Dishonor",
+    "meta": "dishnrrsn"
+  },
+  {
+    "korean": "업무구분",
+    "english": "Message Name",
+    "meta": "bizdvsn"
+  },
+  {
+    "korean": "자금화 연장 시간",
+    "english": "Capitalization Extension Time",
+    "meta": "cashexttm"
+  },
+  {
+    "korean": "처리시간",
+    "english": "Trx Time",
+    "meta": "optm"
+  },
+  {
+    "korean": "부도금액",
+    "english": "Default Amount",
+    "meta": "dfltamt"
+  },
+  {
+    "korean": "입금 (타발) - 이체",
+    "english": "Deposit (Inward) - Funds",
+    "meta": "depositfund"
+  },
+  {
+    "korean": "입금 (타발) -이체 취소",
+    "english": "Deposit (Inward) - Cancel",
+    "meta": "depositcncl"
+  },
+  {
+    "korean": "출금 (당발) - 이체",
+    "english": "Withdrawal (Outward) - Funds",
+    "meta": "whdrwlfund"
+  },
+  {
+    "korean": "출금 (당발) - 이체 취소",
+    "english": "Withdrawal (Outward) - Cancel",
+    "meta": "whdrwlcncl"
+  }
+]

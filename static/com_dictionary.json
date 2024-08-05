@@ -1,0 +1,2422 @@
+[
+  {
+    "korean": "정보",
+    "english": "Information",
+    "meta": "info"
+  },
+  {
+    "korean": "운영",
+    "english": "Operation",
+    "meta": "op"
+  },
+  {
+    "korean": "관리",
+    "english": "Maintain",
+    "meta": "mgmt"
+  },
+  {
+    "korean": "검증",
+    "english": "Authorize",
+    "meta": "authrz"
+  },
+  {
+    "korean": "조회",
+    "english": "Inquiry",
+    "meta": "inqry"
+  },
+  {
+    "korean": "종료",
+    "english": "Exit",
+    "meta": "exit"
+  },
+  {
+    "korean": "프로세스 정보관리 (CMS/EFN/ENT)",
+    "english": "Process Information Management (CMS/EFN/ENT)",
+    "meta": "prcsinfomgmt"
+  },
+  {
+    "korean": "회선 정보관리 (TCPIP/MQ)",
+    "english": "Line Information Management (TCPIP/MQ)",
+    "meta": "lineinfomgmt"
+  },
+  {
+    "korean": "공통코드 관리",
+    "english": "Common Code Management",
+    "meta": "commcdmgmt"
+  },
+  {
+    "korean": "은행코드 관리",
+    "english": "Bank Code Management",
+    "meta": "bnkcdmgmt"
+  },
+  {
+    "korean": "은행코드 조회",
+    "english": "Bank Code Inquiry",
+    "meta": "bnkcdinqry"
+  },
+  {
+    "korean": "오류메시지 관리",
+    "english": "Error Code Management",
+    "meta": "errcdmgmt"
+  },
+  {
+    "korean": "송수신 파일 관리",
+    "english": "Bundle File Information Management",
+    "meta": "sndrcvfileinfomgmt"
+  },
+  {
+    "korean": "휴일 관리",
+    "english": "Holiday Management  Inquiry",
+    "meta": "holimgmt"
+  },
+  {
+    "korean": "프로그램 이력 관리",
+    "english": "Program History Management Information",
+    "meta": "pgmhstmgmt"
+  },
+  {
+    "korean": "프로세스 및 회선 상태관리 (CMS/EFN/ENT)",
+    "english": "Process  Line Status Management (CMS/EFN/ENT)",
+    "meta": "prcslinestsmgmt"
+  },
+  {
+    "korean": "송수신파일 일정관리",
+    "english": "Daily Schedule Creation  Management",
+    "meta": "sndrcvfileschdmgmt"
+  },
+  {
+    "korean": "시스템상태 조회",
+    "english": "System Status Inquiry",
+    "meta": "sysstsinqry"
+  },
+  {
+    "korean": "송수신파일 상태조회",
+    "english": "Daily Schedule Inquiry",
+    "meta": "sndrcvfilestsinqry"
+  },
+  {
+    "korean": "오류로그 조회",
+    "english": "Error Log Inquiry",
+    "meta": "errloginqry"
+  },
+  {
+    "korean": "송수신파일 내역조회",
+    "english": "Message Inquiry",
+    "meta": "sndrcvfileinqry"
+  },
+  {
+    "korean": "은행&amp;지점 코드조회",
+    "english": "Bank Branch Code Inquiry",
+    "meta": "bnkbrnchcdinqry"
+  },
+  {
+    "korean": "은행",
+    "english": "Bank  Branch Code Inquiry",
+    "meta": "bnk"
+  },
+  {
+    "korean": "Tivoli 전문 로그 조회",
+    "english": "Tivoli Message Log Inquiry",
+    "meta": "tivolimsgloginqry"
+  },
+  {
+    "korean": "Genous 당발거래알람",
+    "english": "Genous Outward Transaction Alarm",
+    "meta": "genosoutbtralarm"
+  },
+  {
+    "korean": "공통코드 조회",
+    "english": "Common Code Inquiry",
+    "meta": "commcdinqry"
+  },
+  {
+    "korean": "휴일 조회",
+    "english": "Holiday Inquiry",
+    "meta": "holiinqry"
+  },
+  {
+    "korean": "송수신파일 정보조회",
+    "english": "Bundle File Information Inquiry",
+    "meta": "sndrcvfileinfoinqry"
+  },
+  {
+    "korean": "데이터베이스/파일시스템/데이터로그 확인",
+    "english": "Database/File System/Data Log Check",
+    "meta": "dbfilesysdatalogchk"
+  },
+  {
+    "korean": "GIRO 파일 다운로드",
+    "english": "GIRO File Download",
+    "meta": "girofiledown"
+  },
+  {
+    "korean": "데이타베이스 &amp;&amp; 파일 시스템 &amp;&amp; 데이타 로그 확인",
+    "english": "Database  File System  Data Log Check",
+    "meta": "dbfilesysdatalogreview"
+  },
+  {
+    "korean": "시뮬레이션",
+    "english": "Simulation",
+    "meta": "sim"
+  },
+  {
+    "korean": "KFTC 시뮬레이션(EFN)",
+    "english": "KFTC Simulation(EFN)",
+    "meta": "efnkftcsim"
+  },
+  {
+    "korean": "KFTC 시뮬레이션(CMS)",
+    "english": "KFTC Simulation(CMS)",
+    "meta": "cmskftcsim"
+  },
+  {
+    "korean": "HOST 시뮬레이션(ITC(GCH)/LVB)",
+    "english": "HOST Simulation(ITC(GCH)/LVB)",
+    "meta": "hostsim"
+  },
+  {
+    "korean": "신청이름",
+    "english": "Application Name",
+    "meta": "applnm"
+  },
+  {
+    "korean": "은행이름",
+    "english": "Bank Name",
+    "meta": "bnknm"
+  },
+  {
+    "korean": "은행코드",
+    "english": "Bank Code",
+    "meta": "bnkcd"
+  },
+  {
+    "korean": "지점코드",
+    "english": "Branch Code",
+    "meta": "brnchcd"
+  },
+  {
+    "korean": "지점이름",
+    "english": "Branch Name",
+    "meta": "brnchnm"
+  },
+  {
+    "korean": "Char",
+    "english": "Char",
+    "meta": "char"
+  },
+  {
+    "korean": "코드ID",
+    "english": "Code ID",
+    "meta": "cdid"
+  },
+  {
+    "korean": "코드이름 (Full)",
+    "english": "Code Name (Full)",
+    "meta": "cdfullnm"
+  },
+  {
+    "korean": "코드이름 (Short)",
+    "english": "Code Name (Short)",
+    "meta": "cdshrtnm"
+  },
+  {
+    "korean": "코드이름 (English)",
+    "english": "Code Name (English)",
+    "meta": "cdengnm"
+  },
+  {
+    "korean": "완료",
+    "english": "Completed",
+    "meta": "cmplt"
+  },
+  {
+    "korean": "재시도횟수",
+    "english": "Count of Reattempts",
+    "meta": "retrycnt"
+  },
+  {
+    "korean": "지연은행목록",
+    "english": "Delayed Bank List",
+    "meta": "delaybnklst"
+  },
+  {
+    "korean": "설명",
+    "english": "Description",
+    "meta": "desc"
+  },
+  {
+    "korean": "종료통지",
+    "english": "End of Day Notice",
+    "meta": "enddaynoti"
+  },
+  {
+    "korean": "종료",
+    "english": "End of Day",
+    "meta": "enddaynoti"
+  },
+  {
+    "korean": "종료시간",
+    "english": "End Time",
+    "meta": "endtm"
+  },
+  {
+    "korean": "오류",
+    "english": "Error",
+    "meta": "error"
+  },
+  {
+    "korean": "업무시간연장",
+    "english": "Extended Service Hour",
+    "meta": "wrktmext"
+  },
+  {
+    "korean": "파일생성",
+    "english": "File Creation",
+    "meta": "filecreat"
+  },
+  {
+    "korean": "파일송수신시간",
+    "english": "File Send/Receive Time",
+    "meta": "filesndrcvtm"
+  },
+  {
+    "korean": "파일전송여부(Y/N)",
+    "english": "File Transmission (Y/N)",
+    "meta": "filesndrcvyn"
+  },
+  {
+    "korean": "휴일명",
+    "english": "Holiday Name",
+    "meta": "holinm"
+  },
+  {
+    "korean": "휴일",
+    "english": "Holiday",
+    "meta": "holi"
+  },
+  {
+    "korean": "진행중",
+    "english": "In Progress",
+    "meta": "inprog"
+  },
+  {
+    "korean": "내부프로세스이름",
+    "english": "Internal Process Name",
+    "meta": "interprcsnm"
+  },
+  {
+    "korean": "IPC 이름",
+    "english": "IPC Name",
+    "meta": "ipcnm"
+  },
+  {
+    "korean": "IPC 구분",
+    "english": "IPC Type",
+    "meta": "ipctp"
+  },
+  {
+    "korean": "최종블럭번호",
+    "english": "Last Block Number",
+    "meta": "lstblockno"
+  },
+  {
+    "korean": "최종순서번호",
+    "english": "Last Sequence Number",
+    "meta": "lstseqno"
+  },
+  {
+    "korean": "레코드길이",
+    "english": "Length of Record",
+    "meta": "reclen"
+  },
+  {
+    "korean": "지역 Queue",
+    "english": "Local Queue",
+    "meta": "localque"
+  },
+  {
+    "korean": "로그일",
+    "english": "Log Date",
+    "meta": "logdt"
+  },
+  {
+    "korean": "로그시간",
+    "english": "Log Time",
+    "meta": "logtm"
+  },
+  {
+    "korean": "결번여부",
+    "english": "Missing Message (Y/N)",
+    "meta": "msngnoyn"
+  },
+  {
+    "korean": "MQ상태",
+    "english": "MQ Status",
+    "meta": "mqsts"
+  },
+  {
+    "korean": "순이체한도",
+    "english": "Net Transfer Limit",
+    "meta": "nettrlmt"
+  },
+  {
+    "korean": "통신망상태",
+    "english": "Network Status",
+    "meta": "netsts"
+  },
+  {
+    "korean": "번호",
+    "english": "Number",
+    "meta": "no"
+  },
+  {
+    "korean": "개시",
+    "english": "Opening of Business",
+    "meta": "opnbiz"
+  },
+  {
+    "korean": "개시시간",
+    "english": "Opening Time",
+    "meta": "opntm"
+  },
+  {
+    "korean": "포트번호",
+    "english": "Port Number",
+    "meta": "portno"
+  },
+  {
+    "korean": "포트구분",
+    "english": "Port Type",
+    "meta": "porttp"
+  },
+  {
+    "korean": "Status",
+    "english": "Process Control",
+    "meta": "prcsctrl"
+  },
+  {
+    "korean": "프로세스날짜",
+    "english": "Process Date",
+    "meta": "prcsdt"
+  },
+  {
+    "korean": "프로세스이름",
+    "english": "Process Name",
+    "meta": "prcsnm"
+  },
+  {
+    "korean": "프로세스 경로",
+    "english": "Process Path",
+    "meta": "prcspath"
+  },
+  {
+    "korean": "프로세스시간 (토요일)",
+    "english": "Process Time (Saturday)",
+    "meta": "satprcstm"
+  },
+  {
+    "korean": "프로세스시간 (주중)",
+    "english": "Process Time (Weekdays)",
+    "meta": "weekprcstm"
+  },
+  {
+    "korean": "Queue관리자이름",
+    "english": "Queue Manager Name",
+    "meta": "quemngernm"
+  },
+  {
+    "korean": "읽기유형",
+    "english": "Reading Type",
+    "meta": "readtp"
+  },
+  {
+    "korean": "준비완료",
+    "english": "Ready",
+    "meta": "ready"
+  },
+  {
+    "korean": "기록길이",
+    "english": "Record Length",
+    "meta": "recsize"
+  },
+  {
+    "korean": "기록건수",
+    "english": "Records Count",
+    "meta": "reccnt"
+  },
+  {
+    "korean": "상대편 Queue",
+    "english": "Remote Queue",
+    "meta": "remotque"
+  },
+  {
+    "korean": "응답 Queue",
+    "english": "Reply Queue",
+    "meta": "replyque"
+  },
+  {
+    "korean": "예정날짜",
+    "english": "Scheduled Date",
+    "meta": "schddt"
+  },
+  {
+    "korean": "예정시간",
+    "english": "Time Schedule",
+    "meta": "tmschd"
+  },
+  {
+    "korean": "송수신일",
+    "english": "Send/Receive Date",
+    "meta": "sndrcvdt"
+  },
+  {
+    "korean": "송수신프로세스명",
+    "english": "Send/Receive Process Name",
+    "meta": "sndrcvprcnm"
+  },
+  {
+    "korean": "송수신시간 (토요일)",
+    "english": "Send/Receive Time (Saturday)",
+    "meta": "satsndrcvtm"
+  },
+  {
+    "korean": "송수신시간 (주중)",
+    "english": "Send/Receive Time (Weekdays)",
+    "meta": "weeksndrcvtm"
+  },
+  {
+    "korean": "송수신",
+    "english": "Send/Receive",
+    "meta": "sndrcv"
+  },
+  {
+    "korean": "송수신여부",
+    "english": "Send/Receive Y/N",
+    "meta": "sndrcvyn"
+  },
+  {
+    "korean": "자점코드",
+    "english": "Subsidiary Branch Code",
+    "meta": "subbrnchcd"
+  },
+  {
+    "korean": "시스템장애",
+    "english": "System Failure",
+    "meta": "sysfail"
+  },
+  {
+    "korean": "TCP/IP상태",
+    "english": "TCP/IP Status",
+    "meta": "tcpipsts"
+  },
+  {
+    "korean": "거래일",
+    "english": "Transaction Date",
+    "meta": "trdt"
+  },
+  {
+    "korean": "거래ID",
+    "english": "Transaction ID",
+    "meta": "trid"
+  },
+  {
+    "korean": "거래이름",
+    "english": "Transaction Name",
+    "meta": "trnm"
+  },
+  {
+    "korean": "업데이트상태",
+    "english": "Update Status",
+    "meta": "updtsts"
+  },
+  {
+    "korean": "사용여부",
+    "english": "Use Y/N",
+    "meta": "useyn"
+  },
+  {
+    "korean": "쓰기유형",
+    "english": "Writing Type",
+    "meta": "writetp"
+  },
+  {
+    "korean": "우편번호",
+    "english": "Zip Code",
+    "meta": "zipcd"
+  },
+  {
+    "korean": "상태",
+    "english": "Status",
+    "meta": "sts"
+  },
+  {
+    "korean": "대상경로",
+    "english": "Object Path",
+    "meta": "objctpath"
+  },
+  {
+    "korean": "등록자",
+    "english": "Maker",
+    "meta": "maker"
+  },
+  {
+    "korean": "등록일",
+    "english": "Registration Date",
+    "meta": "regdt"
+  },
+  {
+    "korean": "어플리케이션아이디",
+    "english": "Application ID",
+    "meta": "appid"
+  },
+  {
+    "korean": "코드",
+    "english": "Code",
+    "meta": "cd"
+  },
+  {
+    "korean": "포트",
+    "english": "Port",
+    "meta": "port"
+  },
+  {
+    "korean": "코드설명 (한글)",
+    "english": "Code Description (Kor)",
+    "meta": "korcddesc"
+  },
+  {
+    "korean": "코드설명 (영어)",
+    "english": "Code Description (Eng)",
+    "meta": "engcddesc"
+  },
+  {
+    "korean": "검증자",
+    "english": "Authorizer ID",
+    "meta": "authrzid"
+  },
+  {
+    "korean": "검증일",
+    "english": "Authorization Date",
+    "meta": "authrzdt"
+  },
+  {
+    "korean": "유형",
+    "english": "Type",
+    "meta": "tp"
+  },
+  {
+    "korean": "프로세스",
+    "english": "Process",
+    "meta": "prcs"
+  },
+  {
+    "korean": "실행",
+    "english": "Run",
+    "meta": "run"
+  },
+  {
+    "korean": "정지",
+    "english": "Stop",
+    "meta": "stop"
+  },
+  {
+    "korean": "연결종료",
+    "english": "Disconnect",
+    "meta": "disconct"
+  },
+  {
+    "korean": "알람",
+    "english": "Timer",
+    "meta": "tmr"
+  },
+  {
+    "korean": "발생시간",
+    "english": "Time",
+    "meta": "tm"
+  },
+  {
+    "korean": "정상",
+    "english": "Normal",
+    "meta": "nrml"
+  },
+  {
+    "korean": "비정상",
+    "english": "Abnormal",
+    "meta": "abnrml"
+  },
+  {
+    "korean": "IFT 프로세스상태",
+    "english": "IFT Process Status",
+    "meta": "iftprcssts"
+  },
+  {
+    "korean": "EFN 프로세스상태",
+    "english": "EFN Process Status",
+    "meta": "efnprcssts"
+  },
+  {
+    "korean": "CMS 프로세스상태",
+    "english": "CMS Process Status",
+    "meta": "cmsprcssts"
+  },
+  {
+    "korean": "ENT 프로세스상태",
+    "english": "ENT Process Status",
+    "meta": "entprcssts"
+  },
+  {
+    "korean": "BFT 프로세스상태",
+    "english": "BFT Process Status",
+    "meta": "bftprcssts"
+  },
+  {
+    "korean": "SFT 프로세스상태",
+    "english": "SFT Process Status",
+    "meta": "sftprcssts"
+  },
+  {
+    "korean": "EFN 통신망상태",
+    "english": "EFN Network Status",
+    "meta": "efnnetsts"
+  },
+  {
+    "korean": "IFT 통신망상태",
+    "english": "IFT Network Status",
+    "meta": "iftnetsts"
+  },
+  {
+    "korean": "SFT 통신망상태",
+    "english": "SFT Network Status",
+    "meta": "sftnetsts"
+  },
+  {
+    "korean": "예정시간시작",
+    "english": "Schedule Time From",
+    "meta": "schdstatm"
+  },
+  {
+    "korean": "예정시간종료",
+    "english": "Schedule Time To",
+    "meta": "schdendtm"
+  },
+  {
+    "korean": "송수신종료",
+    "english": "Send/Receive End",
+    "meta": "sndrcvend"
+  },
+  {
+    "korean": "거래시간",
+    "english": "Trans Time",
+    "meta": "trtm"
+  },
+  {
+    "korean": "거래일",
+    "english": "Trans Date",
+    "meta": "trdt"
+  },
+  {
+    "korean": "전문",
+    "english": "Message",
+    "meta": "tlg"
+  },
+  {
+    "korean": "최종변경일",
+    "english": "Date of Last Update",
+    "meta": "lastchngdt"
+  },
+  {
+    "korean": "블럭번호",
+    "english": "Block Number",
+    "meta": "blockno"
+  },
+  {
+    "korean": "순서번호",
+    "english": "Sequence Number",
+    "meta": "seqno"
+  },
+  {
+    "korean": "데이터",
+    "english": "Data",
+    "meta": "data"
+  },
+  {
+    "korean": "주소",
+    "english": "Address",
+    "meta": "addr"
+  },
+  {
+    "korean": "팩스번호",
+    "english": "Fax No",
+    "meta": "faxno"
+  },
+  {
+    "korean": "전화번호",
+    "english": "Telephon No",
+    "meta": "telno"
+  },
+  {
+    "korean": "포트설명",
+    "english": "Port Description",
+    "meta": "portdesc"
+  },
+  {
+    "korean": "검증",
+    "english": "Authentication",
+    "meta": "check"
+  },
+  {
+    "korean": "번호1",
+    "english": "Number1",
+    "meta": "no1"
+  },
+  {
+    "korean": "번호2",
+    "english": "Number2",
+    "meta": "no2"
+  },
+  {
+    "korean": "문자1",
+    "english": "Char1",
+    "meta": "char1"
+  },
+  {
+    "korean": "문자2",
+    "english": "Char2",
+    "meta": "char2"
+  },
+  {
+    "korean": "문자1",
+    "english": "Character1",
+    "meta": "character1"
+  },
+  {
+    "korean": "문자2",
+    "english": "Character2",
+    "meta": "character2"
+  },
+  {
+    "korean": "정렬",
+    "english": "Sort",
+    "meta": "sort"
+  },
+  {
+    "korean": "송수신시간1시작",
+    "english": "Send/Receive Time1 From",
+    "meta": "sndrcvstatm1"
+  },
+  {
+    "korean": "송수신시간1종료",
+    "english": "Send/Receive Time1 To",
+    "meta": "sndrcvendtm1"
+  },
+  {
+    "korean": "송수신시간2시작",
+    "english": "Send/Receive Time2 From",
+    "meta": "sndrcvstatm2"
+  },
+  {
+    "korean": "송수신시간2종료",
+    "english": "Send/Receive Time2 To",
+    "meta": "sndrcvendtm2"
+  },
+  {
+    "korean": "송수신준비시간1시작",
+    "english": "Ip Time1 From",
+    "meta": "prepsndrcvstatm1"
+  },
+  {
+    "korean": "송수신준비시간1종료",
+    "english": "Ip Time1 To",
+    "meta": "prepsndrcvendtm1"
+  },
+  {
+    "korean": "송수준비신시간2시작",
+    "english": "Ip Time2 From",
+    "meta": "prepsndrcvstatm2"
+  },
+  {
+    "korean": "송수신준비시간2종료",
+    "english": "Ip Time2 To",
+    "meta": "prepsndrcvendtm2"
+  },
+  {
+    "korean": "은행망코드",
+    "english": "Bank Network Code",
+    "meta": "bnknetcd"
+  },
+  {
+    "korean": "교환소",
+    "english": "Clearing Office",
+    "meta": "exchngoffice"
+  },
+  {
+    "korean": "온라인코드",
+    "english": "Online Code",
+    "meta": "onlinecd"
+  },
+  {
+    "korean": "지역코드",
+    "english": "Area Code",
+    "meta": "areacd"
+  },
+  {
+    "korean": "수납코드",
+    "english": "Collection Code",
+    "meta": "rcptcd"
+  },
+  {
+    "korean": "저장 경로",
+    "english": "Save Path",
+    "meta": "savepath"
+  },
+  {
+    "korean": "프로그램 HISTORY 관리 정보",
+    "english": "Program History Management Information",
+    "meta": "pgmhstmgmtinfo"
+  },
+  {
+    "korean": "등록구분",
+    "english": "Register Type",
+    "meta": "regtp"
+  },
+  {
+    "korean": "등록일",
+    "english": "Register Date",
+    "meta": "regdt"
+  },
+  {
+    "korean": "APP구분",
+    "english": "Application Type",
+    "meta": "appltp"
+  },
+  {
+    "korean": "제목",
+    "english": "Title",
+    "meta": "title"
+  },
+  {
+    "korean": "반영일",
+    "english": "Applied Date",
+    "meta": "aplydt"
+  },
+  {
+    "korean": "상세정보-SERVER",
+    "english": "Detail - Server",
+    "meta": "serverinfodtl"
+  },
+  {
+    "korean": "상세정보-CLIENT",
+    "english": "Detail - Client",
+    "meta": "clientinfodtl"
+  },
+  {
+    "korean": "상세정보-사유",
+    "english": "Detail - Reason",
+    "meta": "rsninfodtl"
+  },
+  {
+    "korean": "테스트 시작일",
+    "english": "Test Start Date",
+    "meta": "teststadt"
+  },
+  {
+    "korean": "테스트 종료일",
+    "english": "Test End Date",
+    "meta": "testenddt"
+  },
+  {
+    "korean": "테스터",
+    "english": "Tester",
+    "meta": "tester"
+  },
+  {
+    "korean": "수정내용",
+    "english": "Update Detail",
+    "meta": "updtdtl"
+  },
+  {
+    "korean": "결과",
+    "english": "Result",
+    "meta": "rslt"
+  },
+  {
+    "korean": "날짜",
+    "english": "Date",
+    "meta": "dt"
+  },
+  {
+    "korean": "최종시간",
+    "english": "Last Time",
+    "meta": "lsttm"
+  },
+  {
+    "korean": "기준액",
+    "english": "Limit",
+    "meta": "lmt"
+  },
+  {
+    "korean": "출금액",
+    "english": "Debit",
+    "meta": "devit"
+  },
+  {
+    "korean": "승인일",
+    "english": "Check of Date",
+    "meta": "apprvdt"
+  },
+  {
+    "korean": "통신망관리전문",
+    "english": "Network Management Message",
+    "meta": "netmgmttlg"
+  },
+  {
+    "korean": "타행이체거래전문",
+    "english": "Funds Transfer Message",
+    "meta": "fundtrtlg"
+  },
+  {
+    "korean": "수표조회전문",
+    "english": "Cheque Inquiry Message",
+    "meta": "chequeinqrytlg"
+  },
+  {
+    "korean": "거래구분 선택",
+    "english": "Select Transaction Type",
+    "meta": "seltrtp"
+  },
+  {
+    "korean": "개시",
+    "english": "Opening",
+    "meta": "opn"
+  },
+  {
+    "korean": "종료",
+    "english": "CLSEing",
+    "meta": "clse"
+  },
+  {
+    "korean": "시스템장애회복",
+    "english": "System Recovery",
+    "meta": "sysrecovr"
+  },
+  {
+    "korean": "종료예고",
+    "english": "Advance Notice of CLSEing",
+    "meta": "clsenoti"
+  },
+  {
+    "korean": "회선장애회복",
+    "english": "Line Recovery",
+    "meta": "linerecovr"
+  },
+  {
+    "korean": "거래집계",
+    "english": "Transaction Summary",
+    "meta": "trsum"
+  },
+  {
+    "korean": "타행이체수취조회",
+    "english": "Beneficiary Inquiry",
+    "meta": "bebefinqry"
+  },
+  {
+    "korean": "타행이체",
+    "english": "Funds Transfer",
+    "meta": "fundtr"
+  },
+  {
+    "korean": "타행이체취소",
+    "english": "Funds Transfer Cancellation",
+    "meta": "fundtrcncl"
+  },
+  {
+    "korean": "타행재이체",
+    "english": "Funds Transfer Retry",
+    "meta": "fundtrretry"
+  },
+  {
+    "korean": "취급은행",
+    "english": "Payer Bank",
+    "meta": "hndlbnk"
+  },
+  {
+    "korean": "수취계좌정보",
+    "english": "Beneficiary Account",
+    "meta": "rcvacctinfo"
+  },
+  {
+    "korean": "거래금액",
+    "english": "Amount",
+    "meta": "amt"
+  },
+  {
+    "korean": "출금인",
+    "english": "Remitter",
+    "meta": "remter"
+  },
+  {
+    "korean": "매체구분",
+    "english": "Medium Type",
+    "meta": "mediatp"
+  },
+  {
+    "korean": "자금성격",
+    "english": "Funds Type",
+    "meta": "fundtp"
+  },
+  {
+    "korean": "의뢰인정보",
+    "english": "Requestor Information",
+    "meta": "rqstrinfo"
+  },
+  {
+    "korean": "출금계좌번호",
+    "english": "Payment Account No",
+    "meta": "pymntacctno"
+  },
+  {
+    "korean": "수표조회전문",
+    "english": "Cheque Status Inquiry Message",
+    "meta": "chequestsinqrytlg"
+  },
+  {
+    "korean": "수표발행일자",
+    "english": "Cheque Issuance Date",
+    "meta": "chequeissudt"
+  },
+  {
+    "korean": "수표번호",
+    "english": "Cheque Number",
+    "meta": "chequeno"
+  },
+  {
+    "korean": "수표분류코드",
+    "english": "Cheque Code",
+    "meta": "chequecd"
+  },
+  {
+    "korean": "수표금액",
+    "english": "Cheque Amount",
+    "meta": "chequeamt"
+  },
+  {
+    "korean": "수표계좌번호",
+    "english": "Cheque Account No",
+    "meta": "chequeacctno"
+  },
+  {
+    "korean": "전영업일(-2)",
+    "english": "Previous Business Day(-2)",
+    "meta": "prevbizday2"
+  },
+  {
+    "korean": "전영업일(-1)",
+    "english": "Previous Business Day(-1)",
+    "meta": "prevbizday1"
+  },
+  {
+    "korean": "익영업일(+1)",
+    "english": "Next Business Day(+1)",
+    "meta": "nxtbizday1"
+  },
+  {
+    "korean": "익영업일(+2)",
+    "english": "Next Business Day(+2)",
+    "meta": "nxtbizday2"
+  },
+  {
+    "korean": "시스템일자",
+    "english": "System Date",
+    "meta": "sysdt"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account No",
+    "meta": "acctno"
+  },
+  {
+    "korean": "수취인명",
+    "english": "Beneficiary Name",
+    "meta": "recptnm"
+  },
+  {
+    "korean": "수표조회",
+    "english": "Cheque Status Inquiry",
+    "meta": "chequestsinqry"
+  },
+  {
+    "korean": "검증자",
+    "english": "Checker ID",
+    "meta": "checkerid"
+  },
+  {
+    "korean": "시작시간",
+    "english": "Time From",
+    "meta": "statm"
+  },
+  {
+    "korean": "종료시간",
+    "english": "Time To",
+    "meta": "endtm"
+  },
+  {
+    "korean": "결제원 전문번호",
+    "english": "KFTC Message No",
+    "meta": "kftctlgno"
+  },
+  {
+    "korean": "[KCG-KFTC]프로세스이름",
+    "english": "[KCG-KFTC]Process Name",
+    "meta": "kcgkftcprcsnm"
+  },
+  {
+    "korean": "[KCG-KFTC]프로세스날짜",
+    "english": "[KCG-KFTC]Date",
+    "meta": "kcgkftcdt"
+  },
+  {
+    "korean": "[KCG-KFTC]시작시간",
+    "english": "[KCG-KFTC]Time From",
+    "meta": "kcgkftcstatm"
+  },
+  {
+    "korean": "[KCG-KFTC]종료시간",
+    "english": "[KCG-KFTC]Time To",
+    "meta": "kcgkftcendtm"
+  },
+  {
+    "korean": "[KCG]프로세스이름",
+    "english": "[KCG]Process Name",
+    "meta": "kcgprcsnm"
+  },
+  {
+    "korean": "[KCG]프로세스날짜",
+    "english": "[KCG]Date",
+    "meta": "kcgprcsdt"
+  },
+  {
+    "korean": "[KCG]시작시간",
+    "english": "[KCG]Time From",
+    "meta": "kcgstatm"
+  },
+  {
+    "korean": "[KCG]종료시간",
+    "english": "[KCG]Time To",
+    "meta": "kcgendtm"
+  },
+  {
+    "korean": "[KCG-LVB]프로세스이름",
+    "english": "[KCG-LVB]Process Name",
+    "meta": "kcglvbprcsnm"
+  },
+  {
+    "korean": "[KCG-LVB]프로세스날짜",
+    "english": "[KCG-LVB]Date",
+    "meta": "kcglvbprcsdt"
+  },
+  {
+    "korean": "[KCG-LVB]시작시간",
+    "english": "[KCG-LVB]Time From",
+    "meta": "kcglvbprcsstatm"
+  },
+  {
+    "korean": "[KCG-LVB]종료시간",
+    "english": "[KCG-LVB]Time To",
+    "meta": "kcglvbprcsendtm"
+  },
+  {
+    "korean": "KFTC 은행 코드",
+    "english": "KFTC Bank Code",
+    "meta": "kftcbnkcd"
+  },
+  {
+    "korean": "이전 은행 코드",
+    "english": "Previous Bank Code",
+    "meta": "prevbnkcd"
+  },
+  {
+    "korean": "은행명(eng)",
+    "english": "Bank Name(eng)",
+    "meta": "bnkengnm"
+  },
+  {
+    "korean": "은행명(kor)",
+    "english": "Bank Name(kor)",
+    "meta": "bnkkronm"
+  },
+  {
+    "korean": "수취은행",
+    "english": "Beneficiary Bank Code",
+    "meta": "rcvbnk"
+  },
+  {
+    "korean": "수취계좌번호",
+    "english": "Beneficiary Account No",
+    "meta": "rcvacctno"
+  },
+  {
+    "korean": "송신자명",
+    "english": "Sender Name",
+    "meta": "sndrnm"
+  },
+  {
+    "korean": "의뢰인정보",
+    "english": "Client Information",
+    "meta": "clientinfo"
+  },
+  {
+    "korean": "F/E 채널 확인",
+    "english": "F/E Channel Indicator",
+    "meta": "fechnlchk"
+  },
+  {
+    "korean": "LVBKCG 전문",
+    "english": "LVBKCG Message",
+    "meta": "lvbkcgtlg"
+  },
+  {
+    "korean": "ITC(GCH)KCG 전문",
+    "english": "ITC(GCH)KCG Message",
+    "meta": "itckcgtlg"
+  },
+  {
+    "korean": "외국환점포코드",
+    "english": "Foreign Branch Code",
+    "meta": "fognexchbrnchcd"
+  },
+  {
+    "korean": "폐쇄지점 관리지점",
+    "english": "CLSEed Branch Management",
+    "meta": "clsmgmtbrnch"
+  },
+  {
+    "korean": "폐쇄지점 관리지점",
+    "english": "CLSEed Branch Management",
+    "meta": "clsbrnchmgmtbrnch"
+  },
+  {
+    "korean": "외국환점포코드",
+    "english": "Foreign Branch Code",
+    "meta": "fognbrnchcd"
+  },
+  {
+    "korean": "ITC(GCH)KCG 전문",
+    "english": "ITC(GCH)KCG Message",
+    "meta": "lvbkcgmsg"
+  },
+  {
+    "korean": "LVBKCG 전문",
+    "english": "LVBKCG Message",
+    "meta": "itckcgmsg"
+  },
+  {
+    "korean": "F/E 채널 확인",
+    "english": "F/E Channel Indicator",
+    "meta": "fechnlindict"
+  },
+  {
+    "korean": "의뢰인정보",
+    "english": "Client Information",
+    "meta": "remterinfo"
+  },
+  {
+    "korean": "송신자명",
+    "english": "Sender Name",
+    "meta": "trsernm"
+  },
+  {
+    "korean": "수취계좌번호",
+    "english": "Beneficiary Account No",
+    "meta": "benefacctno"
+  },
+  {
+    "korean": "수취은행",
+    "english": "Beneficiary Bank Code",
+    "meta": "benefbnkcd"
+  },
+  {
+    "korean": "은행명(kor)",
+    "english": "Bank Name(kor)",
+    "meta": "bankkorname"
+  },
+  {
+    "korean": "은행명(eng)",
+    "english": "Bank Name(eng)",
+    "meta": "bankengname"
+  },
+  {
+    "korean": "이전 은행 코드",
+    "english": "Previous Bank Code",
+    "meta": "prevbankcd"
+  },
+  {
+    "korean": "KFTC 은행 코드",
+    "english": "KFTC Bank Code",
+    "meta": "kftcbankcd"
+  },
+  {
+    "korean": "[KCG-KFTC]프로세스이름",
+    "english": "[KCG-KFTC]Process Name",
+    "meta": "kcgkftcwrkflownm"
+  },
+  {
+    "korean": "[KCG-KFTC]프로세스날짜",
+    "english": "[KCG-KFTC]Date",
+    "meta": "kcgkftcwrkflowdt"
+  },
+  {
+    "korean": "[KCG-KFTC]시작시간",
+    "english": "[KCG-KFTC]Time From",
+    "meta": "kcgkftcfromtm"
+  },
+  {
+    "korean": "[KCG-KFTC]종료시간",
+    "english": "[KCG-KFTC]Time To",
+    "meta": "kcgkftctotm"
+  },
+  {
+    "korean": "[KCG]프로세스이름",
+    "english": "[KCG]Process Name",
+    "meta": "kcgwrkflownm"
+  },
+  {
+    "korean": "[KCG]프로세스날짜",
+    "english": "[KCG]Date",
+    "meta": "kcgwrkflowdt"
+  },
+  {
+    "korean": "[KCG]시작시간",
+    "english": "[KCG]Time From",
+    "meta": "kcgfromtm"
+  },
+  {
+    "korean": "[KCG]종료시간",
+    "english": "[KCG]Time To",
+    "meta": "kcgtotm"
+  },
+  {
+    "korean": "[KCG-LVB]프로세스이름",
+    "english": "[KCG-LVB]Process Name",
+    "meta": "kcglvbwrkflownm"
+  },
+  {
+    "korean": "[KCG-LVB]프로세스날짜",
+    "english": "[KCG-LVB]Date",
+    "meta": "kcglvbwrkflowdt"
+  },
+  {
+    "korean": "[KCG-LVB]시작시간",
+    "english": "[KCG-LVB]Time From",
+    "meta": "kcglvbwrkflowfromtm"
+  },
+  {
+    "korean": "[KCG-LVB]종료시간",
+    "english": "[KCG-LVB]Time To",
+    "meta": "kcglvbwrkflowtotm"
+  },
+  {
+    "korean": "결제원 전문번호",
+    "english": "KFTC Message No",
+    "meta": "kftcmsgno"
+  },
+  {
+    "korean": "종료시간",
+    "english": "Time To",
+    "meta": "totm"
+  },
+  {
+    "korean": "시작시간",
+    "english": "Time From",
+    "meta": "fromtm"
+  },
+  {
+    "korean": "검증자",
+    "english": "Checker ID",
+    "meta": "aprverid"
+  },
+  {
+    "korean": "수표조회",
+    "english": "Cheque Status Inquiry",
+    "meta": "checkinqry"
+  },
+  {
+    "korean": "수취인명",
+    "english": "Beneficiary Name",
+    "meta": "benefnm"
+  },
+  {
+    "korean": "계좌번호",
+    "english": "Account No",
+    "meta": "acctnbr"
+  },
+  {
+    "korean": "시스템일자",
+    "english": "System Date",
+    "meta": "sysdate"
+  },
+  {
+    "korean": "익영업일(+2)",
+    "english": "Next Business Day(+2)",
+    "meta": "combizday2"
+  },
+  {
+    "korean": "익영업일(+1)",
+    "english": "Next Business Day(+1)",
+    "meta": "combizday1"
+  },
+  {
+    "korean": "전영업일(-1)",
+    "english": "Previous Business Day(-1)",
+    "meta": "pastbizday1"
+  },
+  {
+    "korean": "전영업일(-2)",
+    "english": "Previous Business Day(-2)",
+    "meta": "pastbizday2"
+  },
+  {
+    "korean": "수표계좌번호",
+    "english": "Cheque Account No",
+    "meta": "checkacctno"
+  },
+  {
+    "korean": "수표금액",
+    "english": "Cheque Amount",
+    "meta": "checkamt"
+  },
+  {
+    "korean": "수표분류코드",
+    "english": "Cheque Code",
+    "meta": "checkcd"
+  },
+  {
+    "korean": "수표번호",
+    "english": "Cheque Number",
+    "meta": "checkno"
+  },
+  {
+    "korean": "수표발행일자",
+    "english": "Cheque Issuance Date",
+    "meta": "checkissudt"
+  },
+  {
+    "korean": "수표조회전문",
+    "english": "Cheque Status Inquiry Message",
+    "meta": "checkstsinqrytlg"
+  },
+  {
+    "korean": "출금계좌번호",
+    "english": "Payment Account No",
+    "meta": "whdrwlacctno"
+  },
+  {
+    "korean": "의뢰인정보",
+    "english": "Requestor Information",
+    "meta": "rcverinfo"
+  },
+  {
+    "korean": "자금성격",
+    "english": "Funds Type",
+    "meta": "fundtp"
+  },
+  {
+    "korean": "매체구분",
+    "english": "Medium Type",
+    "meta": "chnltp"
+  },
+  {
+    "korean": "출금인",
+    "english": "Remitter",
+    "meta": "whdrwer"
+  },
+  {
+    "korean": "거래금액",
+    "english": "Amount",
+    "meta": "tramt"
+  },
+  {
+    "korean": "수취계좌정보",
+    "english": "Beneficiary Account",
+    "meta": "benefacctinfo"
+  },
+  {
+    "korean": "취급은행",
+    "english": "Payer Bank",
+    "meta": "payerbnk"
+  },
+  {
+    "korean": "타행재이체",
+    "english": "Funds Transfer Retry",
+    "meta": "othrbnktrretry"
+  },
+  {
+    "korean": "타행이체취소",
+    "english": "Funds Transfer Cancellation",
+    "meta": "othrbnktrcncl"
+  },
+  {
+    "korean": "타행이체",
+    "english": "Funds Transfer",
+    "meta": "othrbnktr"
+  },
+  {
+    "korean": "타행이체수취조회",
+    "english": "Beneficiary Inquiry",
+    "meta": "othrbnktrbenefinqry"
+  },
+  {
+    "korean": "거래집계",
+    "english": "Transaction Summary",
+    "meta": "trtot"
+  },
+  {
+    "korean": "회선장애회복",
+    "english": "Line Recovery",
+    "meta": "linerecovery"
+  },
+  {
+    "korean": "종료예고",
+    "english": "Advance Notice of CLSEing",
+    "meta": "clseadvncenoti"
+  },
+  {
+    "korean": "시스템장애회복",
+    "english": "System Recovery",
+    "meta": "sysnrmliz"
+  },
+  {
+    "korean": "종료",
+    "english": "CLSEing",
+    "meta": "fnsh"
+  },
+  {
+    "korean": "개시",
+    "english": "Opening",
+    "meta": "start"
+  },
+  {
+    "korean": "거래구분 선택",
+    "english": "Select Transaction Type",
+    "meta": "seltxtp"
+  },
+  {
+    "korean": "타행이체거래전문",
+    "english": "Funds Transfer Message",
+    "meta": "fundtrmsg"
+  },
+  {
+    "korean": "통신망관리전문",
+    "english": "Network Management Message",
+    "meta": "netmgmtmsg"
+  },
+  {
+    "korean": "승인일",
+    "english": "Check of Date",
+    "meta": "chkdt"
+  },
+  {
+    "korean": "출금액",
+    "english": "Debit",
+    "meta": "debit"
+  },
+  {
+    "korean": "기준액",
+    "english": "Limit",
+    "meta": "lmtamt"
+  },
+  {
+    "korean": "결과",
+    "english": "Result",
+    "meta": "result"
+  },
+  {
+    "korean": "수정내용",
+    "english": "Update Detail",
+    "meta": "chngdtl"
+  },
+  {
+    "korean": "테스터",
+    "english": "Tester",
+    "meta": "tester"
+  },
+  {
+    "korean": "테스트 종료일",
+    "english": "Test End Date",
+    "meta": "testclsedt"
+  },
+  {
+    "korean": "테스트 시작일",
+    "english": "Test Start Date",
+    "meta": "testopndt"
+  },
+  {
+    "korean": "상세정보-사유",
+    "english": "Detail - Reason",
+    "meta": "dtlinforsn"
+  },
+  {
+    "korean": "상세정보-CLIENT",
+    "english": "Detail - Client",
+    "meta": "dtlinfoclient"
+  },
+  {
+    "korean": "상세정보-SERVER",
+    "english": "Detail - Server",
+    "meta": "dtlinfoserver"
+  },
+  {
+    "korean": "반영일",
+    "english": "Applied Date",
+    "meta": "stadt"
+  },
+  {
+    "korean": "제목",
+    "english": "Title",
+    "meta": "header"
+  },
+  {
+    "korean": "APP구분",
+    "english": "Application Type",
+    "meta": "appdvsn"
+  },
+  {
+    "korean": "등록일",
+    "english": "Register Date",
+    "meta": "entrydt"
+  },
+  {
+    "korean": "등록구분",
+    "english": "Register Type",
+    "meta": "entrytp"
+  },
+  {
+    "korean": "프로그램 HISTORY 관리 정보",
+    "english": "Program History Management Information",
+    "meta": "pgmhstmgmtlst"
+  },
+  {
+    "korean": "저장 경로",
+    "english": "Save Path",
+    "meta": "filepath"
+  },
+  {
+    "korean": "신청이름",
+    "english": "Application Name",
+    "meta": "rqstnm"
+  },
+  {
+    "korean": "업무",
+    "english": "Business",
+    "meta": "biz"
+  },
+  {
+    "korean": "은행이름",
+    "english": "Bank Name",
+    "meta": "banknm"
+  },
+  {
+    "korean": "은행코드",
+    "english": "Bank Code",
+    "meta": "bankcd"
+  },
+  {
+    "korean": "지점코드",
+    "english": "Branch Code",
+    "meta": "branchcd"
+  },
+  {
+    "korean": "지점이름",
+    "english": "Branch Name",
+    "meta": "branchnm"
+  },
+  {
+    "korean": "Char",
+    "english": "Char",
+    "meta": "str"
+  },
+  {
+    "korean": "코드ID",
+    "english": "Code ID",
+    "meta": "codeid"
+  },
+  {
+    "korean": "코드이름 (Full)",
+    "english": "Code Name (Full)",
+    "meta": "codefullnm"
+  },
+  {
+    "korean": "코드이름 (Short)",
+    "english": "Code Name (Short)",
+    "meta": "codeshrtnm"
+  },
+  {
+    "korean": "코드이름 (English)",
+    "english": "Code Name (English)",
+    "meta": "codeengnm"
+  },
+  {
+    "korean": "완료",
+    "english": "Completed",
+    "meta": "finish"
+  },
+  {
+    "korean": "재시도횟수",
+    "english": "Count of Reattempts",
+    "meta": "reattmpcnt"
+  },
+  {
+    "korean": "지연은행목록",
+    "english": "Delayed Bank List",
+    "meta": "lagbnklst"
+  },
+  {
+    "korean": "설명",
+    "english": "Description",
+    "meta": "comnt"
+  },
+  {
+    "korean": "종료통지",
+    "english": "End of Day Notice",
+    "meta": "clsedtnoti"
+  },
+  {
+    "korean": "종료",
+    "english": "End of Day",
+    "meta": "clsedt"
+  },
+  {
+    "korean": "종료시간",
+    "english": "End Time",
+    "meta": "clsetm"
+  },
+  {
+    "korean": "오류",
+    "english": "Error",
+    "meta": "err"
+  },
+  {
+    "korean": "업무시간연장",
+    "english": "Extended Service Hour",
+    "meta": "extndsvchoru"
+  },
+  {
+    "korean": "파일생성",
+    "english": "File Creation",
+    "meta": "makefile"
+  },
+  {
+    "korean": "파일송수신시간",
+    "english": "File Send/Receive Time",
+    "meta": "filetrtm"
+  },
+  {
+    "korean": "파일전송여부(Y/N)",
+    "english": "File Transmission (Y/N)",
+    "meta": "filetryn"
+  },
+  {
+    "korean": "휴일명",
+    "english": "Holiday Name",
+    "meta": "holidaynm"
+  },
+  {
+    "korean": "휴일",
+    "english": "Holiday",
+    "meta": "holiday"
+  },
+  {
+    "korean": "진행중",
+    "english": "In Progress",
+    "meta": "ing"
+  },
+  {
+    "korean": "내부프로세스이름",
+    "english": "Internal Process Name",
+    "meta": "inprcsnm"
+  },
+  {
+    "korean": "IPC 이름",
+    "english": "IPC Name",
+    "meta": "ipcname"
+  },
+  {
+    "korean": "IPC 구분",
+    "english": "IPC Type",
+    "meta": "ipctype"
+  },
+  {
+    "korean": "최종블럭번호",
+    "english": "Last Block Number",
+    "meta": "lstblocknbr"
+  },
+  {
+    "korean": "최종순서번호",
+    "english": "Last Sequence Number",
+    "meta": "lstseqnbr"
+  },
+  {
+    "korean": "레코드길이",
+    "english": "Length of Record",
+    "meta": "recordlen"
+  },
+  {
+    "korean": "지역 Queue",
+    "english": "Local Queue",
+    "meta": "areaque"
+  },
+  {
+    "korean": "로그일",
+    "english": "Log Date",
+    "meta": "logdate"
+  },
+  {
+    "korean": "로그시간",
+    "english": "Log Time",
+    "meta": "logtime"
+  },
+  {
+    "korean": "결번여부",
+    "english": "Missing Message (Y/N)",
+    "meta": "missnmsgyn"
+  },
+  {
+    "korean": "MQ상태",
+    "english": "MQ Status",
+    "meta": "mqstat"
+  },
+  {
+    "korean": "순채무한도",
+    "english": "Net Debit Cap",
+    "meta": "ndc"
+  },
+  {
+    "korean": "통신망상태",
+    "english": "Network Status",
+    "meta": "netstat"
+  },
+  {
+    "korean": "번호",
+    "english": "Number",
+    "meta": "nbr"
+  },
+  {
+    "korean": "개시",
+    "english": "Opening of Business",
+    "meta": "stabiz"
+  },
+  {
+    "korean": "개시시간",
+    "english": "Opening Time",
+    "meta": "statm"
+  },
+  {
+    "korean": "포트번호",
+    "english": "Port Number",
+    "meta": "portnbr"
+  },
+  {
+    "korean": "포트구분",
+    "english": "Port Type",
+    "meta": "portdvsn"
+  },
+  {
+    "korean": "프로세스날짜",
+    "english": "Process Date",
+    "meta": "wrkflowdt"
+  },
+  {
+    "korean": "프로세스이름",
+    "english": "Process Name",
+    "meta": "wrkflownm"
+  },
+  {
+    "korean": "프로세스 경로",
+    "english": "Process Path",
+    "meta": "wrkflowpath"
+  },
+  {
+    "korean": "프로세스시간 (토요일)",
+    "english": "Process Time (Saturday)",
+    "meta": "satwrkflowtm"
+  },
+  {
+    "korean": "프로세스시간 (주중)",
+    "english": "Process Time (Weekdays)",
+    "meta": "weekwrkflowtm"
+  },
+  {
+    "korean": "Queue관리자이름",
+    "english": "Queue Manager Name",
+    "meta": "queadminnm"
+  },
+  {
+    "korean": "읽기유형",
+    "english": "Reading Type",
+    "meta": "readmode"
+  },
+  {
+    "korean": "준비완료",
+    "english": "Ready",
+    "meta": "allset"
+  },
+  {
+    "korean": "기록길이",
+    "english": "Record Length",
+    "meta": "entrylen"
+  },
+  {
+    "korean": "기록건수",
+    "english": "Records Count",
+    "meta": "entrycnt"
+  },
+  {
+    "korean": "상대편 Queue",
+    "english": "Remote Queue",
+    "meta": "entryque"
+  },
+  {
+    "korean": "응답 Queue",
+    "english": "Reply Queue",
+    "meta": "respque"
+  },
+  {
+    "korean": "예정날짜",
+    "english": "Scheduled Date",
+    "meta": "plandt"
+  },
+  {
+    "korean": "예정시간",
+    "english": "Time Schedule",
+    "meta": "plantm"
+  },
+  {
+    "korean": "송수신일",
+    "english": "Send/Receive Date",
+    "meta": "txrxdt"
+  },
+  {
+    "korean": "송수신프로세스명",
+    "english": "Send/Receive Process Name",
+    "meta": "txrxprcnm"
+  },
+  {
+    "korean": "송수신시간 (토요일)",
+    "english": "Send/Receive Time (Saturday)",
+    "meta": "sattxrxtm"
+  },
+  {
+    "korean": "송수신시간 (주중)",
+    "english": "Send/Receive Time (Weekdays)",
+    "meta": "weektxrxtm"
+  },
+  {
+    "korean": "송수신",
+    "english": "Send/Receive",
+    "meta": "txrx"
+  },
+  {
+    "korean": "송수신여부",
+    "english": "Send/Receive Y/N",
+    "meta": "txrxyn"
+  },
+  {
+    "korean": "자점코드",
+    "english": "Subsidiary Branch Code",
+    "meta": "ownbrnchcd"
+  },
+  {
+    "korean": "시스템장애",
+    "english": "System Failure",
+    "meta": "syserror"
+  },
+  {
+    "korean": "TCP/IP상태",
+    "english": "TCP/IP Status",
+    "meta": "tcpipstat"
+  },
+  {
+    "korean": "거래일",
+    "english": "Transaction Date",
+    "meta": "txdt"
+  },
+  {
+    "korean": "거래ID",
+    "english": "Transaction ID",
+    "meta": "txid"
+  },
+  {
+    "korean": "거래이름",
+    "english": "Transaction Name",
+    "meta": "txnm"
+  },
+  {
+    "korean": "업데이트상태",
+    "english": "Update Status",
+    "meta": "updtstat"
+  },
+  {
+    "korean": "사용여부",
+    "english": "Use Y/N",
+    "meta": "actvyn"
+  },
+  {
+    "korean": "쓰기유형",
+    "english": "Writing Type",
+    "meta": "writemode"
+  },
+  {
+    "korean": "우편번호",
+    "english": "Zip Code",
+    "meta": "zipno"
+  },
+  {
+    "korean": "상태",
+    "english": "Status",
+    "meta": "stat"
+  },
+  {
+    "korean": "대상경로",
+    "english": "Object Path",
+    "meta": "targetpath"
+  },
+  {
+    "korean": "등록자",
+    "english": "Maker",
+    "meta": "regstar"
+  },
+  {
+    "korean": "등록일",
+    "english": "Registration Date",
+    "meta": "makedt"
+  },
+  {
+    "korean": "어플리케이션아이디",
+    "english": "Application ID",
+    "meta": "appserno"
+  },
+  {
+    "korean": "코드",
+    "english": "Code",
+    "meta": "code"
+  },
+  {
+    "korean": "포트",
+    "english": "Port",
+    "meta": "port"
+  },
+  {
+    "korean": "코드설명 (한글)",
+    "english": "Code Description (Kor)",
+    "meta": "cdkrcomnt"
+  },
+  {
+    "korean": "코드설명 (영어)",
+    "english": "Code Description (Eng)",
+    "meta": "cdengcomnt"
+  },
+  {
+    "korean": "검증자",
+    "english": "Authorizer ID",
+    "meta": ""
+  },
+  {
+    "korean": "검증일",
+    "english": "Authorization Date",
+    "meta": ""
+  },
+  {
+    "korean": "유형",
+    "english": "Type",
+    "meta": "kind"
+  },
+  {
+    "korean": "프로세스",
+    "english": "Process",
+    "meta": "wrkflow"
+  },
+  {
+    "korean": "실행",
+    "english": "Run",
+    "meta": "exec"
+  },
+  {
+    "korean": "정지",
+    "english": "Stop",
+    "meta": "pause"
+  },
+  {
+    "korean": "연결종료",
+    "english": "Disconnect",
+    "meta": "termnat"
+  },
+  {
+    "korean": "알람",
+    "english": "Timer",
+    "meta": "alarm"
+  },
+  {
+    "korean": "발생시간",
+    "english": "Time",
+    "meta": "time"
+  },
+  {
+    "korean": "정상",
+    "english": "Normal",
+    "meta": "normal"
+  },
+  {
+    "korean": "비정상",
+    "english": "Abnormal",
+    "meta": "abnormal"
+  },
+  {
+    "korean": "EFN 프로세스상태",
+    "english": "EFN Process Status",
+    "meta": "efnprcsstat"
+  },
+  {
+    "korean": "IFN 프로세스상태",
+    "english": "IFN Process Status",
+    "meta": "ifnprcsstat"
+  },
+  {
+    "korean": "BFT 프로세스상태",
+    "english": "BFT Process Status",
+    "meta": "bftprcsstat"
+  },
+  {
+    "korean": "SFT 프로세스상태",
+    "english": "SFT Process Status",
+    "meta": "sftprcsstat"
+  },
+  {
+    "korean": "EFN 통신망상태",
+    "english": "EFN Network Status",
+    "meta": "efnnetstat"
+  },
+  {
+    "korean": "IFT 통신망상태",
+    "english": "IFT Network Status",
+    "meta": "iftnetstat"
+  },
+  {
+    "korean": "SFT 통신망상태",
+    "english": "SFT Network Status",
+    "meta": "sftnetstat"
+  },
+  {
+    "korean": "예정시간시작",
+    "english": "Schedule Time From",
+    "meta": "schdtmfrom"
+  },
+  {
+    "korean": "예정시간종료",
+    "english": "Schedule Time To",
+    "meta": "schdtmto"
+  },
+  {
+    "korean": "송수신종료",
+    "english": "Send/Receive End",
+    "meta": "txrxend"
+  },
+  {
+    "korean": "거래시간",
+    "english": "Trans Time",
+    "meta": "txtm"
+  },
+  {
+    "korean": "거래일",
+    "english": "Trans Date",
+    "meta": "txdt"
+  },
+  {
+    "korean": "전문",
+    "english": "Message",
+    "meta": "msg"
+  },
+  {
+    "korean": "최종변경일",
+    "english": "Date of Last Update",
+    "meta": "lstupdtdt"
+  },
+  {
+    "korean": "블럭번호",
+    "english": "Block Number",
+    "meta": "blocknbr"
+  },
+  {
+    "korean": "순서번호",
+    "english": "Sequence Number",
+    "meta": "seqnbr"
+  },
+  {
+    "korean": "데이터",
+    "english": "Data",
+    "meta": "record"
+  },
+  {
+    "korean": "주소",
+    "english": "Address",
+    "meta": "address"
+  },
+  {
+    "korean": "팩스번호",
+    "english": "Fax No",
+    "meta": "faxnum"
+  },
+  {
+    "korean": "전화번호",
+    "english": "Telephon No",
+    "meta": "telnum"
+  },
+  {
+    "korean": "포트설명",
+    "english": "Port Description",
+    "meta": "portcomnt"
+  },
+  {
+    "korean": "검증",
+    "english": "Authentication",
+    "meta": "test"
+  },
+  {
+    "korean": "번호1",
+    "english": "Number1",
+    "meta": "num1"
+  },
+  {
+    "korean": "번호2",
+    "english": "Number2",
+    "meta": "num2"
+  },
+  {
+    "korean": "문자1",
+    "english": "Char1",
+    "meta": "str1"
+  },
+  {
+    "korean": "문자2",
+    "english": "Char2",
+    "meta": "str2"
+  },
+  {
+    "korean": "문자1",
+    "english": "Character1",
+    "meta": "string1"
+  },
+  {
+    "korean": "문자2",
+    "english": "Character2",
+    "meta": "string2"
+  },
+  {
+    "korean": "정렬",
+    "english": "Sort",
+    "meta": "order"
+  },
+  {
+    "korean": "송수신시간1시작",
+    "english": "Send/Receive Time1 From",
+    "meta": "txrxstatm1"
+  },
+  {
+    "korean": "송수신시간1종료",
+    "english": "Send/Receive Time1 To",
+    "meta": "txrxendtm1"
+  },
+  {
+    "korean": "송수신시간2시작",
+    "english": "Send/Receive Time2 From",
+    "meta": "txrxstatm2"
+  },
+  {
+    "korean": "송수신시간2종료",
+    "english": "Send/Receive Time2 To",
+    "meta": "txrxendtm2"
+  },
+  {
+    "korean": "송수신준비시간1시작",
+    "english": "Ip Time1 From",
+    "meta": "lpsndrcvstatm1"
+  },
+  {
+    "korean": "송수신준비시간1종료",
+    "english": "Ip Time1 To",
+    "meta": "lpsndrcvendtm1"
+  },
+  {
+    "korean": "송수준비신시간2시작",
+    "english": "Ip Time2 From",
+    "meta": "lpsndrcvstatm2"
+  },
+  {
+    "korean": "송수신준비시간2종료",
+    "english": "Ip Time2 To",
+    "meta": "lpsndrcvendtm2"
+  },
+  {
+    "korean": "은행망코드",
+    "english": "Bank Network Code",
+    "meta": "banknetcd"
+  },
+  {
+    "korean": "교환소",
+    "english": "Clearing Office",
+    "meta": "clearoffice"
+  },
+  {
+    "korean": "온라인코드",
+    "english": "Online Code",
+    "meta": "netcd"
+  },
+  {
+    "korean": "지역코드",
+    "english": "Area Code",
+    "meta": "localcd"
+  },
+  {
+    "korean": "수납코드",
+    "english": "Collection Code",
+    "meta": "colectcd"
+  },
+  {
+    "korean": "날짜",
+    "english": "Date",
+    "meta": "date"
+  },
+  {
+    "korean": "최종시간",
+    "english": "Last Time",
+    "meta": "lasttm"
+  },
+  {
+    "korean": "BOK 사용여부",
+    "english": "BOK Use (Y/N)",
+    "meta": "bokuseyn"
+  },
+  {
+    "korean": "BOK 사용여부",
+    "english": "BOK Use (Y/N)",
+    "meta": "bokactvyn"
+  },
+  {
+    "korean": "IFT 사용여부",
+    "english": "IFT Use (Y/N)",
+    "meta": "iftuseyn"
+  },
+  {
+    "korean": "IFT 사용여부",
+    "english": "IFT Use (Y/N)",
+    "meta": "iftactvyn"
+  },
+  {
+    "korean": "EFN 사용여부",
+    "english": "EFN Use (Y/N)",
+    "meta": "efnuseyn"
+  },
+  {
+    "korean": "EFN 사용여부",
+    "english": "EFN Use (Y/N)",
+    "meta": "efnactvyn"
+  }
+]
