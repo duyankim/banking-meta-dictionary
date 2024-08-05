@@ -1,26 +1,33 @@
 import streamlit as st
 import pandas as pd
 import json
+from collections import Counter
+import re
 
 def load_kftc_dictionary():
-    with open('./static/ent_dictionary.json', 'r', encoding='utf-8') as file:
-        return json.load(file)
+    all_dictionaries = ["ui", "com", "ift", "hof", "ent", "cms", "etc"]
+    combined_dict = []
+    for dictionary in all_dictionaries:
+        with open(f'./static/{dictionary}.json', 'r', encoding='utf-8') as file:
+            combined_dict.extend(json.load(file))
+    return combined_dict
+    
 
 def get_search_result(keywords, dictionary):
     results = []
     for keyword in keywords:
-        # Gather all partial matches for each keyword
-        matches = [entry['english'] for entry in dictionary if keyword in entry['korean']]
-        if matches:
-            results.append({
-                'Korean': keyword,
-                'English': ", ".join(matches)  # Join all matches into one string
-            })
-        else:
-            results.append({
-                'Korean': keyword,
-                'English': '(Not matched)'
-            })
+        matches = [entry for entry in dictionary if keyword in entry['korean']]
+        match_strings = [entry['english'] for entry in matches]
+        # Join all matches and split by commas to analyze word frequency
+        all_matches = ", ".join(match_strings)
+        words = re.split(r'\W+', all_matches)  # Split by non-word characters
+        most_common_word = Counter(words).most_common(1)[0][0] if words else '(Not matched)'
+
+        results.append({
+            'Korean': keyword,
+            'Matched Most': most_common_word,
+            'English': ", ".join(match_strings)
+        })
     return results
 
 def multi_search_page():
@@ -42,7 +49,8 @@ def multi_search_page():
             
             # Convert results to DataFrame
             df = pd.DataFrame(results)
-
+            df = df[['Korean', 'Matched Most', 'English']]  # Reorder columns as needed
+            
             # Optionally, you can hide the index to make the DataFrame look cleaner
             st.dataframe(df, width=700, height=800, use_container_width=True)
         else:
