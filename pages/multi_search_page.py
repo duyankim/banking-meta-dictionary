@@ -52,12 +52,6 @@ def multi_search_page():
             df = df[['Korean', 'Matched Most', 'English']]  # Reorder columns as needed
             
             # Optionally, you can hide the index to make the DataFrame look cleaner
-            st.dataframe(df, width=700, height=800, use_container_width=True)
+            st.dataframe(df, height=grid_height, use_container_width=True)
         else:
-            st.write("Please enter some keywords to search.")
-
-if __name__ == "__main__":
-    st.sidebar.title('Navigation')
-    st.sidebar.page_link("pages/single_search_page.py", label="단어 조회하기", icon="🔍")
-    st.sidebar.page_link("pages/multi_search_page.py", label="다건 조회하기", icon="📚")
-    multi_search_page()
+            st.write("단어를 입력해주세요.")

@@ -19,6 +19,8 @@ def load_dictionary(filter_option):
 def single_search_page():
     st.title('KFTC Meta Dictionary')
 
+    st.write("✅ 완벽하게 매칭되는 단어는 빨간색으로 표시됩니다.")
+
     # Select box for choosing the filter
     filter_option = st.selectbox("조건을 선택해주세요", ("All", "ui", "com", "ift", "hof", "ent", "cms", "etc"))
 
@@ -45,13 +47,7 @@ def single_search_page():
 
             styled_df = df.style.apply(style_specific_rows, axis=1)
             st.subheader(f'{keyword_input}에 대한 검색 결과')
-            grid_height = min(60 * len(df), 600)  # Adjust the height based on the number of results
-            st.dataframe(styled_df, height=grid_height)
+            # grid_height = min(60 * len(df), 600)  # Adjust the height based on the number of results
+            st.dataframe(styled_df, height=grid_height, use_container_width=True)
         else:
             st.write("검색 결과가 없습니다.")
-
-if __name__ == "__main__":
-    st.sidebar.title('Navigation')
-    st.sidebar.page_link("pages/single_search_page.py", label="단어 조회하기", icon="🔍")
-    st.sidebar.page_link("pages/multi_search_page.py", label="다건 조회하기", icon="📚")
-    single_search_page()
