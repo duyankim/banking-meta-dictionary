@@ -47,7 +47,7 @@ def single_search_page():
 
             styled_df = df.style.apply(style_specific_rows, axis=1)
             st.subheader(f'{keyword_input}에 대한 검색 결과')
-            # grid_height = min(60 * len(df), 600)  # Adjust the height based on the number of results
+            grid_height = min(60 * len(df), 600)  # Adjust the height based on the number of results
             st.dataframe(styled_df, height=grid_height, use_container_width=True)
         else:
             st.write("검색 결과가 없습니다.")

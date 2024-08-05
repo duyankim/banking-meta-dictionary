@@ -52,6 +52,7 @@ def multi_search_page():
             df = df[['Korean', 'Matched Most', 'English']]  # Reorder columns as needed
             
             # Optionally, you can hide the index to make the DataFrame look cleaner
+            grid_height = min(60 * len(df), 600)  #
             st.dataframe(df, height=grid_height, use_container_width=True)
         else:
             st.write("단어를 입력해주세요.")
