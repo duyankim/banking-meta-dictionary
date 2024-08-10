@@ -6,7 +6,7 @@ from service.single_search import get_search_result
 def load_dictionary(filter_option):
     """Loads data from specified JSON file or combines all if 'All'."""
     if filter_option == "All":
-        all_dictionaries = ["ui", "com", "ift", "hof", "ent", "cms", "etc"]
+        all_dictionaries = ["ui", "com", "ift", "hof", "ent", "cms"]
         combined_dict = []
         for dictionary in all_dictionaries:
             with open(f'./static/{dictionary}.json', 'r', encoding='utf-8') as file:
@@ -22,7 +22,7 @@ def single_search_page():
     st.write("✅ 완벽하게 매칭되는 단어는 빨간색으로 표시됩니다.")
 
     # Select box for choosing the filter
-    filter_option = st.selectbox("조건을 선택해주세요", ("All", "ui", "com", "ift", "hof", "ent", "cms", "etc"))
+    filter_option = st.selectbox("조건을 선택해주세요", ("All", "ui", "com", "ift", "hof", "ent", "cms"))
 
     # Load the appropriate dictionary based on the selected filter
     kftc_dictionary = load_dictionary(filter_option)

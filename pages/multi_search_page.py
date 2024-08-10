@@ -5,7 +5,7 @@ from collections import Counter
 import re
 
 def load_kftc_dictionary():
-    all_dictionaries = ["ui", "com", "ift", "hof", "ent", "cms", "etc"]
+    all_dictionaries = ["ui", "com", "ift", "hof", "ent", "cms"]
     combined_dict = []
     for dictionary in all_dictionaries:
         with open(f'./static/{dictionary}.json', 'r', encoding='utf-8') as file:
